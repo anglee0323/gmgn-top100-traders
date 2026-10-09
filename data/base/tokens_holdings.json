@@ -1,0 +1,803 @@
+[
+  {
+    "trader_handle": "krybharat",
+    "symbol": "DRV",
+    "token_address": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+    "chain": "base",
+    "usd_value": 51643.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "krybharat",
+    "symbol": "EDEL",
+    "token_address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
+    "chain": "base",
+    "usd_value": 11561.89,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x606d2c43",
+    "symbol": "IPOD",
+    "token_address": "0xa6af0cea8fbc93e1eccc00f1fdd9a0bba251fee1",
+    "chain": "base",
+    "usd_value": 432.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x606d2c43",
+    "symbol": "OMGSUP",
+    "token_address": "0x35ce817c28e6351a7c41e2d15c6808586d8fb11a",
+    "chain": "base",
+    "usd_value": 239.71,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x606d2c43",
+    "symbol": "LAPTOP",
+    "token_address": "0xb095274743941e953c746f9c228da9c18bb6ec29",
+    "chain": "base",
+    "usd_value": 1204.53,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x606d2c43",
+    "symbol": "POD",
+    "token_address": "0xed664536023d8e4b1640c394777d34abaff1df8f",
+    "chain": "base",
+    "usd_value": 2699.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x606d2c43",
+    "symbol": "MILK",
+    "token_address": "0x6e0090dbecf3b4f0f9429637756cadd8fc468c54",
+    "chain": "base",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Beautrj",
+    "symbol": "KEYRING",
+    "token_address": "0x9ee20304eb682081edf0d7e89fc3929c4ed3e336",
+    "chain": "base",
+    "usd_value": 695.23,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "Beautrj",
+    "symbol": "BLOHARD",
+    "token_address": "0xf8cd2835e9eb33c4b78cc5ceb7d602294eb99ba3",
+    "chain": "base",
+    "usd_value": 0.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 6
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "CREW",
+    "token_address": "0x23fe273f935eb0f0c4f2f2b36f1db0c8533ca24e",
+    "chain": "base",
+    "usd_value": 242.5,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "TWEETCRAFT",
+    "token_address": "0x4a0f01305a00f2d3f9d0eb8187bc45bba8d3bba3",
+    "chain": "base",
+    "usd_value": 1.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "BLOHARD",
+    "token_address": "0xc5c3ed6117eada5430458d2b21095089ad11bba3",
+    "chain": "base",
+    "usd_value": 1.43,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 6
+  },
+  {
+    "trader_handle": "jeffthedunker",
+    "symbol": "AERO",
+    "token_address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "chain": "base",
+    "usd_value": 60.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "jeffthedunker",
+    "symbol": "LAPTOP",
+    "token_address": "0xb095274743941e953c746f9c228da9c18bb6ec29",
+    "chain": "base",
+    "usd_value": 350.07,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "fhn_gt",
+    "symbol": "DRV",
+    "token_address": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+    "chain": "base",
+    "usd_value": 10249.65,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "100y_eth",
+    "symbol": "variableDebtBasUSDC",
+    "token_address": "0x59dca05b6c26dbd64b5381374aaac5cd05644c28",
+    "chain": "base",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "100y_eth",
+    "symbol": "cbBTC",
+    "token_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "chain": "base",
+    "usd_value": 4986.67,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "100y_eth",
+    "symbol": "UMIA",
+    "token_address": "0x56ab53b77f07da3af732150e8aec4783eb5bba7d",
+    "chain": "base",
+    "usd_value": 5424.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "100y_eth",
+    "symbol": "AERO",
+    "token_address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "chain": "base",
+    "usd_value": 1440.82,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "100y_eth",
+    "symbol": "DRV",
+    "token_address": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+    "chain": "base",
+    "usd_value": 409.83,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "gheezfn",
+    "symbol": "VVV",
+    "token_address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+    "chain": "base",
+    "usd_value": 11.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "gheezfn",
+    "symbol": "BLOHARD",
+    "token_address": "0xf8cd2835e9eb33c4b78cc5ceb7d602294eb99ba3",
+    "chain": "base",
+    "usd_value": 0.25,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 6
+  },
+  {
+    "trader_handle": "0xf99583d3",
+    "symbol": "WEI",
+    "token_address": "0xd47bdd392def5eebd46a1d8ebb234d28a2087321",
+    "chain": "base",
+    "usd_value": 74.53,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xf99583d3",
+    "symbol": "SI",
+    "token_address": "0x0b123112f58bb11eb6c843e426d397d258f5e0e5",
+    "chain": "base",
+    "usd_value": 101.57,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "GITLAWB",
+    "token_address": "0x5f980dcfc4c0fa3911554cf5ab288ed0eb13dba3",
+    "chain": "base",
+    "usd_value": 63.86,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "TWIG",
+    "token_address": "0x6ac18bcf4ede02591d4917452700ea5eaaea13c1",
+    "chain": "base",
+    "usd_value": 319.3,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "MUSEWORLD",
+    "token_address": "0x882c8e35504d58979b1280fe76d6553f717029f8",
+    "chain": "base",
+    "usd_value": 714.13,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pe___lu",
+    "symbol": "AMARA",
+    "token_address": "0xb200000000000000000000f7e3f89c5f0c9a0e01",
+    "chain": "base",
+    "usd_value": 129.84,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pe___lu",
+    "symbol": "HANDLES",
+    "token_address": "0xb2000000000000000000003d760a57f93078d901",
+    "chain": "base",
+    "usd_value": 67.55,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "alkuap",
+    "symbol": "DBULL",
+    "token_address": "0x685c168a8e14e75626a5bd8784827fc3a54f61be",
+    "chain": "base",
+    "usd_value": 111.35,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "alkuap",
+    "symbol": "KEEL",
+    "token_address": "0xd37259fac96b19263668b06455e08a7de5f1f41d",
+    "chain": "base",
+    "usd_value": 382.19,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "alkuap",
+    "symbol": "INTERN",
+    "token_address": "0xb200000000000000000000b1cffec52cbdd50a01",
+    "chain": "base",
+    "usd_value": 101.56,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xfd7e55a5",
+    "symbol": "CRAWLER",
+    "token_address": "0x535b0904333aa3265fbf90cbefc29448a1654ba3",
+    "chain": "base",
+    "usd_value": 0.73,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xfd7e55a5",
+    "symbol": "BLOHARD",
+    "token_address": "0xc5c3ed6117eada5430458d2b21095089ad11bba3",
+    "chain": "base",
+    "usd_value": 6.93,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 6
+  },
+  {
+    "trader_handle": "0xfd7e55a5",
+    "symbol": "ICECREAM",
+    "token_address": "0x2adab87730b9b3133767fc8ff5f24537b22e5a01",
+    "chain": "base",
+    "usd_value": 265.84,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xfd7e55a5",
+    "symbol": "TKN247",
+    "token_address": "0x474c853a5cec34ee4ae3ed3a60f2f81bf47b4101",
+    "chain": "base",
+    "usd_value": 260.58,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x98c43da6",
+    "symbol": "Trenchors",
+    "token_address": "0x3def25780ba11605b740888c30aaf00b01299401",
+    "chain": "base",
+    "usd_value": 587.64,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x98c43da6",
+    "symbol": "ANALYZOOOR",
+    "token_address": "0xb200000000000000000000a490a16c1823914c01",
+    "chain": "base",
+    "usd_value": 588.43,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "0x98c43da6",
+    "symbol": "MAPL",
+    "token_address": "0x386424628ffb21b3adea16260da791029851dba3",
+    "chain": "base",
+    "usd_value": 0.75,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CupseyV",
+    "symbol": "SI",
+    "token_address": "0x0b123112f58bb11eb6c843e426d397d258f5e0e5",
+    "chain": "base",
+    "usd_value": 198.79,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "CupseyV",
+    "symbol": "KEEL",
+    "token_address": "0xd37259fac96b19263668b06455e08a7de5f1f41d",
+    "chain": "base",
+    "usd_value": 257.12,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "CupseyV",
+    "symbol": "INTERN",
+    "token_address": "0xb20000000000000000000049fe88f09436a8e501",
+    "chain": "base",
+    "usd_value": 285.79,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "CupseyV",
+    "symbol": "ANALYZOOOR",
+    "token_address": "0xb200000000000000000000a490a16c1823914c01",
+    "chain": "base",
+    "usd_value": 723.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "賀羽",
+    "token_address": "0xd6ddb10e13991cbd336c462f98218dd71dc7ed01",
+    "chain": "base",
+    "usd_value": 245.54,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "Jez",
+    "token_address": "0xced5c6fa898047269a0d632ce1155618e5547501",
+    "chain": "base",
+    "usd_value": 269.67,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "dwog",
+    "token_address": "0x945421b1efad17e44100b8215470d4295ae4ae01",
+    "chain": "base",
+    "usd_value": 135.53,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "JEZ",
+    "token_address": "0xe1c257b0a7c9e47aa079c98a2c7c6e4476888c01",
+    "chain": "base",
+    "usd_value": 511.63,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x59905d5d",
+    "symbol": "GACHA",
+    "token_address": "0xd5a09d20652b58872a2e0f302de6ad2326db3b84",
+    "chain": "base",
+    "usd_value": 282.4,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x59905d5d",
+    "symbol": "SATO",
+    "token_address": "0x40f1468f1d03413397c007fb22cdbe7525cb2ba3",
+    "chain": "base",
+    "usd_value": 1.13,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x59905d5d",
+    "symbol": "BAES",
+    "token_address": "0xa9f6d9eca1f803854a13cecad0f21d43e007db07",
+    "chain": "base",
+    "usd_value": 963.08,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xJyEth",
+    "symbol": "CFT",
+    "token_address": "0x3e7712cf29164432efc6ef0aa669c10b674efe43",
+    "chain": "base",
+    "usd_value": 416.2,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xJyEth",
+    "symbol": "STONKFLY",
+    "token_address": "0x9b83c2f3c1975bf4b6cc04f8d3f6bc1e98e38ba3",
+    "chain": "base",
+    "usd_value": 1142.45,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "technoviking46",
+    "symbol": "TOSHI",
+    "token_address": "0x1543c40c665813a7df31240f78aac6c585441501",
+    "chain": "base",
+    "usd_value": 659.79,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "technoviking46",
+    "symbol": "AIAIAIAI",
+    "token_address": "0xeeb306e87ff7257bbd34f46672d9a6d654de6a01",
+    "chain": "base",
+    "usd_value": 181.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "technoviking46",
+    "symbol": "CASHDOG",
+    "token_address": "0xb200000000000000000000c1d2725783e0258101",
+    "chain": "base",
+    "usd_value": 717.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "technoviking46",
+    "symbol": "UNDERDOG",
+    "token_address": "0xfbdd6537bfd6f0ea75140706286f48c9aa210ba3",
+    "chain": "base",
+    "usd_value": 0.34,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "whashywash",
+    "symbol": "BLOHARD",
+    "token_address": "0xf8cd2835e9eb33c4b78cc5ceb7d602294eb99ba3",
+    "chain": "base",
+    "usd_value": 2.18,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 6
+  },
+  {
+    "trader_handle": "whashywash",
+    "symbol": "TT",
+    "token_address": "0xb2000000000000000000009fa907b9ee019c4801",
+    "chain": "base",
+    "usd_value": 267.02,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "whashywash",
+    "symbol": "AiFi",
+    "token_address": "0xb20000000000000000000082020a3d274058fe01",
+    "chain": "base",
+    "usd_value": 265.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "HIP",
+    "token_address": "0x419678eca38411c051ec42166a434b9fda89bba3",
+    "chain": "base",
+    "usd_value": 3.31,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "frostyyy",
+    "symbol": "ANALYZOOOR",
+    "token_address": "0xb200000000000000000000a490a16c1823914c01",
+    "chain": "base",
+    "usd_value": 716.43,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "frostyyy",
+    "symbol": "Duo",
+    "token_address": "0xb200000000000000000000874f97ee8ebf639701",
+    "chain": "base",
+    "usd_value": 240.9,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "frostyyy",
+    "symbol": "STOCK",
+    "token_address": "0x30d0bdc3b62a19f9244172064e446cfc67007777",
+    "chain": "base",
+    "usd_value": 439.29,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xyukaz",
+    "symbol": "Trenchors",
+    "token_address": "0x3def25780ba11605b740888c30aaf00b01299401",
+    "chain": "base",
+    "usd_value": 732.89,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xyukaz",
+    "symbol": "cats",
+    "token_address": "0xb200000000000000000000b44efcd1ccbc24c801",
+    "chain": "base",
+    "usd_value": 651.95,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xyukaz",
+    "symbol": "KEYRING",
+    "token_address": "0x9ee20304eb682081edf0d7e89fc3929c4ed3e336",
+    "chain": "base",
+    "usd_value": 1413.89,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xyukaz",
+    "symbol": "BLOHARD",
+    "token_address": "0xf8cd2835e9eb33c4b78cc5ceb7d602294eb99ba3",
+    "chain": "base",
+    "usd_value": 3.78,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 6
+  },
+  {
+    "trader_handle": "0xyukaz",
+    "symbol": "WAIFU",
+    "token_address": "0xf3018d16d3c75f86df76bdeed12027c813f4e4a0",
+    "chain": "base",
+    "usd_value": 633.53,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "collet9094",
+    "symbol": "TOSHI",
+    "token_address": "0x1543c40c665813a7df31240f78aac6c585441501",
+    "chain": "base",
+    "usd_value": 155.96,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "gold_burger",
+    "symbol": "JEZ",
+    "token_address": "0xe1c257b0a7c9e47aa079c98a2c7c6e4476888c01",
+    "chain": "base",
+    "usd_value": 129.77,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "gold_burger",
+    "symbol": "fastlane",
+    "token_address": "0x27c97b9d686ca33ff40ba6526daa3dc35d083ba3",
+    "chain": "base",
+    "usd_value": 171.24,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rcivNFT",
+    "symbol": "SILKROAD",
+    "token_address": "0x3cec64b00367343b1a67497be61e6f4d1b2fee3b",
+    "chain": "base",
+    "usd_value": 46.71,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rcivNFT",
+    "symbol": "CLAW",
+    "token_address": "0xc0a3a4c7134cd9ee983473e1650cd27d2f8fcba3",
+    "chain": "base",
+    "usd_value": 112.89,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rcivNFT",
+    "symbol": "Ya’ll sold?!?!",
+    "token_address": "0x64967458b94242e0fca18083e4671bbbba2e3213",
+    "chain": "base",
+    "usd_value": 231.96,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rcivNFT",
+    "symbol": "EVE",
+    "token_address": "0xe7d192e52fa418236d6eecf7d5eb38da9dd11ba3",
+    "chain": "base",
+    "usd_value": 1182.74,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rcivNFT",
+    "symbol": "CONQUEST",
+    "token_address": "0x42ba7fdb40086c0171df267b43c83cd464a89ba3",
+    "chain": "base",
+    "usd_value": 509.3,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rcivNFT",
+    "symbol": "CRYPT",
+    "token_address": "0xaac102beeac8becb38ae4fe0a209c10fdce05ba3",
+    "chain": "base",
+    "usd_value": 221.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "teddi_speaks",
+    "symbol": "BASEPAD",
+    "token_address": "0xaeadc7084bc3c482921a8ad7eadc65f70e06106d",
+    "chain": "base",
+    "usd_value": 8.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "teddi_speaks",
+    "symbol": "cbBTC",
+    "token_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "chain": "base",
+    "usd_value": 2.76,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "teddi_speaks",
+    "symbol": "ELON",
+    "token_address": "0xa3d353743164972b37c8e5358fb1e76f0be8aba3",
+    "chain": "base",
+    "usd_value": 16.44,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Rex416_NFT",
+    "symbol": "stkAVNT",
+    "token_address": "0xd546040f08e6b3a4f1d21683b9bd9935d73bd9e9",
+    "chain": "base",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Rex416_NFT",
+    "symbol": "MYST",
+    "token_address": "0xdc46c1e93b71ff9209a0f8076a9951569dc35855",
+    "chain": "base",
+    "usd_value": 7.19,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Rex416_NFT",
+    "symbol": "toby",
+    "token_address": "0xb8d98a102b0079b69ffbc760c8d857a31653e56e",
+    "chain": "base",
+    "usd_value": 7.07,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Rex416_NFT",
+    "symbol": "HYBUX",
+    "token_address": "0xc0497fb3fc4fd0a17900cf69fc72a03799915301",
+    "chain": "base",
+    "usd_value": 468.95,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Rex416_NFT",
+    "symbol": "ZORA",
+    "token_address": "0x1111111111166b7fe7bd91427724b487980afc69",
+    "chain": "base",
+    "usd_value": 13.57,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xa12fa237",
+    "symbol": "WHUF",
+    "token_address": "0xeeee77bc7e82c0d4166d52f58239d4c5bf41eeee",
+    "chain": "base",
+    "usd_value": 767.13,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SmolHydra",
+    "symbol": "NOCK",
+    "token_address": "0x9b5e262cf9bb04869ab40b19af91d2dc85761722",
+    "chain": "base",
+    "usd_value": 36.86,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SmolHydra",
+    "symbol": "BOOBS",
+    "token_address": "0xd08e74ccc28b31cc73e1c9c693ee8136cbede562",
+    "chain": "base",
+    "usd_value": 4.6,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SmolHydra",
+    "symbol": "cbBTC",
+    "token_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+    "chain": "base",
+    "usd_value": 1040.15,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  }
+]

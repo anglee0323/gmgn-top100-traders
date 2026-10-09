@@ -1,0 +1,965 @@
+[
+  {
+    "trader_handle": "JackieTian7",
+    "symbol": "STOCKER",
+    "token_address": "0x75e2fc69ff2ac12af65ba7d321bbf4f878c535d2",
+    "chain": "ethereum",
+    "usd_value": 146.03,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "JackieTian7",
+    "symbol": "WALLET",
+    "token_address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
+    "chain": "ethereum",
+    "usd_value": 150.71,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "JackieTian7",
+    "symbol": "SASHA",
+    "token_address": "0x93c2bd80cadcfeb541eb5af4052375bde8d6f24f",
+    "chain": "ethereum",
+    "usd_value": 40.03,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "JackieTian7",
+    "symbol": "FEARNOT",
+    "token_address": "0x51d4b72e6f7b4f5be826e8d215be32ce49273cf2",
+    "chain": "ethereum",
+    "usd_value": 45.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "JackieTian7",
+    "symbol": "SMR",
+    "token_address": "0x66746941e7415d9cc6c711b39aa8dbd6b1214252",
+    "chain": "ethereum",
+    "usd_value": 56.28,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "UNI",
+    "token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "chain": "ethereum",
+    "usd_value": 10321.68,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "fwWBTC",
+    "token_address": "0x2078f336fdd260f708bec4a20c82b063274e1b23",
+    "chain": "ethereum",
+    "usd_value": 2162.24,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "fwCOINon",
+    "token_address": "0x5b6727f343289bc69ba1e8d6589f0c7d6eafc468",
+    "chain": "ethereum",
+    "usd_value": 1125.19,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "ONDO",
+    "token_address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+    "chain": "ethereum",
+    "usd_value": 733.01,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "fwUNI",
+    "token_address": "0xe8e1f50392bd61d0f8f48e8e7af51d3b8a52090a",
+    "chain": "ethereum",
+    "usd_value": 31151.26,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "fwWLFI",
+    "token_address": "0x2164bd3e2d8b58850f646f35ab7c95360327e7f3",
+    "chain": "ethereum",
+    "usd_value": 388.22,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x51f9d44c",
+    "symbol": "CRV",
+    "token_address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "chain": "ethereum",
+    "usd_value": 1174.15,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x55f34221",
+    "symbol": "NOOP",
+    "token_address": "0x60257050ffbdb310e63139cb0bbb58baeb46dbed",
+    "chain": "ethereum",
+    "usd_value": 2119.45,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x55f34221",
+    "symbol": "HOOKY",
+    "token_address": "0x9f8d3ceccb3ca886cd43635d47611a248ea461d1",
+    "chain": "ethereum",
+    "usd_value": 981.13,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x55f34221",
+    "symbol": "OG",
+    "token_address": "0xce7eb1ad9e2e1c784ea05f7ea4a0fe625923d10a",
+    "chain": "ethereum",
+    "usd_value": 1025.94,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "ETHOHM",
+    "token_address": "0xa5d7015dbb1433d6840cd322b8a5c5b2f10a40af",
+    "chain": "ethereum",
+    "usd_value": 152.39,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "MOTE",
+    "token_address": "0x5a0e6e073a555723cc2eea2402e6545a3aecad87",
+    "chain": "ethereum",
+    "usd_value": 162.05,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "CAIRN",
+    "token_address": "0x0d992116e3fa195f0d97f01775342cfb96a39dbd",
+    "chain": "ethereum",
+    "usd_value": 331.29,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jTRIzPyo5nApJmo",
+    "symbol": "variableDebtEthUSDT",
+    "token_address": "0x6df1c1e379bc5a00a7b4c6e67a203333772f45a8",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jTRIzPyo5nApJmo",
+    "symbol": "STRCx",
+    "token_address": "0x1aad217b8f78dba5e6693460e8470f8b1a3977f3",
+    "chain": "ethereum",
+    "usd_value": 3232.54,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jTRIzPyo5nApJmo",
+    "symbol": "USDf",
+    "token_address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+    "chain": "ethereum",
+    "usd_value": 3721.71,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jTRIzPyo5nApJmo",
+    "symbol": "sUSDf",
+    "token_address": "0xc8cf6d7991f15525488b2a83df53468d682ba4b0",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jTRIzPyo5nApJmo",
+    "symbol": "NUSD",
+    "token_address": "0xe556aba6fe6036275ec1f87eda296be72c811bce",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x6bba7df6",
+    "symbol": "ZTO",
+    "token_address": "0xd782bdea4ef02a0bd391eb9089470c8080f0a68e",
+    "chain": "ethereum",
+    "usd_value": 1868.29,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "UNITS",
+    "token_address": "0x95f8fbbab96207e8e4e0e5fa75f62e797e0aebcd",
+    "chain": "ethereum",
+    "usd_value": 45.85,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "OWL",
+    "token_address": "0x93e0350ecd5b8a340c80aa06847bae11a5982ad5",
+    "chain": "ethereum",
+    "usd_value": 195.42,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "KLN",
+    "token_address": "0x2cadc4f2660bb77a118b0e74fc9e48e935b3a1bf",
+    "chain": "ethereum",
+    "usd_value": 295.43,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "erichsu_eth",
+    "symbol": "CLAUS",
+    "token_address": "0x1b54e762aa34cf6e28e9c082f2848e28e45da6b8",
+    "chain": "ethereum",
+    "usd_value": 75.53,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "0xleet",
+    "symbol": "VPAD",
+    "token_address": "0xeb17ebe8f1e9aaedc2f566373fcbf210f3977777",
+    "chain": "ethereum",
+    "usd_value": 238.43,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xleet",
+    "symbol": "BUNKER",
+    "token_address": "0xceee8178c512f4541d5e33ede3cc821b0cf51361",
+    "chain": "ethereum",
+    "usd_value": 124.06,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "0xleet",
+    "symbol": "EPOCH",
+    "token_address": "0xa9fb402446f6ac3a73013882b68242040405e7db",
+    "chain": "ethereum",
+    "usd_value": 262.79,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xcd211569",
+    "symbol": "SIMD",
+    "token_address": "0xbb0c1f82a2ea0253ea3d91c2f05caded82133415",
+    "chain": "ethereum",
+    "usd_value": 714.93,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xcd211569",
+    "symbol": "JOTCHUA",
+    "token_address": "0x808c16ace7404777fe24a6777a9cb2335aa82451",
+    "chain": "ethereum",
+    "usd_value": 260.74,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xcd211569",
+    "symbol": "STOCKER",
+    "token_address": "0x75e2fc69ff2ac12af65ba7d321bbf4f878c535d2",
+    "chain": "ethereum",
+    "usd_value": 3290.47,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xcd211569",
+    "symbol": "VOBL",
+    "token_address": "0x1df8f9f4c2385a1d679977a594fecb7acb69d831",
+    "chain": "ethereum",
+    "usd_value": 21.12,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 4
+  },
+  {
+    "trader_handle": "0xcd211569",
+    "symbol": "KLIK",
+    "token_address": "0x5886e4d8d6a41a5ea2f3f77f23d7a7e942d581f1",
+    "chain": "ethereum",
+    "usd_value": 752.25,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xc05ef5e1",
+    "symbol": "REPv2",
+    "token_address": "0x221657776846890989a759ba2973e427dff5c9bb",
+    "chain": "ethereum",
+    "usd_value": 673.86,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xc05ef5e1",
+    "symbol": "TXT",
+    "token_address": "0xb12907dcd65e09871bbd6f1659436f3be310af65",
+    "chain": "ethereum",
+    "usd_value": 243.96,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xc05ef5e1",
+    "symbol": "BUNKER",
+    "token_address": "0x244eed1118c8cea41f6612594a20f639797371bf",
+    "chain": "ethereum",
+    "usd_value": 1256.67,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "milady",
+    "symbol": "WPRL",
+    "token_address": "0x07696dcab55e62cfef953666b29fe1970518cb00",
+    "chain": "ethereum",
+    "usd_value": 871.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "milady",
+    "symbol": "ZC",
+    "token_address": "0x4e67db19044549ff420860834c91b45bad298722",
+    "chain": "ethereum",
+    "usd_value": 880.67,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "milady",
+    "symbol": "FWA",
+    "token_address": "0xa0df17b5ac76ababa36e1450e2cbcd18a620c845",
+    "chain": "ethereum",
+    "usd_value": 218.34,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "GENIUSGUY",
+    "token_address": "0x3de249eb0508ddbc7eae9be945929ea83662d670",
+    "chain": "ethereum",
+    "usd_value": 144.77,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "XMAN",
+    "token_address": "0xabc54d3c4b0d32e5dc4e5933c5ad20ac8dcbe374",
+    "chain": "ethereum",
+    "usd_value": 349.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "NESTED",
+    "token_address": "0x189d8e88c075d551448868b82e45324e26d4d011",
+    "chain": "ethereum",
+    "usd_value": 581.58,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "BANSUN",
+    "token_address": "0x59f62cf35b108d80cbd3a00672ebbe26b7ffcf2e",
+    "chain": "ethereum",
+    "usd_value": 291.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "SYDE",
+    "token_address": "0x566068770d7830e96ba85cc7345263e90d094fe4",
+    "chain": "ethereum",
+    "usd_value": 152.18,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "BRAIN",
+    "token_address": "0x22cea166fb4e22bda777ea32090e67deef52d1c4",
+    "chain": "ethereum",
+    "usd_value": 280.12,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x07f190b1",
+    "symbol": "KLN",
+    "token_address": "0x2cadc4f2660bb77a118b0e74fc9e48e935b3a1bf",
+    "chain": "ethereum",
+    "usd_value": 542.7,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x07f190b1",
+    "symbol": "KFA",
+    "token_address": "0x99e3db9728b3c2136ac5edfd392d915fb3df706e",
+    "chain": "ethereum",
+    "usd_value": 122.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x07f190b1",
+    "symbol": "DEFIB",
+    "token_address": "0x38f6163796b8a48c460b07f862b26b0e7c23a152",
+    "chain": "ethereum",
+    "usd_value": 53.15,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x07f190b1",
+    "symbol": "VOBL",
+    "token_address": "0x1df8f9f4c2385a1d679977a594fecb7acb69d831",
+    "chain": "ethereum",
+    "usd_value": 91.75,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 4
+  },
+  {
+    "trader_handle": "justinsuntron",
+    "symbol": "sUSDS",
+    "token_address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "justinsuntron",
+    "symbol": "steakETH",
+    "token_address": "0xbeef0046fcab1de47e41fb75bb3dc4dfc94108e3",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "justinsuntron",
+    "symbol": "gtWETH",
+    "token_address": "0x2371e134e3455e0593363cbf89d3b6cf53740618",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x5420ba3a",
+    "symbol": "ETH",
+    "token_address": "0x1577a206571b57cfebffdb358878a1657b13a224",
+    "chain": "ethereum",
+    "usd_value": 122.54,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x5420ba3a",
+    "symbol": "PMD",
+    "token_address": "0xc786cbf210e3ba8a5a45786356b859b8082c9d72",
+    "chain": "ethereum",
+    "usd_value": 1727.24,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x5420ba3a",
+    "symbol": "HELIX",
+    "token_address": "0x9c355950bd5634ef2b2935d356075c7c19b2386a",
+    "chain": "ethereum",
+    "usd_value": 422.92,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "yodacalls",
+    "symbol": "INFER",
+    "token_address": "0x392d21adc365031239b1d8cf5239f4a513b7e1a7",
+    "chain": "ethereum",
+    "usd_value": 18.09,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "yodacalls",
+    "symbol": "UNI",
+    "token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "chain": "ethereum",
+    "usd_value": 33.93,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "yodacalls",
+    "symbol": "NOOP",
+    "token_address": "0x27fd594d58fb467658a1fd8ab67833c536eb4bd6",
+    "chain": "ethereum",
+    "usd_value": 417.84,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "yodacalls",
+    "symbol": "HOOKY",
+    "token_address": "0x9f8d3ceccb3ca886cd43635d47611a248ea461d1",
+    "chain": "ethereum",
+    "usd_value": 59.93,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "yodacalls",
+    "symbol": "OP_CAT",
+    "token_address": "0x36b1ce80bb896885c28781627054824cb1a71532",
+    "chain": "ethereum",
+    "usd_value": 175.06,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SuperL9",
+    "symbol": "CAPYBARA",
+    "token_address": "0x8a678978ea347bf827333b6478713c9edab2dddb",
+    "chain": "ethereum",
+    "usd_value": 73.16,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SuperL9",
+    "symbol": "SM",
+    "token_address": "0x906182408fb4c0bf4948fe8c24c4105ad236c9ee",
+    "chain": "ethereum",
+    "usd_value": 244.35,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SuperL9",
+    "symbol": "TITS",
+    "token_address": "0xb31deed00c4590a13e319a9a67df1c839b5fb406",
+    "chain": "ethereum",
+    "usd_value": 146.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "DaniWorldwide",
+    "symbol": "OPIUM",
+    "token_address": "0x7698136f5a4334d684bb9fe24cc5b0ce9eaf9b6d",
+    "chain": "ethereum",
+    "usd_value": 1271.87,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "DaniWorldwide",
+    "symbol": "VOBL",
+    "token_address": "0x1df8f9f4c2385a1d679977a594fecb7acb69d831",
+    "chain": "ethereum",
+    "usd_value": 945.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 4
+  },
+  {
+    "trader_handle": "DaniWorldwide",
+    "symbol": "BUNKER",
+    "token_address": "0xceee8178c512f4541d5e33ede3cc821b0cf51361",
+    "chain": "ethereum",
+    "usd_value": 1414.09,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "DaniWorldwide",
+    "symbol": "Condo",
+    "token_address": "0x8c35610d868e67c6189ab45bf39819583293214c",
+    "chain": "ethereum",
+    "usd_value": 1004.62,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "aa_AFeng",
+    "symbol": "QI",
+    "token_address": "0xbdaa766dc144568d85506dc696a655a1f7e4ff63",
+    "chain": "ethereum",
+    "usd_value": 121.74,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "aa_AFeng",
+    "symbol": "TSUJI",
+    "token_address": "0xa478adbaad995b73d481449f932619f03d4f25a0",
+    "chain": "ethereum",
+    "usd_value": 780.73,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "aa_AFeng",
+    "symbol": "GATSBY",
+    "token_address": "0x5d0ebc4ec5ac18d30512fb6287886245061b3dbd",
+    "chain": "ethereum",
+    "usd_value": 339.36,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "aa_AFeng",
+    "symbol": "SNOWMOON",
+    "token_address": "0x9f14215dd4c57b5eae0c6f69a5bf74fcaf13cccc",
+    "chain": "ethereum",
+    "usd_value": 1596.36,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "aa_AFeng",
+    "symbol": "TREMOR",
+    "token_address": "0xb2331c729e6dc15c908e4c4451bb96aa0adc4b6f",
+    "chain": "ethereum",
+    "usd_value": 437.3,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "aa_AFeng",
+    "symbol": "RTR",
+    "token_address": "0x28ae4a13de3055a557f900e2e5307da4ea5761bb",
+    "chain": "ethereum",
+    "usd_value": 507.25,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Unipioneer",
+    "symbol": "CLAUS",
+    "token_address": "0x1b54e762aa34cf6e28e9c082f2848e28e45da6b8",
+    "chain": "ethereum",
+    "usd_value": 2025.62,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "dev_enjoys",
+    "symbol": "FT",
+    "token_address": "0x5dd1a7a369e8273371d2dbf9d83356057088082c",
+    "chain": "ethereum",
+    "usd_value": 573.14,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x40c20da8",
+    "symbol": "wstETH",
+    "token_address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "chain": "ethereum",
+    "usd_value": 55510.2,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x40c20da8",
+    "symbol": "stETH",
+    "token_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "chain": "ethereum",
+    "usd_value": 388.32,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0x40c20da8",
+    "symbol": "MATIC",
+    "token_address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+    "chain": "ethereum",
+    "usd_value": 256.39,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "BMooon97_",
+    "symbol": "CLAUS",
+    "token_address": "0x1b54e762aa34cf6e28e9c082f2848e28e45da6b8",
+    "chain": "ethereum",
+    "usd_value": 3083.92,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "BMooon97_",
+    "symbol": "ZC",
+    "token_address": "0x2ca7b61b23b15e75ac7ab60dd6f627895d64a46e",
+    "chain": "ethereum",
+    "usd_value": 1747.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "BMooon97_",
+    "symbol": "wildebeest",
+    "token_address": "0x57737ded3870e43fed7d80d31e0ced3d5fb0cccc",
+    "chain": "ethereum",
+    "usd_value": 1875.72,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "XIGUA0903",
+    "symbol": "TITS",
+    "token_address": "0x21932f83b9dec882632eaccdd98f1abd97054d5e",
+    "chain": "ethereum",
+    "usd_value": 1083.85,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "XIGUA0903",
+    "symbol": "BLASTAR",
+    "token_address": "0x9694470872d2cd49262f43ab1b723aad4c354759",
+    "chain": "ethereum",
+    "usd_value": 333.98,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "XIGUA0903",
+    "symbol": "SpaceXSi",
+    "token_address": "0x427fba590b9c9d3b3bf4ca01d949fa6c0c16f488",
+    "chain": "ethereum",
+    "usd_value": 632.4,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "XIGUA0903",
+    "symbol": "MELDAN",
+    "token_address": "0x50f437defbe6bcb0f666e798242cf4cfe3fe0cc4",
+    "chain": "ethereum",
+    "usd_value": 588.56,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Zemrics",
+    "symbol": "DEFIB",
+    "token_address": "0x38f6163796b8a48c460b07f862b26b0e7c23a152",
+    "chain": "ethereum",
+    "usd_value": 533.59,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "Zemrics",
+    "symbol": "VOBL",
+    "token_address": "0x7f8195defe284cadf5be432cdd606bcc1b87c0f6",
+    "chain": "ethereum",
+    "usd_value": 371.16,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 4
+  },
+  {
+    "trader_handle": "Zemrics",
+    "symbol": "BINGUS",
+    "token_address": "0x769aa362f01a76777f2ee92bbc67821468b22763",
+    "chain": "ethereum",
+    "usd_value": 367.75,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Zemrics",
+    "symbol": "BELIEVE",
+    "token_address": "0xbe74508926de8f45d95ca1ed293d9711016eee6f",
+    "chain": "ethereum",
+    "usd_value": 445.18,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SlikkneSs",
+    "symbol": "PQCETH",
+    "token_address": "0xa5a04e0ebba4aa4e49d2870b69275635ee51083f",
+    "chain": "ethereum",
+    "usd_value": 532.59,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SlikkneSs",
+    "symbol": "TAUFA",
+    "token_address": "0x44e8e5d61e27e51cd18ff068661a80f8cdedf3ee",
+    "chain": "ethereum",
+    "usd_value": 1259.2,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "SlikkneSs",
+    "symbol": "SCAT",
+    "token_address": "0x54c68a4d0a21dbb1ad72faa052db159d26f967ea",
+    "chain": "ethereum",
+    "usd_value": 871.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xcce7222e",
+    "symbol": "OWL",
+    "token_address": "0x93e0350ecd5b8a340c80aa06847bae11a5982ad5",
+    "chain": "ethereum",
+    "usd_value": 595.79,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xcce7222e",
+    "symbol": "Altruists",
+    "token_address": "0xaf27cc9fa185e5c1dc5c2578360698c255ba03a0",
+    "chain": "ethereum",
+    "usd_value": 219.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xcce7222e",
+    "symbol": "CYBERBEAST",
+    "token_address": "0x48fbefb99de8c802120f87c84e0ab4e3e8bf9b85",
+    "chain": "ethereum",
+    "usd_value": 256.06,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xcce7222e",
+    "symbol": "TREMOR",
+    "token_address": "0x953b304a1fd288c6619b9b24cd3f543e80975f48",
+    "chain": "ethereum",
+    "usd_value": 109.63,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "VERSE",
+    "token_address": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+    "chain": "ethereum",
+    "usd_value": 119.67,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "BAT",
+    "token_address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "chain": "ethereum",
+    "usd_value": 2500.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "RYU",
+    "token_address": "0xca530408c3e552b020a2300debc7bd18820fb42f",
+    "chain": "ethereum",
+    "usd_value": 386.32,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "ETHx",
+    "token_address": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
+    "chain": "ethereum",
+    "usd_value": 1330.4,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "EIGEN",
+    "token_address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "ZRO",
+    "token_address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "chain": "ethereum",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "apxUSD",
+    "token_address": "0x98a878b1cd98131b271883b390f68d2c90674665",
+    "chain": "ethereum",
+    "usd_value": 4949.2,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xbee242d3",
+    "symbol": "stETH",
+    "token_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "chain": "ethereum",
+    "usd_value": 7456.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  }
+]

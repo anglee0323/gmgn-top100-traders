@@ -1,25 +1,29 @@
-# GMGN All-Time Top 100 Traders: Solana On-Chain Intelligence Dataset
+# GMGN All-Time Top 100 Traders: Multichain Intelligence Dataset
 
 [English](README.md) | [简体中文](README_CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Snapshot: 2026--10--10](https://img.shields.io/badge/snapshot-2026--10--10_01%3A55_UTC-blue.svg)](data/)
+[![Snapshot: 2026--10--10](https://img.shields.io/badge/snapshot-2026--10--10_02%3A15_UTC-blue.svg)](data/)
 
-Open-source historical dataset covering the **All-Time Top 100 traders on Solana** from the GMGN platform (`gmgn.ai`).
+Open-source historical dataset covering the **All-Time Top 100 traders across 5 major blockchains** from the GMGN platform (`gmgn.ai`).
 
-This repository is a **static historical snapshot captured on 2026-10-10 01:55:00 UTC**. It provides pure offline data artifacts for quantitative trading research, wallet profiling, backtesting, and machine learning without subjective commentary or external runtime dependencies.
+This repository is a **static historical snapshot captured on 2026-10-10 02:15:00 UTC**. It provides pure offline data artifacts for quantitative trading research, wallet profiling, backtesting, and machine learning without subjective commentary or external runtime dependencies.
 
-Includes **100% unmasked Solana wallet addresses**, lifetime realized profit, win rates across multiple horizons (1d, 7d, 30d, all-time), trade frequency, profit multiplier distributions (>5x, 2x-5x, <-50%), average holding durations, multi-chain balances, genesis funding wallet provenance, and a **pre-normalized feature matrix**.
+Includes **500 unmasked wallet addresses (100 per chain)** across **Solana, BSC, Base, Robinhood, and Ethereum**, lifetime realized profit, win rates across multiple horizons (1d, 7d, 30d, all-time), trade frequency, profit multiplier distributions (>5x, 2x-5x, <-50%), average holding durations, multi-chain balances, genesis funding wallet provenance, and a **pre-normalized feature matrix**.
 
 ---
 
 ## Dataset Scope & Snapshot Info
 
-* **Snapshot Timestamp**: `2026-10-10 01:55:00 UTC`
+* **Snapshot Timestamp**: `2026-10-10 02:15:00 UTC`
 * **Data State**: Immutable offline archive
-* **Tracked Entities**: 100 All-Time Leaderboard Trader Profiles
-* **Primary Blockchain**: Solana (native base58 addresses)
-* **Tracked Cross-Chain Balances**: Solana, Ethereum, Robinhood, Arc, Monad, Tron
+* **Tracked Entities**: 500 All-Time Leaderboard Trader Profiles (100 per chain)
+* **Supported Blockchains**:
+  * **Solana (`data/sol/`)**: 100 traders (native base58 addresses)
+  * **BSC (`data/bsc/`)**: 100 traders (BNB Smart Chain EVM `0x...` addresses)
+  * **Base (`data/base/`)**: 100 traders (Base L2 EVM `0x...` addresses)
+  * **Robinhood (`data/robinhood/`)**: 100 traders (Robinhood chain EVM `0x...` addresses)
+  * **Ethereum (`data/eth/`)**: 100 traders (Ethereum mainnet EVM `0x...` addresses)
 * **Key Metrics**: Lifetime Realized PnL, Multi-horizon Win Rates, Multiplier Breakdown, Genesis Funder Address & Funding Transaction Hash
 
 ---
@@ -33,30 +37,35 @@ gmgn-top100-traders/
 ├── pyproject.toml                 # Project metadata
 ├── LICENSE                        # MIT License
 └── data/
-    ├── traders_profiles.csv       # Tabular profiles (rank, unmasked wallets, lifetime PnL, win rates, funder)
-    ├── traders_profiles.json      # Structured nested JSON of all trader profiles
-    ├── tokens_holdings.csv        # Traded tokens and positions (trader, symbol, contract, USD value)
+    ├── traders_profiles.csv       # Aggregate 500 profiles across all 5 chains
+    ├── traders_profiles.json      # Structured nested JSON of all 500 profiles
+    ├── tokens_holdings.csv        # Aggregate tokens holdings across all 5 chains
     ├── tokens_holdings.json       # Structured token list
-    ├── ml_features.csv            # Pre-normalized feature matrix for clustering and classification
-    └── shared_tokens_graph.json   # Inter-trader co-trading network graph
+    ├── ml_features.csv            # Pre-normalized 500-trader feature matrix
+    ├── shared_tokens_graph.json   # Multi-chain token co-trading network graph
+    ├── sol/                       # Solana Top 100 dedicated folder (profiles, tokens, ML features)
+    ├── bsc/                       # BSC Top 100 dedicated folder (profiles, tokens, ML features)
+    ├── base/                      # Base Top 100 dedicated folder (profiles, tokens, ML features)
+    ├── robinhood/                 # Robinhood Top 100 dedicated folder (profiles, tokens, ML features)
+    └── eth/                       # Ethereum Top 100 dedicated folder (profiles, tokens, ML features)
 ```
 
 ---
 
 ## Data Schema & Field Dictionary
 
-### 1. `data/traders_profiles.csv`
+### 1. `data/traders_profiles.csv` (and per-chain files)
 
 | Column | Type | Description |
 | :--- | :--- | :--- |
-| `rank` | Integer | Overall all-time ranking index (1 to 100) |
+| `rank` | Integer | Leaderboard rank within corresponding chain (1 to 100) |
 | `handle` | String | Primary trader identifier (Twitter username or wallet prefix) |
 | `name` | String | Display name or alias |
 | `x_username` | String | Bound Twitter handle (if available) |
-| `wallet_address` | String | Complete unmasked Solana native wallet address (base58) |
+| `wallet_address` | String | Complete unmasked wallet address (base58 on Solana, `0x...` on EVM) |
 | `address_status` | String | Verification status (`unmasked`) |
 | `total_realized_profit_usd` | Float | Verified lifetime realized profit in USD |
-| `primary_chain` | String | Primary trading chain (`solana`) |
+| `primary_chain` | String | Chain origin (`solana`, `bsc`, `base`, `robinhood`, `ethereum`) |
 | `sol_balance` | Float | Native Solana balance tracked |
 | `eth_balance` | Float | Cross-chain Ethereum balance tracked |
 | `robinhood_balance` | Float | Robinhood chain balance tracked |
@@ -88,7 +97,7 @@ gmgn-top100-traders/
 | `pnl_lt_minus_dot5_count` | Integer | Count of positions resulting in loss greater than 50% |
 | `fund_from_address` | String | Genesis funding wallet address (initial fund provenance) |
 | `fund_tx_hash` | String | Genesis funding transaction hash |
-| `fund_amount_sol` | Float | Initial funding deposit amount in SOL |
+| `fund_amount_sol` | Float | Initial funding deposit amount (native coin) |
 | `followers_x` | Integer | Twitter follower count |
 | `archetype` | String | Quantitative behavioral archetype classification |
 | `hhi_concentration` | Float | Herfindahl-Hirschman Index portfolio concentration |
@@ -104,10 +113,10 @@ gmgn-top100-traders/
 | `trader_handle` | String | Associated trader handle |
 | `symbol` | String | Token ticker symbol |
 | `token_address` | String | On-chain token mint / contract address |
-| `chain` | String | Blockchain network (`solana`) |
+| `chain` | String | Blockchain network (`solana`, `bsc`, `base`, `robinhood`, `ethereum`) |
 | `usd_value` | Float | Position or execution value in USD |
 | `portfolio_share_pct` | Float | Portfolio allocation percentage |
-| `co_holders_count` | Integer | Count of other top 100 traders holding or trading this token |
+| `co_holders_count` | Integer | Count of other top traders holding or trading this token |
 
 ---
 
@@ -118,8 +127,8 @@ Pre-computed numerical feature matrix for machine learning pipelines (clustering
 | Feature Name | Description |
 | :--- | :--- |
 | `handle` | Trader handle |
-| `rank` | Leaderboard rank index |
-| `wallet_address` | Unmasked Solana wallet address |
+| `rank` | Chain rank index |
+| `wallet_address` | Unmasked wallet address |
 | `log_realized_profit` | $\log_{10}(\text{Realized Profit USD})$ |
 | `winrate_all_pct` | Lifetime win rate percentage |
 | `winrate_30d_pct` | 30-day win rate percentage |
@@ -144,31 +153,21 @@ Pre-computed numerical feature matrix for machine learning pipelines (clustering
 ```python
 import pandas as pd
 
-# Load trader profiles
-profiles = pd.read_csv("data/traders_profiles.csv")
+# Load aggregate 500 trader profiles across all chains
+all_profiles = pd.read_csv("data/traders_profiles.csv")
+print(f"Total profiles: {len(all_profiles)}")
 
-# Filter high win-rate traders with >$1M profit
-elite_traders = profiles[
-    (profiles["realized_profit_all_usd"] > 1_000_000) &
-    (profiles["winrate_all_pct"] > 60.0)
-]
-print(elite_traders[["rank", "name", "wallet_address", "realized_profit_all_usd", "winrate_all_pct"]])
+# Load dedicated BSC dataset
+bsc_profiles = pd.read_csv("data/bsc/traders_profiles.csv")
+print(f"BSC Top 1: {bsc_profiles.iloc[0]['name']} - PnL: ${bsc_profiles.iloc[0]['realized_profit_all_usd']:,.2f}")
 
-# Inspect genesis funding sources
-funding_clusters = profiles.groupby("fund_from_address")["wallet_address"].count()
-print(funding_clusters[funding_clusters > 1])
-```
-
-### Python (JSON)
-
-```python
-import json
-
-with open("data/traders_profiles.json", "r") as f:
-    traders = json.load(f)
-
-print(f"Total profiles loaded: {len(traders)}")
-print(f"Top 1 Trader: {traders[0]['name']} ({traders[0]['wallet_address']})")
+# Compare win rates across chains
+chain_summary = all_profiles.groupby("primary_chain").agg({
+    "realized_profit_all_usd": "mean",
+    "winrate_all_pct": "mean",
+    "trades_count_all": "mean"
+})
+print(chain_summary)
 ```
 
 ---

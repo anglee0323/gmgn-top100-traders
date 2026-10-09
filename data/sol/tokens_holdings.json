@@ -1,0 +1,866 @@
+[
+  {
+    "trader_handle": "frankdegods",
+    "symbol": "AnyPS5",
+    "token_address": "CWKbSd7jwMXXexP3pbwLAWMzr4HXAXTvt4R9pk2Vyyyc",
+    "chain": "solana",
+    "usd_value": 3256.93,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "frankdegods",
+    "symbol": "COIN",
+    "token_address": "J7bhFegCHZAeRzdYDwmbSp1CJ1bDJkutSg26B4SXpump",
+    "chain": "solana",
+    "usd_value": 222.97,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "frankdegods",
+    "symbol": "TWEETCRAFT",
+    "token_address": "HzYCHqAN2uoHGRnL9v2ChCfFQX3bvJuJd5zu2Hd5MZQy",
+    "chain": "solana",
+    "usd_value": 281.28,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "notdecu",
+    "symbol": "Muskrat",
+    "token_address": "Gd8CyJt1j93eMFhLd39BmcUmgTKhU8tqKioF9Bmnb5St",
+    "chain": "solana",
+    "usd_value": 2.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "notdecu",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 2.7,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "notdecu",
+    "symbol": "GOON",
+    "token_address": "J2wFmjjKyiFZUDXn5JtCAPSRt2sDZLH1kqX9RE38pump",
+    "chain": "solana",
+    "usd_value": 295.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "CookerFlips",
+    "symbol": "HOOKED",
+    "token_address": "C1mBfBoDkwWfd6uTFZp62ARHLjeVp3bDpCDMfMZtPngE",
+    "chain": "solana",
+    "usd_value": 3724.86,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "theonomix",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 331.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "theonomix",
+    "symbol": "DUCK",
+    "token_address": "HA8VAssvGYpRT7f1qbKWBu1tFN1NahVnYVpGs284uY7m",
+    "chain": "solana",
+    "usd_value": 335.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "trunoest",
+    "symbol": "Muskrat",
+    "token_address": "Gd8CyJt1j93eMFhLd39BmcUmgTKhU8tqKioF9Bmnb5St",
+    "chain": "solana",
+    "usd_value": 2.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "trunoest",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 2.7,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "trunoest",
+    "symbol": "SCAM",
+    "token_address": "Ef4kVqwLbZbT6v5nmTAAdXz7aR7VrsaGb2L5ucZa6A7t",
+    "chain": "solana",
+    "usd_value": 200.63,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Limfork",
+    "symbol": "SIQ",
+    "token_address": "H3qohLn7pJPadsd9GvZvKzCDvbd5SLkfhapUyrLJpump",
+    "chain": "solana",
+    "usd_value": 389.55,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Limfork",
+    "symbol": "0",
+    "token_address": "EaNHa8ptX1676w1H4KymsX7pyiYpQpkbzFWMQaRvpump",
+    "chain": "solana",
+    "usd_value": 260.34,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "CKcWAvvDYr",
+    "symbol": "PAWS",
+    "token_address": "2x3kudsxqCWdWeZA1vSNr9uKkHUBQG81m5mBGRAPpump",
+    "chain": "solana",
+    "usd_value": 644.25,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CKcWAvvDYr",
+    "symbol": "OTC",
+    "token_address": "DmfofxYZXXXcLSqEHHEHUsBo42rpwc1WZWqF6ySaPr81",
+    "chain": "solana",
+    "usd_value": 158.35,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0GAntD",
+    "symbol": "PLAY",
+    "token_address": "PLaYu3PKhGqtmvuwp7GuyTY1PG6JkwgE7R45Zqystar",
+    "chain": "solana",
+    "usd_value": 543.73,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0GAntD",
+    "symbol": "HeeHaw",
+    "token_address": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump",
+    "chain": "solana",
+    "usd_value": 216.93,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0GAntD",
+    "symbol": "MEMECHAN",
+    "token_address": "9vHPLDY6wa9ZkNBNZoWcv2AABdiNj97tpHc3u56npump",
+    "chain": "solana",
+    "usd_value": 2468.6,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0GAntD",
+    "symbol": "GLUE",
+    "token_address": "NpqoucNKKJ62PwikH4NBvTm3R7mgREXoTtv7nJSGLUE",
+    "chain": "solana",
+    "usd_value": 1287.39,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "NVDAx",
+    "token_address": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+    "chain": "solana",
+    "usd_value": 1.7,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "SI",
+    "token_address": "DEW9dSN6QpWyNthphCpMmAbZP1Q4cEKR9xQXAri98WDP",
+    "chain": "solana",
+    "usd_value": 1.7,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "ANSEM",
+    "token_address": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+    "chain": "solana",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "TUNG",
+    "token_address": "4ftcDzp7n5ex2fZjLBvm8t1vM7qd1oZ2KCUbxygRzncW",
+    "chain": "solana",
+    "usd_value": 0.04,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "SPYx",
+    "token_address": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+    "chain": "solana",
+    "usd_value": 1.26,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "CSI",
+    "token_address": "4g7LEhkECaD7nCuybEBi4dLBXYq6qtWbjgCR4pzk44mn",
+    "chain": "solana",
+    "usd_value": 1.26,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "BABA",
+    "token_address": "BABANGA4JE7Kkam4nTrALAwAVgsNJUuFJnnkF7S16BZp",
+    "chain": "solana",
+    "usd_value": 2.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TobxG",
+    "symbol": "CI",
+    "token_address": "FSQJ1g8apkd6WA7hSsx9Kexgm5dRqzbZVczze5GDW4BF",
+    "chain": "solana",
+    "usd_value": 2.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "3g4D4n67vU",
+    "symbol": "SAPLING",
+    "token_address": "BZFYNPeQAEW3HWQ4DNsTVahC1n4ZjTgn6jB2nnBbB96W",
+    "chain": "solana",
+    "usd_value": 1656.89,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "3g4D4n67vU",
+    "symbol": "ZEC",
+    "token_address": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+    "chain": "solana",
+    "usd_value": 1703.46,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "3g4D4n67vU",
+    "symbol": "cbBTC",
+    "token_address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+    "chain": "solana",
+    "usd_value": 337.58,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "3g4D4n67vU",
+    "symbol": "STONKCATS",
+    "token_address": "9h5AzEQzYu9CV5K6uLtFRMD1KcbxZSFNxZEgBTNfw5Na",
+    "chain": "solana",
+    "usd_value": 258.44,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "AlxCooks_off",
+    "symbol": "SCAMINU",
+    "token_address": "CGWNqBjMnDzqZWMnVYhULtrdxYn6gHfweJBoUmi4Aqr1",
+    "chain": "solana",
+    "usd_value": 5.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "AlxCooks_off",
+    "symbol": "PUMP",
+    "token_address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "chain": "solana",
+    "usd_value": 5.44,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "imsheepsol",
+    "symbol": "Beaver",
+    "token_address": "FBdKVqosXfaFTBgYephqfATxms5BxJk4q2TPa7fmpLNw",
+    "chain": "solana",
+    "usd_value": 1.07,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "imsheepsol",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 1.08,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "nyhrox",
+    "symbol": "CARDS",
+    "token_address": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+    "chain": "solana",
+    "usd_value": 10.03,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "nyhrox",
+    "symbol": "RACE",
+    "token_address": "RACEyWiM2ztEZcJx2AHXU2eWjhxU57x3vXn92b39dLD",
+    "chain": "solana",
+    "usd_value": 205.48,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "nyhrox",
+    "symbol": "PUMP",
+    "token_address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "chain": "solana",
+    "usd_value": 156.01,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "nyhrox",
+    "symbol": "ATTENTION",
+    "token_address": "6vniSFwHXQg7dSwmfmnaH94hYtJ8ihuzm1ixt8313Hc5",
+    "chain": "solana",
+    "usd_value": 650.09,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Cupseyy",
+    "symbol": "NEUROQUANT",
+    "token_address": "8VYfdeDeFBRFLbWSDap6cv5FsJc7sC9Batv8yPCEpump",
+    "chain": "solana",
+    "usd_value": 58.72,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "Cupseyy",
+    "symbol": "TP",
+    "token_address": "BctFsB2NaoKZcqXxhFFvDAJ4vdgxuunsg1g5m8CSEQDN",
+    "chain": "solana",
+    "usd_value": 318.01,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "TheRealZrool",
+    "symbol": "AI",
+    "token_address": "B9eSt4XiQ6wpaUJB7dt6Mpv93NvtVuJVQkLqVnXTnTMo",
+    "chain": "solana",
+    "usd_value": 156.63,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "TheRealZrool",
+    "symbol": "open/acc",
+    "token_address": "3n2f6cBDyZvpJsyCJQ2rGQp5r4ohvV4JEhvNF5jfpump",
+    "chain": "solana",
+    "usd_value": 102.37,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "F9zT1F46HA",
+    "symbol": "AMBANI",
+    "token_address": "G7HnczhvQCzEjFkNpxkHekDywcTuXCKqhjgUesE98NLt",
+    "chain": "solana",
+    "usd_value": 168.54,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "F9zT1F46HA",
+    "symbol": "UNBOX",
+    "token_address": "rtMJ3z4za85jw2ZF8XELydNXXmMTYYaUNmqe6cXwBox",
+    "chain": "solana",
+    "usd_value": 96.59,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "2kW5wLFQw1",
+    "symbol": "RACE",
+    "token_address": "RACEyWiM2ztEZcJx2AHXU2eWjhxU57x3vXn92b39dLD",
+    "chain": "solana",
+    "usd_value": 619.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "2kW5wLFQw1",
+    "symbol": "RARI",
+    "token_address": "EFn88CiiFHhihqdr1Y11XBDxbbYarBf1ij92DsrigYwR",
+    "chain": "solana",
+    "usd_value": 619.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Tahifn",
+    "symbol": "HIMS",
+    "token_address": "HiMSSzzwkZkrXJ4PGVJRdtfLaANeAztjjcgk5Dxe7Lwx",
+    "chain": "solana",
+    "usd_value": 215.81,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Tahifn",
+    "symbol": "goon",
+    "token_address": "HSUMi4rMgjrx7zRUabw3ogGu1pa5hmF2eVcXj9Apump",
+    "chain": "solana",
+    "usd_value": 215.91,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "Tahifn",
+    "symbol": "HeeHaw",
+    "token_address": "EEpng77ZPn9FbgbT4xsRjwuxNCcMBYq3HTwEscyTpump",
+    "chain": "solana",
+    "usd_value": 431.59,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "radiancebrr",
+    "symbol": "AMBANI",
+    "token_address": "G7HnczhvQCzEjFkNpxkHekDywcTuXCKqhjgUesE98NLt",
+    "chain": "solana",
+    "usd_value": 210.39,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "radiancebrr",
+    "symbol": "UNBOX",
+    "token_address": "rtMJ3z4za85jw2ZF8XELydNXXmMTYYaUNmqe6cXwBox",
+    "chain": "solana",
+    "usd_value": 78.17,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "H2KMZofxpU",
+    "symbol": "CLAY",
+    "token_address": "4LBzGyaRha2yLDVNevW6SYr2xHa4SWH8MZuMEFyr24CB",
+    "chain": "solana",
+    "usd_value": 387.76,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "H2KMZofxpU",
+    "symbol": "DONE",
+    "token_address": "26ZjoNtHCEoQc4GiDnC1VVq3BBn4p2A5ayKi3wBipump",
+    "chain": "solana",
+    "usd_value": 171.64,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "H2KMZofxpU",
+    "symbol": "HOOKI",
+    "token_address": "3ykvcjrzbb5nyJRnzHVEA12sQsZfnTijwxUusN4f8R3R",
+    "chain": "solana",
+    "usd_value": 218.98,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Cupseyy",
+    "symbol": "NEUROQUANT",
+    "token_address": "8VYfdeDeFBRFLbWSDap6cv5FsJc7sC9Batv8yPCEpump",
+    "chain": "solana",
+    "usd_value": 56.25,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "Cupseyy",
+    "symbol": "TP",
+    "token_address": "BctFsB2NaoKZcqXxhFFvDAJ4vdgxuunsg1g5m8CSEQDN",
+    "chain": "solana",
+    "usd_value": 44.65,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "SNAP",
+    "token_address": "SNAPcESrvnH8yUdgeMF6xm1hym9b6hW6s8YeqeHdZFz",
+    "chain": "solana",
+    "usd_value": 3.89,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "SPCXx",
+    "token_address": "Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
+    "chain": "solana",
+    "usd_value": 11.39,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "Broccoli",
+    "token_address": "8kM28rxpZ17ccSnRSjn3cX7tccg99DBBAFfgKxGkZdDF",
+    "chain": "solana",
+    "usd_value": 1.52,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "broccoli",
+    "token_address": "AadGiUbAFp4FzEFFbQfJuBhwqS6oSKyrNoTeLbTDpump",
+    "chain": "solana",
+    "usd_value": 1.58,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "ETHAN",
+    "token_address": "GnzCtX3eBsu17ZirfK4GmxoCq22oRHVqS4reJQeHvQ9Y",
+    "chain": "solana",
+    "usd_value": 1.49,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "Silvergooner",
+    "token_address": "5s2WpbREPJqGZG7jMXRoDWrPtiSkWRvG6s58HB51pump",
+    "chain": "solana",
+    "usd_value": 1.35,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "PROSPER",
+    "token_address": "2zjnxjoL5mRv4xpYuk6iMzp1VxyX6Fc2NzXyHX5Dpump",
+    "chain": "solana",
+    "usd_value": 1.14,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "pr6spr",
+    "symbol": "Ethan",
+    "token_address": "H8AHUbGsLZ4bxQSTtYgWnKghMEBpkcYyARnZkUTKpump",
+    "chain": "solana",
+    "usd_value": 1.12,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "daumenxyz",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 132.33,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "daumenxyz",
+    "symbol": "LARKSPUR",
+    "token_address": "BNaRZam2Y1PMzEMuSZ5y6mauViocPTpTuDdwoDMKpump",
+    "chain": "solana",
+    "usd_value": 134.94,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "daumenxyz",
+    "symbol": "ZION",
+    "token_address": "5oD9H8JBYQJmzTQtgnypejqs4zAWYxw2cKi82gnSpump",
+    "chain": "solana",
+    "usd_value": 116.75,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "daumenxyz",
+    "symbol": "CoC",
+    "token_address": "27WxDJvuFUg1TxGKoDyQ8FGhPWdDrqYrePm78snapump",
+    "chain": "solana",
+    "usd_value": 297.68,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "daumenxyz",
+    "symbol": "Catastrophic",
+    "token_address": "tHNjantHAh5FMPx1QRi4NBi1uLkX58Kbywx4HgX79bU",
+    "chain": "solana",
+    "usd_value": 143.83,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CryptoRilsio",
+    "symbol": "0",
+    "token_address": "EaNHa8ptX1676w1H4KymsX7pyiYpQpkbzFWMQaRvpump",
+    "chain": "solana",
+    "usd_value": 410.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "CryptoRilsio",
+    "symbol": "Kibrit",
+    "token_address": "73wm6msGs3oNB9gcgJZdqSuKUwskvrjrACCcvk1Mpump",
+    "chain": "solana",
+    "usd_value": 129.74,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xLake",
+    "symbol": "STRK",
+    "token_address": "HsRpHQn6VbyMs5b5j5SV6xQ2VvpvvCCzu19GjytVSCoz",
+    "chain": "solana",
+    "usd_value": 49.63,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xLake",
+    "symbol": "TONY",
+    "token_address": "5mADE4Y4Fci6Ycgt5Mt4T8GHc84HcEy9quW7C3f15v6r",
+    "chain": "solana",
+    "usd_value": 49.73,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xLake",
+    "symbol": "SCAT",
+    "token_address": "66ZXRfHeigbBWR7mh8FUWKvcL5V6Vw2DBZfns3xuQjcG",
+    "chain": "solana",
+    "usd_value": 228.96,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "RTP",
+    "token_address": "DVwBdvSEP7zBehNBjE19deWpgmULSC4UJ62YGqTg3fsn",
+    "chain": "solana",
+    "usd_value": 299.16,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "MEMECHAN",
+    "token_address": "9vHPLDY6wa9ZkNBNZoWcv2AABdiNj97tpHc3u56npump",
+    "chain": "solana",
+    "usd_value": 889.11,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "CAPYBARA",
+    "token_address": "3xrw3JKyaSYjzksYc8nrZE1kReQAxoHT3epi3P1mpZVf",
+    "chain": "solana",
+    "usd_value": 542.48,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 548.05,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "QBTC",
+    "token_address": "zmvhp6GmmTgpkpL4v6sobHgAmuJkkZwUFDYLz5S1Bwz",
+    "chain": "solana",
+    "usd_value": 218.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "JCAT",
+    "token_address": "DendBuwMu2afwavjNJPaozFoJJ7u9fLyk2LD1oCwjupx",
+    "chain": "solana",
+    "usd_value": 879.62,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "J56M2D9Bei",
+    "symbol": "JUP",
+    "token_address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+    "chain": "solana",
+    "usd_value": 879.68,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "itsthurstxn",
+    "symbol": "PQC",
+    "token_address": "7K52aYQW9rWGjwZmQ7o2d1P6E7bji6hSMsqaLy5EcxLh",
+    "chain": "solana",
+    "usd_value": 465.63,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "itsthurstxn",
+    "symbol": "Blockrock",
+    "token_address": "F8Tnm9dFzZXqz3zaE3LvCJxXvNS3oCouUBezcuc1pump",
+    "chain": "solana",
+    "usd_value": 71.26,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jijo_exe",
+    "symbol": "after",
+    "token_address": "137N9QFjtpoYm9ss6iCC2dnC6yBB2TfBebwnUgwQkXsD",
+    "chain": "solana",
+    "usd_value": 558.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "jijo_exe",
+    "symbol": "Tsuchi",
+    "token_address": "AKFsFgMT6z9jNp3LBsoXmYp7ZWfJPT7tkKF8ZakFLqX4",
+    "chain": "solana",
+    "usd_value": 465.35,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "wukong_bl",
+    "symbol": "SHIELD",
+    "token_address": "8TUn4HHBybSR4oatWshpeM7i1keT5esWCZE6zc8EB1uC",
+    "chain": "solana",
+    "usd_value": 107.04,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "wukong_bl",
+    "symbol": "ZEC",
+    "token_address": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+    "chain": "solana",
+    "usd_value": 109.46,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "wukong_bl",
+    "symbol": "$HAND",
+    "token_address": "DbR15YhhkEwWPRSniUXMSXqQyKf4vWAFQ3Ucd4yEpump",
+    "chain": "solana",
+    "usd_value": 217.64,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "wukong_bl",
+    "symbol": "VVV",
+    "token_address": "VVV4UdRywr7SLafPHzqXwRCw7myXkmgCtitXUvj8g8c",
+    "chain": "solana",
+    "usd_value": 2.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "meechie",
+    "symbol": "mandu",
+    "token_address": "3JVUiNr3VFDLr4zgsdLjKHpXjvhJNMkQobeXDMvWcWwv",
+    "chain": "solana",
+    "usd_value": 107.46,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "meechie",
+    "symbol": "DUCK",
+    "token_address": "8xRxEVnjDtdBgmxwAsAzxUC5aWseV59sE9Qs8QkPGfSJ",
+    "chain": "solana",
+    "usd_value": 210.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "meechie",
+    "symbol": "SPCX",
+    "token_address": "SPCXxcqXj6e5dJDVNovHN8744zkbhM2bYudU45BimGb",
+    "chain": "solana",
+    "usd_value": 215.59,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 7
+  },
+  {
+    "trader_handle": "meechie",
+    "symbol": "PFE",
+    "token_address": "PFER6ENqP8r8NF3CqVt4mFowxsin3V5MLidBNQFCC3x",
+    "chain": "solana",
+    "usd_value": 133.61,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "meechie",
+    "symbol": "PlaguWhale",
+    "token_address": "aoGysNPWMTYAbyfLgo1LhowZnnhL7eVCQnAjMhepump",
+    "chain": "solana",
+    "usd_value": 209.91,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  }
+]

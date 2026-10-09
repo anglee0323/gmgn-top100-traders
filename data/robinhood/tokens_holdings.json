@@ -1,0 +1,677 @@
+[
+  {
+    "trader_handle": "DeeZe",
+    "symbol": "NET",
+    "token_address": "0xca9c78dd337a67f6e0077f65f5e9218719d30edf",
+    "chain": "robinhood",
+    "usd_value": 6095.73,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "DeeZe",
+    "symbol": "GOOGL",
+    "token_address": "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3",
+    "chain": "robinhood",
+    "usd_value": 6767.74,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "notfrydoteth",
+    "symbol": "NET",
+    "token_address": "0xca9c78dd337a67f6e0077f65f5e9218719d30edf",
+    "chain": "robinhood",
+    "usd_value": 376.38,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "notfrydoteth",
+    "symbol": "DRILL",
+    "token_address": "0xd9d674b04a72affe00e06385535eaac10b988fca",
+    "chain": "robinhood",
+    "usd_value": 22.17,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Giann2K",
+    "symbol": "MEGADUCK",
+    "token_address": "0x3a9e61958dd646b2d0c5da4fd064cebcc65d1e18",
+    "chain": "robinhood",
+    "usd_value": 241.61,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "OGDfarmer",
+    "symbol": "ORBIO",
+    "token_address": "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
+    "chain": "robinhood",
+    "usd_value": 1176.17,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "OGDfarmer",
+    "symbol": "AI",
+    "token_address": "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+    "chain": "robinhood",
+    "usd_value": 388.2,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Beautrj",
+    "symbol": "NVDA",
+    "token_address": "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec",
+    "chain": "robinhood",
+    "usd_value": 24.98,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Beautrj",
+    "symbol": "DOLL",
+    "token_address": "0xbc8f6c10ea3640ccd349c9d0babb54aefa2aa0ab",
+    "chain": "robinhood",
+    "usd_value": 103.99,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "TPOD",
+    "token_address": "0xfee34f70e90f31b686b952410197adc19883bcfb",
+    "chain": "robinhood",
+    "usd_value": 232.77,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "MRSTOCK",
+    "token_address": "0xb5bf0616d4bf9ab6dfbe1eb23c5ffbf136f61e18",
+    "chain": "robinhood",
+    "usd_value": 379.05,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "SWARM",
+    "token_address": "0x5320026279c107068eebcdd403a1c4e3933475c4",
+    "chain": "robinhood",
+    "usd_value": 152.29,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "panzonhl",
+    "symbol": "CATMAN",
+    "token_address": "0x4f1fc796e2b8a8e59f1dacef4a96d5aec2a31e18",
+    "chain": "robinhood",
+    "usd_value": 361.67,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xff335b2c",
+    "symbol": "Dots",
+    "token_address": "0xc3f40ab7a3b7025fa544895d7af5164572cc7a4f",
+    "chain": "robinhood",
+    "usd_value": 27.69,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xff335b2c",
+    "symbol": "PRIORS",
+    "token_address": "0xedbf91223639800bcd5756815caf908df3b890be",
+    "chain": "robinhood",
+    "usd_value": 29.51,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xff335b2c",
+    "symbol": "MU",
+    "token_address": "0xff080c8ce2e5feadaca0da81314ae59d232d4afd",
+    "chain": "robinhood",
+    "usd_value": 203.1,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CryptoCharming",
+    "symbol": "CHOP",
+    "token_address": "0x100765a16f42636bd84ee1e86bc5107b84bcdba3",
+    "chain": "robinhood",
+    "usd_value": 1.51,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xfd410253",
+    "symbol": "hoodlet",
+    "token_address": "0x96cf7dab13f460c2d8292cbd3bf15dc72705bb24",
+    "chain": "robinhood",
+    "usd_value": 744.33,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "poopshakes",
+    "symbol": "XBOW",
+    "token_address": "0xa156048aa84d13b1de40dfa8288d28b2593fc35c",
+    "chain": "robinhood",
+    "usd_value": 483.58,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x6e5823a9",
+    "symbol": "富贵",
+    "token_address": "0x5a3040fd79059401ae09e5dffd6678c8041a33d3",
+    "chain": "robinhood",
+    "usd_value": 775.62,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x6e5823a9",
+    "symbol": "PONS",
+    "token_address": "0x1fd7f01abf5bac177d7dddcf82e137b3c6b8abc8",
+    "chain": "robinhood",
+    "usd_value": 380.23,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Cady_btc",
+    "symbol": "KEEL",
+    "token_address": "0x6ba303c2d5eaaaa04c96933017508f82afc1999b",
+    "chain": "robinhood",
+    "usd_value": 75.85,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Cady_btc",
+    "symbol": "ERO",
+    "token_address": "0x4f9a1353d651943584df50c1b321b2f0ad66d6df",
+    "chain": "robinhood",
+    "usd_value": 81.18,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Cady_btc",
+    "symbol": "ALTSTUDIO",
+    "token_address": "0x32c293deb2888fd933066e2f95df7dadb8e9ac67",
+    "chain": "robinhood",
+    "usd_value": 75.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Cady_btc",
+    "symbol": "QI",
+    "token_address": "0x2f050f8e5beeb8bd92de3f9306135cee72130937",
+    "chain": "robinhood",
+    "usd_value": 95.11,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "MageArez",
+    "symbol": "TikTok",
+    "token_address": "0xf6ba88de6bdeb13ad28aa06241037b63740903f9",
+    "chain": "robinhood",
+    "usd_value": 0.0,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "MageArez",
+    "symbol": "BB",
+    "token_address": "0xa9212d18650351e331c37aa1c637894826229bf8",
+    "chain": "robinhood",
+    "usd_value": 171.74,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "MageArez",
+    "symbol": "PQC",
+    "token_address": "0xa8fbd709b41d8c3177d46bbf1df6a874d7201f15",
+    "chain": "robinhood",
+    "usd_value": 551.99,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "shenron__1",
+    "symbol": "hoodlet",
+    "token_address": "0xc3b458484d29240164ea3019906df9c25491ab6a",
+    "chain": "robinhood",
+    "usd_value": 376.48,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "Lkun_web3",
+    "symbol": "CHOP",
+    "token_address": "0x100765a16f42636bd84ee1e86bc5107b84bcdba3",
+    "chain": "robinhood",
+    "usd_value": 1.41,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "ashtoshii",
+    "symbol": "SECTORAL",
+    "token_address": "0x6effbf4438140222b8a6e7bd0dc3245206946fce",
+    "chain": "robinhood",
+    "usd_value": 231.79,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "ashtoshii",
+    "symbol": "WIN",
+    "token_address": "0xd7a712f3b8c574c87b1b2bd1682431093c49dc1c",
+    "chain": "robinhood",
+    "usd_value": 202.25,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "ashtoshii",
+    "symbol": "CGNA",
+    "token_address": "0x4c2f59ea682a90c16584a69db234967e1385f4cd",
+    "chain": "robinhood",
+    "usd_value": 1845.4,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "ashtoshii",
+    "symbol": "ELVO",
+    "token_address": "0x69f2e4c13d8f8c7e6c35a6e231c57668b0899965",
+    "chain": "robinhood",
+    "usd_value": 782.52,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "mr_petisui",
+    "symbol": "PENGUIN",
+    "token_address": "0x97b7c18c681118446fe59c3fb6f6dd4158a0f2c9",
+    "chain": "robinhood",
+    "usd_value": 117.54,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "mr_petisui",
+    "symbol": "RODNEY",
+    "token_address": "0xad07be7e31eab0fe4d08ba145295b5f18925d5c1",
+    "chain": "robinhood",
+    "usd_value": 42.84,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "sweet919268",
+    "symbol": "SYNTHS",
+    "token_address": "0x61e0deba0a6bd1d0df92af816739449c861e3cce",
+    "chain": "robinhood",
+    "usd_value": 24.7,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "sweet919268",
+    "symbol": "PAIR",
+    "token_address": "0x6b1d42927b1a84ec28fa88d4fc6fa7af404966be",
+    "chain": "robinhood",
+    "usd_value": 26.72,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x491822b9",
+    "symbol": "GRACE",
+    "token_address": "0xf05babb8172bea20e974b458c593399be11250dd",
+    "chain": "robinhood",
+    "usd_value": 167.17,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x491822b9",
+    "symbol": "nori",
+    "token_address": "0x3e6404ebd12cc9fb905741df703a9a11c7c1fb8e",
+    "chain": "robinhood",
+    "usd_value": 260.61,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "LuxkyVN",
+    "symbol": "CRH",
+    "token_address": "0xd421141b9d6afa274572a747e9a3fdd24ba8c400",
+    "chain": "robinhood",
+    "usd_value": 158.86,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "collet9094",
+    "symbol": "graphite-boom",
+    "token_address": "0x67ffeef0508e328c43ef36e0cb198451c83bcee6",
+    "chain": "robinhood",
+    "usd_value": 540.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "collet9094",
+    "symbol": "PERCY",
+    "token_address": "0xfceaded3e3656377957f6074b1bb3ebba4c31e18",
+    "chain": "robinhood",
+    "usd_value": 1674.12,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "TRENCHERS",
+    "token_address": "0x81e29c9668ab0a42fdeb9aa5d77f6f9b80105788",
+    "chain": "robinhood",
+    "usd_value": 120.57,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "JACK",
+    "token_address": "0x6e08e4a8ada5badad4c7cd4c3d5cf25d01c0b7e2",
+    "chain": "robinhood",
+    "usd_value": 214.54,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "NeoCallss",
+    "symbol": "VANTOR",
+    "token_address": "0xadfb164b5db92fb2f721719261c431185a49344f",
+    "chain": "robinhood",
+    "usd_value": 199.03,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CoCoCookerr",
+    "symbol": "SMARTPAY",
+    "token_address": "0xa0397bf62a49177f6f54fdffb03ea178e8e70e28",
+    "chain": "robinhood",
+    "usd_value": 197.14,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CoCoCookerr",
+    "symbol": "PEBBLE",
+    "token_address": "0xad2d6fb66edf0b0eab04d92b6c0648a6de1bb513",
+    "chain": "robinhood",
+    "usd_value": 841.16,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CoCoCookerr",
+    "symbol": "FILL",
+    "token_address": "0x7706c18ee62f64452e779db29a70c32f97e69f49",
+    "chain": "robinhood",
+    "usd_value": 510.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "CoCoCookerr",
+    "symbol": "UNHOSTED",
+    "token_address": "0x270245d8babaecfaa8431686d664445065c0aba3",
+    "chain": "robinhood",
+    "usd_value": 1.66,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "HunterOnlyETH",
+    "symbol": ".meow",
+    "token_address": "0xd451f2e7d078f5a8b03f0416031a126bb158e92c",
+    "chain": "robinhood",
+    "usd_value": 530.9,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "HunterOnlyETH",
+    "symbol": "MEOW",
+    "token_address": "0xcfd9f2b067e094d3d280a4653da633a25f23afab",
+    "chain": "robinhood",
+    "usd_value": 530.88,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "HunterOnlyETH",
+    "symbol": "OZONC",
+    "token_address": "0x1cb10a6fa9cf88c2447e45420164201eb8580eac",
+    "chain": "robinhood",
+    "usd_value": 264.43,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "HunterOnlyETH",
+    "symbol": "Jonnyy",
+    "token_address": "0xe7962190b776d88f64cc57acd3411bf445cd1aac",
+    "chain": "robinhood",
+    "usd_value": 0.08,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xossalivan",
+    "symbol": "hoodlet",
+    "token_address": "0xc3b458484d29240164ea3019906df9c25491ab6a",
+    "chain": "robinhood",
+    "usd_value": 83.94,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 3
+  },
+  {
+    "trader_handle": "0xossalivan",
+    "symbol": "FLYWHEEL",
+    "token_address": "0x71bdfae80bfddd4e6f982d58719ac7443e5e2437",
+    "chain": "robinhood",
+    "usd_value": 131.28,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xossalivan",
+    "symbol": "UPWZZZ",
+    "token_address": "0xdc0c09fcf9c071be6a409376cbc6674bb6db1e18",
+    "chain": "robinhood",
+    "usd_value": 182.61,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xossalivan",
+    "symbol": "Optimism",
+    "token_address": "0x0c6144942bb7dd6aa9eb86f798575e58eb3f21bf",
+    "chain": "robinhood",
+    "usd_value": 63.37,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "alkuap",
+    "symbol": "Parabol",
+    "token_address": "0xb489068e1d48cda3e4c9a5f1ff526aa7fc9496d7",
+    "chain": "robinhood",
+    "usd_value": 262.44,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "alkuap",
+    "symbol": "HYPERS",
+    "token_address": "0x5272c9d80bcdb5bb00824f1d47abc8c11895b2de",
+    "chain": "robinhood",
+    "usd_value": 121.08,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Hankusun",
+    "symbol": "MININGMART",
+    "token_address": "0x4d1a5911f3730f82f15a73351757c7e69e7fbcfe",
+    "chain": "robinhood",
+    "usd_value": 933.05,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Hankusun",
+    "symbol": "ATM",
+    "token_address": "0x0a4fc372afdc6d283bcfd644273e66125491fe06",
+    "chain": "robinhood",
+    "usd_value": 56.8,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Hankusun",
+    "symbol": "BRIAN",
+    "token_address": "0x2e9d80691788fcad298e6081a118524f86296e02",
+    "chain": "robinhood",
+    "usd_value": 62.33,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Hankusun",
+    "symbol": "LENNY",
+    "token_address": "0x0f44e420a0af83251b6f2a36d1780e82b71d7e73",
+    "chain": "robinhood",
+    "usd_value": 30.35,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "Hankusun",
+    "symbol": "BARRY",
+    "token_address": "0x719e412a6c7ee34b2bb5e7f274cbc9ce418c85b7",
+    "chain": "robinhood",
+    "usd_value": 490.27,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x7649a32e",
+    "symbol": "JINGTAO",
+    "token_address": "0x812c1ef548dc50ad16fc2e44601f894a9890aa46",
+    "chain": "robinhood",
+    "usd_value": 94.13,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x7649a32e",
+    "symbol": "SHIT",
+    "token_address": "0x22eb9f1c5385ed74257da42d8021916c2d837135",
+    "chain": "robinhood",
+    "usd_value": 367.65,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0x7649a32e",
+    "symbol": "ANTS",
+    "token_address": "0x6eaeead383b046465978f4c42e30f0393b691e18",
+    "chain": "robinhood",
+    "usd_value": 100.83,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xmarcheria",
+    "symbol": "SYNTHS",
+    "token_address": "0x61e0deba0a6bd1d0df92af816739449c861e3cce",
+    "chain": "robinhood",
+    "usd_value": 397.58,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 2
+  },
+  {
+    "trader_handle": "0xmarcheria",
+    "symbol": "LOOP",
+    "token_address": "0x904e720e92fee3ef03636b488b98857b6e4c4c67",
+    "chain": "robinhood",
+    "usd_value": 1384.08,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xmarcheria",
+    "symbol": "REALM",
+    "token_address": "0x4feb7e4627752d700f7be57a304e68b7123ba32b",
+    "chain": "robinhood",
+    "usd_value": 291.16,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "0xmarcheria",
+    "symbol": "MALFOID",
+    "token_address": "0x8fcceac8f13d8a10ae8de32526638f4be8f21e18",
+    "chain": "robinhood",
+    "usd_value": 515.28,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rob02643673_rob",
+    "symbol": "HIGGS",
+    "token_address": "0xc9ba3e053733cd027577aa5d23bb630e52eb8ab0",
+    "chain": "robinhood",
+    "usd_value": 393.23,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rob02643673_rob",
+    "symbol": "JAILSTOOL",
+    "token_address": "0x409384dfcbbf59f553072bab22da6f5458804864",
+    "chain": "robinhood",
+    "usd_value": 768.09,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  },
+  {
+    "trader_handle": "rob02643673_rob",
+    "symbol": "DOTTY",
+    "token_address": "0xb97817b76cc1319a4d96f7e3fc179ea005171e18",
+    "chain": "robinhood",
+    "usd_value": 224.13,
+    "portfolio_share_pct": 0.0,
+    "co_holders_count": 1
+  }
+]

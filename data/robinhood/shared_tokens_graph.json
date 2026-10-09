@@ -1,0 +1,217 @@
+{
+  "NET": [
+    "0x311ef08626709a0de3aa84d396437773340e022d",
+    "0xf5d4a3b9fb77d1d5600a10e0e1c4efd12f9be751"
+  ],
+  "GOOGL": [
+    "0xf5d4a3b9fb77d1d5600a10e0e1c4efd12f9be751"
+  ],
+  "DRILL": [
+    "0x311ef08626709a0de3aa84d396437773340e022d"
+  ],
+  "MEGADUCK": [
+    "0x4b10707123c79f6e99be486dcd95d60323988d76"
+  ],
+  "ORBIO": [
+    "0xd611a3350321558bda7d15da88e4b74eaf4c8986"
+  ],
+  "AI": [
+    "0xd611a3350321558bda7d15da88e4b74eaf4c8986"
+  ],
+  "NVDA": [
+    "0x05c17ffad91bbd8e07bb896c15b792e073686183"
+  ],
+  "DOLL": [
+    "0x05c17ffad91bbd8e07bb896c15b792e073686183"
+  ],
+  "TPOD": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "MRSTOCK": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "SWARM": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "CATMAN": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "DOTS": [
+    "0xff335b2c27f66910e67808382de6a1fd2389321d"
+  ],
+  "PRIORS": [
+    "0xff335b2c27f66910e67808382de6a1fd2389321d"
+  ],
+  "MU": [
+    "0xff335b2c27f66910e67808382de6a1fd2389321d"
+  ],
+  "CHOP": [
+    "0x66666b6f617e5e89e0eaf2859f1020db2c08aabb",
+    "0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9"
+  ],
+  "HOODLET": [
+    "0xeeefff8ce2710fa490e0fcb794235e873c252d2e",
+    "0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a",
+    "0xfd4102531f9a20101a9f7e42c76c253362c710c8"
+  ],
+  "XBOW": [
+    "0x996a8f421435cf1f4e20f593facc87b18f1b95bd"
+  ],
+  "富贵": [
+    "0x6e5823a9f398549158ad3769b99f1fcb541038b4"
+  ],
+  "PONS": [
+    "0x6e5823a9f398549158ad3769b99f1fcb541038b4"
+  ],
+  "KEEL": [
+    "0x7db1a182cddee6ea0483aead72efe945e11cc873"
+  ],
+  "ERO": [
+    "0x7db1a182cddee6ea0483aead72efe945e11cc873"
+  ],
+  "ALTSTUDIO": [
+    "0x7db1a182cddee6ea0483aead72efe945e11cc873"
+  ],
+  "QI": [
+    "0x7db1a182cddee6ea0483aead72efe945e11cc873"
+  ],
+  "TIKTOK": [
+    "0xecb7208b4eba833001e0766f036fe5e8e7657039"
+  ],
+  "BB": [
+    "0xecb7208b4eba833001e0766f036fe5e8e7657039"
+  ],
+  "PQC": [
+    "0xecb7208b4eba833001e0766f036fe5e8e7657039"
+  ],
+  "SECTORAL": [
+    "0x76ea831e2a1e4116406509f3c1f403b7bf935849"
+  ],
+  "WIN": [
+    "0x76ea831e2a1e4116406509f3c1f403b7bf935849"
+  ],
+  "CGNA": [
+    "0x76ea831e2a1e4116406509f3c1f403b7bf935849"
+  ],
+  "ELVO": [
+    "0x76ea831e2a1e4116406509f3c1f403b7bf935849"
+  ],
+  "PENGUIN": [
+    "0x60ae9123642f9387e4c6d4ef07ebe086bcfb0aa5"
+  ],
+  "RODNEY": [
+    "0x60ae9123642f9387e4c6d4ef07ebe086bcfb0aa5"
+  ],
+  "SYNTHS": [
+    "0x0ec2c400b9db045bab16996cd25d64a05be48752",
+    "0xc58686fedf9504576fc06199ebca62cee00750b3"
+  ],
+  "PAIR": [
+    "0xc58686fedf9504576fc06199ebca62cee00750b3"
+  ],
+  "GRACE": [
+    "0x491822b9c505fd30c569c7b8aff0a9c1788e24c5"
+  ],
+  "NORI": [
+    "0x491822b9c505fd30c569c7b8aff0a9c1788e24c5"
+  ],
+  "CRH": [
+    "0x6afb06fc5a0dae2a86b96088338236d02f999999"
+  ],
+  "GRAPHITE-BOOM": [
+    "0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5"
+  ],
+  "PERCY": [
+    "0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5"
+  ],
+  "TRENCHERS": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "JACK": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "VANTOR": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "SMARTPAY": [
+    "0x5250dbcf6ac11c4c2cbd8dcaf5a6d019f3268ea8"
+  ],
+  "PEBBLE": [
+    "0x5250dbcf6ac11c4c2cbd8dcaf5a6d019f3268ea8"
+  ],
+  "FILL": [
+    "0x5250dbcf6ac11c4c2cbd8dcaf5a6d019f3268ea8"
+  ],
+  "UNHOSTED": [
+    "0x5250dbcf6ac11c4c2cbd8dcaf5a6d019f3268ea8"
+  ],
+  ".MEOW": [
+    "0x7a2363a401b2340c7941dd2eeff0196a5078d2e6"
+  ],
+  "MEOW": [
+    "0x7a2363a401b2340c7941dd2eeff0196a5078d2e6"
+  ],
+  "OZONC": [
+    "0x7a2363a401b2340c7941dd2eeff0196a5078d2e6"
+  ],
+  "JONNYY": [
+    "0x7a2363a401b2340c7941dd2eeff0196a5078d2e6"
+  ],
+  "FLYWHEEL": [
+    "0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a"
+  ],
+  "UPWZZZ": [
+    "0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a"
+  ],
+  "OPTIMISM": [
+    "0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a"
+  ],
+  "PARABOL": [
+    "0x1df3160f73fd6c1bec394c51fc20b7b2a91d6330"
+  ],
+  "HYPERS": [
+    "0x1df3160f73fd6c1bec394c51fc20b7b2a91d6330"
+  ],
+  "MININGMART": [
+    "0x5bce90b1eae5af116780b216e5f798b2d4ce08ef"
+  ],
+  "ATM": [
+    "0x5bce90b1eae5af116780b216e5f798b2d4ce08ef"
+  ],
+  "BRIAN": [
+    "0x5bce90b1eae5af116780b216e5f798b2d4ce08ef"
+  ],
+  "LENNY": [
+    "0x5bce90b1eae5af116780b216e5f798b2d4ce08ef"
+  ],
+  "BARRY": [
+    "0x5bce90b1eae5af116780b216e5f798b2d4ce08ef"
+  ],
+  "JINGTAO": [
+    "0x7649a32e792d2b59d3d616fef17700ec70e27d1a"
+  ],
+  "SHIT": [
+    "0x7649a32e792d2b59d3d616fef17700ec70e27d1a"
+  ],
+  "ANTS": [
+    "0x7649a32e792d2b59d3d616fef17700ec70e27d1a"
+  ],
+  "LOOP": [
+    "0x0ec2c400b9db045bab16996cd25d64a05be48752"
+  ],
+  "REALM": [
+    "0x0ec2c400b9db045bab16996cd25d64a05be48752"
+  ],
+  "MALFOID": [
+    "0x0ec2c400b9db045bab16996cd25d64a05be48752"
+  ],
+  "HIGGS": [
+    "0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373"
+  ],
+  "JAILSTOOL": [
+    "0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373"
+  ],
+  "DOTTY": [
+    "0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373"
+  ]
+}

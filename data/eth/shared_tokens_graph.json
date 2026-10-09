@@ -1,0 +1,287 @@
+{
+  "STOCKER": [
+    "0xcd211569a108fdac74d729ba7358a743a3c2e08d",
+    "0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d"
+  ],
+  "WALLET": [
+    "0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d"
+  ],
+  "SASHA": [
+    "0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d"
+  ],
+  "FEARNOT": [
+    "0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d"
+  ],
+  "SMR": [
+    "0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d"
+  ],
+  "UNI": [
+    "0x371903abb32f5f69b536b77495e92adedfea25da",
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "FWWBTC": [
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "FWCOINON": [
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "ONDO": [
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "FWUNI": [
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "FWWLFI": [
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "CRV": [
+    "0x51f9d44c65e8da6bce596092dc0d41d07d97968c"
+  ],
+  "NOOP": [
+    "0x371903abb32f5f69b536b77495e92adedfea25da",
+    "0x55f3422138e9fed0bd81351bff66c882550002e8"
+  ],
+  "HOOKY": [
+    "0x371903abb32f5f69b536b77495e92adedfea25da",
+    "0x55f3422138e9fed0bd81351bff66c882550002e8"
+  ],
+  "OG": [
+    "0x55f3422138e9fed0bd81351bff66c882550002e8"
+  ],
+  "ETHOHM": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "MOTE": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "CAIRN": [
+    "0xf907877022b1e61232aca00661d6fb629b356d4c"
+  ],
+  "VARIABLEDEBTETHUSDT": [
+    "0xfcdfda023f727dafa35e8ee2715bcd7411c86b21"
+  ],
+  "STRCX": [
+    "0xfcdfda023f727dafa35e8ee2715bcd7411c86b21"
+  ],
+  "USDF": [
+    "0xfcdfda023f727dafa35e8ee2715bcd7411c86b21"
+  ],
+  "SUSDF": [
+    "0xfcdfda023f727dafa35e8ee2715bcd7411c86b21"
+  ],
+  "NUSD": [
+    "0xfcdfda023f727dafa35e8ee2715bcd7411c86b21"
+  ],
+  "ZTO": [
+    "0x6bba7df6971127cb15fd78fdebe33eeff5a6dd59"
+  ],
+  "UNITS": [
+    "0x5865363bb04450ab313dcd2e71a189efb3c31e41"
+  ],
+  "OWL": [
+    "0x5865363bb04450ab313dcd2e71a189efb3c31e41",
+    "0xcce7222e9b9fec1ebf52d62a9da692b88090f30b"
+  ],
+  "KLN": [
+    "0x07f190b1a5776d523a903253a3cf994ae34466bb",
+    "0x5865363bb04450ab313dcd2e71a189efb3c31e41"
+  ],
+  "CLAUS": [
+    "0x5865363bb04450ab313dcd2e71a189efb3c31e41",
+    "0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718",
+    "0x61fd0d043d519f5a2bd05785000f30db96809429"
+  ],
+  "VPAD": [
+    "0x62e5332dcb286f1753d245707c91a38821bb5645"
+  ],
+  "BUNKER": [
+    "0x62e5332dcb286f1753d245707c91a38821bb5645",
+    "0xbac453b9b7f53b35ac906b641925b2f5f2567a89",
+    "0xc05ef5e1fd014267f66fa24b260f361af7d79122"
+  ],
+  "EPOCH": [
+    "0x62e5332dcb286f1753d245707c91a38821bb5645"
+  ],
+  "SIMD": [
+    "0xcd211569a108fdac74d729ba7358a743a3c2e08d"
+  ],
+  "JOTCHUA": [
+    "0xcd211569a108fdac74d729ba7358a743a3c2e08d"
+  ],
+  "VOBL": [
+    "0x07f190b1a5776d523a903253a3cf994ae34466bb",
+    "0x9dbfded199ee3a6b291c223e65f97d387156aada",
+    "0xbac453b9b7f53b35ac906b641925b2f5f2567a89",
+    "0xcd211569a108fdac74d729ba7358a743a3c2e08d"
+  ],
+  "KLIK": [
+    "0xcd211569a108fdac74d729ba7358a743a3c2e08d"
+  ],
+  "REPV2": [
+    "0xc05ef5e1fd014267f66fa24b260f361af7d79122"
+  ],
+  "TXT": [
+    "0xc05ef5e1fd014267f66fa24b260f361af7d79122"
+  ],
+  "WPRL": [
+    "0x023ab8e20a4682d315daef4c91db96bd77934d66"
+  ],
+  "ZC": [
+    "0x023ab8e20a4682d315daef4c91db96bd77934d66",
+    "0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718"
+  ],
+  "FWA": [
+    "0x023ab8e20a4682d315daef4c91db96bd77934d66"
+  ],
+  "GENIUSGUY": [
+    "0xeeefff8ce2710fa490e0fcb794235e873c252d2e"
+  ],
+  "XMAN": [
+    "0xeeefff8ce2710fa490e0fcb794235e873c252d2e"
+  ],
+  "NESTED": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "BANSUN": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "SYDE": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "BRAIN": [
+    "0xe28601398a5448d1147e6e8b0e0c6d686f0d216d"
+  ],
+  "KFA": [
+    "0x07f190b1a5776d523a903253a3cf994ae34466bb"
+  ],
+  "DEFIB": [
+    "0x07f190b1a5776d523a903253a3cf994ae34466bb",
+    "0x9dbfded199ee3a6b291c223e65f97d387156aada"
+  ],
+  "SUSDS": [
+    "0x176f3dab24a159341c0509bb36b833e7fdd0a132"
+  ],
+  "STEAKETH": [
+    "0x176f3dab24a159341c0509bb36b833e7fdd0a132"
+  ],
+  "GTWETH": [
+    "0x176f3dab24a159341c0509bb36b833e7fdd0a132"
+  ],
+  "ETH": [
+    "0x5420ba3a8b8bf5272a20fc24e308d622db304fc6"
+  ],
+  "PMD": [
+    "0x5420ba3a8b8bf5272a20fc24e308d622db304fc6"
+  ],
+  "HELIX": [
+    "0x5420ba3a8b8bf5272a20fc24e308d622db304fc6"
+  ],
+  "INFER": [
+    "0x371903abb32f5f69b536b77495e92adedfea25da"
+  ],
+  "OP_CAT": [
+    "0x371903abb32f5f69b536b77495e92adedfea25da"
+  ],
+  "CAPYBARA": [
+    "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5"
+  ],
+  "SM": [
+    "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5"
+  ],
+  "TITS": [
+    "0x3472ccf6209925204b9cf352171ee150904fda7e",
+    "0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5"
+  ],
+  "OPIUM": [
+    "0xbac453b9b7f53b35ac906b641925b2f5f2567a89"
+  ],
+  "CONDO": [
+    "0xbac453b9b7f53b35ac906b641925b2f5f2567a89"
+  ],
+  "QI": [
+    "0xbf004bff64725914ee36d03b87d6965b0ced4903"
+  ],
+  "TSUJI": [
+    "0xbf004bff64725914ee36d03b87d6965b0ced4903"
+  ],
+  "GATSBY": [
+    "0xbf004bff64725914ee36d03b87d6965b0ced4903"
+  ],
+  "SNOWMOON": [
+    "0xbf004bff64725914ee36d03b87d6965b0ced4903"
+  ],
+  "TREMOR": [
+    "0xbf004bff64725914ee36d03b87d6965b0ced4903",
+    "0xcce7222e9b9fec1ebf52d62a9da692b88090f30b"
+  ],
+  "RTR": [
+    "0xbf004bff64725914ee36d03b87d6965b0ced4903"
+  ],
+  "FT": [
+    "0x28aa4f9ffe21365473b64c161b566c3cdead0108"
+  ],
+  "WSTETH": [
+    "0x40c20da8d0214a7ef33a84e287992858db744e6d"
+  ],
+  "STETH": [
+    "0x40c20da8d0214a7ef33a84e287992858db744e6d",
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "MATIC": [
+    "0x40c20da8d0214a7ef33a84e287992858db744e6d"
+  ],
+  "WILDEBEEST": [
+    "0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718"
+  ],
+  "BLASTAR": [
+    "0x3472ccf6209925204b9cf352171ee150904fda7e"
+  ],
+  "SPACEXSI": [
+    "0x3472ccf6209925204b9cf352171ee150904fda7e"
+  ],
+  "MELDAN": [
+    "0x3472ccf6209925204b9cf352171ee150904fda7e"
+  ],
+  "BINGUS": [
+    "0x9dbfded199ee3a6b291c223e65f97d387156aada"
+  ],
+  "BELIEVE": [
+    "0x9dbfded199ee3a6b291c223e65f97d387156aada"
+  ],
+  "PQCETH": [
+    "0xafba765e49a4545569e955f6c4baba12e427bf64"
+  ],
+  "TAUFA": [
+    "0xafba765e49a4545569e955f6c4baba12e427bf64"
+  ],
+  "SCAT": [
+    "0xafba765e49a4545569e955f6c4baba12e427bf64"
+  ],
+  "ALTRUISTS": [
+    "0xcce7222e9b9fec1ebf52d62a9da692b88090f30b"
+  ],
+  "CYBERBEAST": [
+    "0xcce7222e9b9fec1ebf52d62a9da692b88090f30b"
+  ],
+  "VERSE": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "BAT": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "RYU": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "ETHX": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "EIGEN": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "ZRO": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ],
+  "APXUSD": [
+    "0xbee242d3a94420551c65f5b16d9a1c918910cccd"
+  ]
+}
