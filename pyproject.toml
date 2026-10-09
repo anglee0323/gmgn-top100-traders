@@ -1,0 +1,21 @@
+[project]
+name = "gmgn-top100-traders"
+version = "0.1.0"
+description = "Curated dataset of All-Time Top 100 traders on GMGN (Solana): unmasked wallet addresses, lifetime realized PnL, win rates, trade frequency, multipliers, genesis funding, and ML features."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Angle Lee", email = "anglee@users.noreply.github.com" }
+]
+keywords = [
+    "crypto", "solana", "gmgn", "smart-money",
+    "onchain-data", "machine-learning", "defi", "pnl"
+]
+dependencies = [
+    "pandas>=2.0.0"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
