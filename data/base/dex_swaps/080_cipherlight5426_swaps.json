@@ -1,0 +1,42 @@
+{
+  "activities": [
+    {
+      "wallet": "0x5b617e16732c9f7f1445b1639bf241451c6f1789",
+      "chain": "base",
+      "tx_hash": "0x662df00edb6465d8adbb16f160097c8101e10ebcf0532c983e3c7d3d2e7f492a",
+      "timestamp": 1763963819,
+      "event_type": "sell",
+      "token": {
+        "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "symbol": "cbBTC",
+        "logo": "https://gmgn.ai/external-res/09d6bff3809f229f08d721985a6271c2_v2.webp",
+        "total_supply": "47246.22977402"
+      },
+      "token_amount": "0.00088551",
+      "quote_amount": "77.276151",
+      "cost_usd": "77.276151",
+      "buy_cost_usd": "77.30824083840672",
+      "price_usd": "87267.39506047363",
+      "price": "87267.39506047363",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logo": "https://gmgn.ai/external-res/4f16b3a2e75ccf0e01bf47ad742b9507_v2.webp"
+      },
+      "quote_address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000000416090298841",
+      "gas_usd": "0.001191374709058909",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "",
+      "launchpad_platform": ""
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "activities": [
+    {
+      "wallet": "0x9cd581ff7804f5f3caf35f55d3cf73fbf42f0072",
+      "chain": "eth",
+      "tx_hash": "0x7f27bed75fc098ebc83b10a06db56644eeb055307ef37d0fad30d1376e9abd56",
+      "timestamp": 1791104087,
+      "event_type": "sell",
+      "token": {
+        "address": "0x3f6de3fb365c1270ff1c5e50c13021fed8d5cd3a",
+        "symbol": "SI",
+        "logo": "https://gmgn.ai/external-res/31330c1a26b34e91f82a4b06e3636303_v2.webp",
+        "total_supply": "1000000000"
+      },
+      "token_amount": "8240705.978874671",
+      "quote_amount": "1.892299954986816",
+      "cost_usd": "301.8662878787879",
+      "buy_cost_usd": "155.65791948923734",
+      "price_usd": "0.00003663111979151208",
+      "price": "0.0000002296283789080439",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0xc9eef266834730340a55b6cc24621b31baf55581",
+        "name": "SpaceX (Ondo Tokenized)",
+        "symbol": "SPCXon",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/4271d56848c10355c5e7b212ba9c9fd0_v2.webp"
+      },
+      "quote_address": "0xc9eef266834730340a55b6cc24621b31baf55581",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.0007847958933678",
+      "gas_usd": "2.1186192978178453",
+      "dex_native": "0.018922999549868157",
+      "dex_usd": "3.1680866912878787",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "stockereum",
+      "launchpad_platform": "stockereum"
+    },
+    {
+      "wallet": "0x9cd581ff7804f5f3caf35f55d3cf73fbf42f0072",
+      "chain": "eth",
+      "tx_hash": "0x6a0ff45c97ca22983f713d76767dbb85c2a9dbf0da5f4c4867d04b73535d1fe4",
+      "timestamp": 1791103619,
+      "event_type": "sell",
+      "token": {
+        "address": "0x3f6de3fb365c1270ff1c5e50c13021fed8d5cd3a",
+        "symbol": "SI",
+        "logo": "https://gmgn.ai/external-res/31330c1a26b34e91f82a4b06e3636303_v2.webp",
+        "total_supply": "1000000000"
+      },
+      "token_amount": "20406407.45505993",
+      "quote_amount": "3.319202615595524",
+      "cost_usd": "529.581395959596",
+      "buy_cost_usd": "385.4547094444516",
+      "price_usd": "0.00002595172115061743",
+      "price": "0.00000016265492213194545",
+      "is_open_or_close": 0,
+      "quote_token": {
+        "token_address": "0xc9eef266834730340a55b6cc24621b31baf55581",
+        "name": "SpaceX (Ondo Tokenized)",
+        "symbol": "SPCXon",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/4271d56848c10355c5e7b212ba9c9fd0_v2.webp"
+      },
+      "quote_address": "0xc9eef266834730340a55b6cc24621b31baf55581",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.00059400596548323",
+      "gas_usd": "1.6036082047168019",
+      "dex_native": "0.03319202615595524",
+      "dex_usd": "5.5579567505959595",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "stockereum",
+      "launchpad_platform": "stockereum"
+    },
+    {
+      "wallet": "0x9cd581ff7804f5f3caf35f55d3cf73fbf42f0072",
+      "chain": "eth",
+      "tx_hash": "0x1e984c7b3f6db97ac7cd3889f3bf08e0d26830ac4db947240ead96b418573d62",
+      "timestamp": 1791103583,
+      "event_type": "buy",
+      "token": {
+        "address": "0x3f6de3fb365c1270ff1c5e50c13021fed8d5cd3a",
+        "symbol": "SI",
+        "logo": "https://gmgn.ai/external-res/31330c1a26b34e91f82a4b06e3636303_v2.webp",
+        "total_supply": "1000000000"
+      },
+      "token_amount": "28647113.433934603",
+      "quote_amount": "3.251378047774818",
+      "cost_usd": "523.4417541342",
+      "buy_cost_usd": null,
+      "price_usd": "0.000018272059254463834",
+      "price": "0.00000011349757996641027",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0xc9eef266834730340a55b6cc24621b31baf55581",
+        "name": "SpaceX (Ondo Tokenized)",
+        "symbol": "SPCXon",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/4271d56848c10355c5e7b212ba9c9fd0_v2.webp"
+      },
+      "quote_address": "0xc9eef266834730340a55b6cc24621b31baf55581",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000608824485371739",
+      "gas_usd": "1.6436069336889614",
+      "dex_native": "0.03284220250277594",
+      "dex_usd": "10.6279878658",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "stockereum",
+      "launchpad_platform": "stockereum"
+    }
+  ]
+}

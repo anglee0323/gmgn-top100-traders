@@ -1,0 +1,80 @@
+{
+  "activities": [
+    {
+      "wallet": "0xc0f24234a31050186b88c622a1389deec81f133e",
+      "chain": "base",
+      "tx_hash": "0x228b3b0d8c52021448dd20e54c31185d051797f42c42e13ac5b87823a64c6a77",
+      "timestamp": 1771375561,
+      "event_type": "sell",
+      "token": {
+        "address": "0x48778537634fa47ff9cdbfdced92f3b9db50bd97",
+        "symbol": "AGC",
+        "logo": "https://gmgn.ai/external-res/167f4e93a3f279d69b27244eec891a42_v2.webp",
+        "total_supply": "61891197.222222224"
+      },
+      "token_amount": "2860.4839195332233",
+      "quote_amount": "0.04040608238564378",
+      "cost_usd": "80.37497095987489",
+      "buy_cost_usd": "230.4367134743296",
+      "price_usd": "0.02809838237894828",
+      "price": "0.000014125610743597",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/3bfb259089b2f978b1878ffff8e9fd37_v2.webp"
+      },
+      "quote_address": "0x4200000000000000000000000000000000000006",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000002329367955327",
+      "gas_usd": "0.004633532149377362",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "",
+      "launchpad_platform": ""
+    },
+    {
+      "wallet": "0xc0f24234a31050186b88c622a1389deec81f133e",
+      "chain": "base",
+      "tx_hash": "0xa7b556fb29c72e883421d9daa6b4874b34f7b2fddbbff2ee19c8810f50f15b96",
+      "timestamp": 1771345285,
+      "event_type": "buy",
+      "token": {
+        "address": "0x48778537634fa47ff9cdbfdced92f3b9db50bd97",
+        "symbol": "AGC",
+        "logo": "https://gmgn.ai/external-res/167f4e93a3f279d69b27244eec891a42_v2.webp",
+        "total_supply": "61891197.222222224"
+      },
+      "token_amount": "2978.4297371233065",
+      "quote_amount": "0.12078",
+      "cost_usd": "239.923431",
+      "buy_cost_usd": null,
+      "price_usd": "0.0805536649092572",
+      "price": "0.000040551569336886",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/3bfb259089b2f978b1878ffff8e9fd37_v2.webp"
+      },
+      "quote_address": "0x4200000000000000000000000000000000000006",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000007469568178633",
+      "gas_usd": "0.014837923708445522",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "",
+      "launchpad_platform": ""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+rank,chain,handle,wallet_address,total_swaps,buy_count,sell_count,total_volume_usd,tokens_count,tokens_sample,status
+1,base,krybharat,0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927,474,309,164,5483796.98,78,"TIBBIR, DTRXBT, ClawBank, EURC, COOKIE",crawled
+2,base,0x606d2c43,0x606d2c436a07be40c276a6176bb1376c34e49ee9,1613,578,527,1837556.29,204,"MLTL, BASEPOST, BRETT, MEAT, BpDAI",crawled
+3,base,Beautrj,0x05c17ffad91bbd8e07bb896c15b792e073686183,1926,870,964,1473012.13,430,"hughmannceo, #0B45ED, OLLI, CORNELIUS, FELTSENSE",crawled
+4,base,panzonhl,0xf907877022b1e61232aca00661d6fb629b356d4c,4628,2452,2069,1783807.74,1019,"DancingCat, BILLY, Kavin, Pageform, ABHE",crawled
+5,base,jeffthedunker,0x37a6156e4a6e8b60b2415af040546cf5e91699bd,86,16,40,785116.17,22,"KAITO, MET, toby, cbBTC, LAPTOP",crawled
+6,base,fhn_gt,0xe5e9ffe707ee071998340972af6fb178f5c64ba6,1012,642,369,3101952.25,135,"TIBBIR, BANGARANG, WARPCASH, EURC, Balinese sunset",crawled
+7,base,100y_eth,0xb2f9bbc5db84a95b598cab0c464cf92d584d8900,248,46,86,3600621.31,18,"MORPHO, UP, COOKIE, AERO, CADC",crawled
+8,base,gheezfn,0x5e8343066704cea8f254b637b3e4fc9be6ab318a,141,25,94,15443.55,25,"BLOHARD, blackbird, 40, CEECIL, blohard",crawled
+9,base,0xf99583d3,0xf99583d39e0a967d45d7faf0b28235bf4623c268,3996,1804,2171,753102.37,1403,"WATERMELON, ABX, Launchpad, BREAD, LAPTOP",crawled
+10,base,erichsu_eth,0x5865363bb04450ab313dcd2e71a189efb3c31e41,175,46,127,34576.02,60,"WAIFU, LITEFOLD, Surplus, LAYA, LOTTO",crawled
+11,base,pe___lu,0x347ffc6db9acc54ac2019795173b9599e8b82bd9,4468,2735,1637,363327.12,648,"Julie, STOCK, MEMECOIN, RUSSEL, imdbot",crawled
+12,base,alkuap,0x1df3160f73fd6c1bec394c51fc20b7b2a91d6330,4117,2033,1931,1629489.96,1028,"Crab, Kavin, Agentsv2, owockibot, GIGABALD",crawled
+13,base,0xfd7e55a5,0xfd7e55a555555c2f25053a38ec744de1afea4fa4,3280,1473,1698,1833562.1,991,"$frog, TOILET, CHLOE, BURNHYDX, STOCK",crawled
+14,base,0x98c43da6,0x98c43da65205b7c53a857d79f3d1f6fbc0b76fa5,3422,1921,1426,4947129.4,796,"JACKDISHMAN, AmberVibe, owockibot, CARDS, AGENTSUPPOK",crawled
+15,base,CupseyV,0x0f84d2da979180394fbf9c4499febd0f602a6767,2814,1385,1295,1080144.61,798,"DancingCat, hughmannceo, FCAGENT, STOCK, AZL",crawled
+16,base,shenron__1,0xeeefff8ce2710fa490e0fcb794235e873c252d2e,423,151,270,172331.15,107,"STARLOOP, BASENOUN, COINBASE, CoinbaseWallet, GOOGLc",crawled
+17,base,0x59905d5d,0x59905d5d085e0caf031ba883b821ba354e51f95e,4293,2013,2212,3223565.09,1021,"DancingCat, hughmannceo, SAU, RUSSEL, SEMURPH",crawled
+18,base,0xJyEth,0x2849857d9b640fd2104c4607c6c23dec3c798370,506,267,234,785310.25,135,"DMIGGLES, RUSSEL, TBA, STONKFLY, WAZAA👅",crawled
+19,base,technoviking46,0x3d06315c94ac30b6061c91caf748fc2db04a89f4,616,255,349,647107.67,206,"Null, owockibot, Pageform, wyneseoo, TEXCARELLA",crawled
+20,base,whashywash,0x609f2c912175f8cd4438c1882f291fa6a4b4c735,520,216,239,283671.08,176,"PolymarketScan, SLOPACOLYP, MLTL, ClawBank, Logan",crawled
+21,base,NeoCallss,0xe28601398a5448d1147e6e8b0e0c6d686f0d216d,1009,441,538,388687.4,271,"DancingCat, Bit, OCCUPY, BOOTS, cb",crawled
+22,base,frostyyy,0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e,889,358,520,900178.39,270,"CrazyFrog, wyneseoo, JACKET, DMP, STOCK",crawled
+23,base,0xyukaz,0xa05ec35f7d1eba823cff2ed26aeaed419683742f,2053,1073,848,1742523.06,470,"Crab, SkillOpt, AGENTSUPPOK, WATERMELON, NotDivided",crawled
+24,base,collet9094,0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5,71,31,38,28785.89,24,"JACKET, Basedog, BlueHardHat, SI, Stephanie",crawled
+25,base,gold_burger,0xdb3a65a512dee57cbf4d8c797fcbad290dcde953,49,14,20,5736.06,12,"WAIFU, PERP, CCC, LAYA, 咕咕嘎嘎",crawled
+26,base,rcivNFT,0x3310fd13c6c55f054cc128439e1e51cd0cb16fed,270,113,116,356777.43,78,"TIBBIR, DTRXBT, COOKIE, BOB, BORED",crawled
+27,base,teddi_speaks,0xd3abaa759af897122c876b87cf386f748cb213a8,57,14,37,38014.99,26,"KAITO, fUSDC, toby, cbBTC, sKAITO",crawled
+28,base,Rex416_NFT,0x6609dfa1cb75d74f4ff39c8a5057bd111fba5b22,8,3,4,546.99,7,"stkAVNT, BONS, ZORA, ZED, toby",crawled
+29,base,0xa12fa237,0xa12fa23701f00ad2663e339386d65cd94a144cbc,2957,991,1962,6167870.28,578,"HCT, LBTC, AmberVibe, FCAGENT, owockibot",crawled
+30,base,SmolHydra,0xeb20b344612e8825ca07206f40f2b88e5afd5dd3,239,82,146,243551.45,76,"KAITO, ALUNA, SKITTEN, LINK, RNBW",crawled
+31,base,buythedipnhodl_,0x217946e128c1b9c7f8c3f16b33878a908713923a,1693,921,769,437710.72,329,"ROYAL, owockibot, FCAGENT, HOTPOTATO, CLAWCLUB",crawled
+32,base,bizyugo,0xbdfa4f4492dd7b7cf211209c4791af8d52bf5c50,43,7,29,191351.08,24,"$mfer, jEUR, SPECTRA, cbETH, GS",crawled
+33,base,bloodredfrog,0x0cef7feff37208e1295ac6537445a9b5bc566fd5,493,235,252,22839.37,190,"SURF, YUNAI, TIBBIR, VIRTU , BRETT",crawled
+34,base,aomra_00,0x821d92e6e62a2004e2cec914c23a9f346add0331,210,89,89,36829.69,87,"Love in The Music, gtUSDCp, CHIBI, GOOGLc, fUSDC",crawled
+35,base,Connoreo,0x2f5eb3f35df41a6bfbd17faaf0130b3d4228759e,579,278,282,725618.69,198,"Kavin, Digital Gold, LITEFOLD, MOLTZA, COINBASE",crawled
+36,base,dragonfly,0xbea07b01e8fe3936a3d206158521a87addb65cfe,0,0,0,0.0,0,,crawled
+37,base,a16z,0x05e793ce0c6027323ac150f6d45c2344d28b6019,0,0,0,0.0,0,,crawled
+38,base,Cgo_d188,0x48d064323252e3a60e352fe27b9e8979090c37a8,0,0,0,0.0,0,,crawled
+39,base,leo919,0x7f3fb054e59bc0ceaca7c13423a66565795128c7,0,0,0,0.0,0,,crawled
+40,base,0x80c9faf6,0x80c9faf6ee0538f7a11be306e73b365bb092b56f,2445,1174,1263,1585371.74,596,"BILLY, AmberVibe, STOCK, PROTECT, PITCH",crawled
+41,base,zsf11221,0xe4ef584eb114335ad6deedf89d845527a06e1d28,8,4,4,2851.52,3,"CC, MAIAT, ELYS",crawled
+42,base,0xblackchip,0xacd0cea3607626a6198bbb50718eb84ee7e5799d,1236,708,521,281356.18,337,"PITCH, Stochastic, SHOVELS, MAGICS, BOB",crawled
+43,base,EnteringWealth,0x4a55d7558af03e72ee161591db97f0ed840a81dc,2,1,1,294.77,1,GOBLIN,crawled
+44,base,DejunGp,0x388300a95a7353810aa51a2b472cc5a38b91dede,48,25,23,7366.02,21,"PANG, PING, THESIS, Unification, cbBTC",crawled
+45,base,100xDan,0x9782d08d2d8657b154e00e8d43bc0150ee5febaa,66,25,37,27422.21,19,"dogue, DiamondPepe, CIF, STONKFLY, DEAD",crawled
+46,base,nineteen_888,0x9db43bb875e10bad12cdf798b14f279e3775ddff,148,63,72,23252.47,51,"のあちゃん, 蝴蝶基地, dontbuy, benjitaylor, Beautiful day to be on Base",crawled
+47,base,Huang2024,0x629fe6d73d5ca48c1b5e4ef35bb7319080c4aba5,66,35,31,63547.84,18,"Apple Juice, AAPLc, owl1, Baseline, MUSEWORLD",crawled
+48,base,0xAlif,0x81b24791bc6c6713adf55c4f135f13639e92e5ae,79,30,42,15203.04,41,"KAITO, HARD, BRETT, RDAT, AIXBT",crawled
+49,base,CRYPTOALBATROSS,0x66883274f20a617e781c3f869c48ed93a041f178,13,7,6,5694.21,8,"AUTONO, SPARK, DIEM, PANANA, Tokito",crawled
+50,base,FrankYoungBao,0x695b065ddf17ca69f4b1b77f1a0680cd438f1970,54,31,20,74415.66,20,"GIVE, PING, SPIKE, BLUECHIP, cbBTC",crawled
+51,base,Edward__Park,0x231b405c333db6d81adeaadf4c6ff3940ea5db21,106,53,50,148421.1,30,"KAITO, EOLAS, HOME, cbBTC, NFTXBT",crawled
+52,base,YYzzy_diamond,0x20ff275ee89cbf0ece757d1691325b653dd4e756,2,1,1,1290.29,1,FLM,crawled
+53,base,cryptolfggo,0xaf3d75ac07863a715de23954aeb26f1ab1a6cac1,87,9,21,5516.95,15,"DRB, USDT, PILOT, TRUST, MONEY",crawled
+54,base,0xETHRex,0xa60aadf62907bf06dd714781d44bbd4c2d783259,815,263,256,1055073.27,81,"TIBBIR, BRETT, MANEKI, EURC, SEAM",crawled
+55,base,_SVVVG3,0xf631eae9033f881a35091f221ac20ee0c6b05310,17,0,2,84.41,7,"oHYDX, FEY, TN100x, fBOMB, bnVEIL",crawled
+56,base,malemale8888,0x5f6d7e7e2eaaa6fc96994f1e24bcacf6321fde11,0,0,0,0.0,0,,crawled
+57,base,BTC_Alert_,0x039d4461f3dacbf69830d64fe5cca5e180c49858,3,2,1,5509.71,1,CLAWNCH,crawled
+58,base,punk6995,0xdf2a8e398b97899ecda4db93bb00eee386338d3a,90,41,49,48169.68,34,"Clawmart, ELIAS, CEECIL, HANTAVIRUS, GOOGLc",crawled
+59,base,stacy_muur,0xaa9543f2eff0e7a4b267f839612945841172b02f,12,4,5,18863.34,10,"LBTC, sKAITO, THQ, SPEC, AIXBT",crawled
+60,base,nyenchenn,0xcbc04b6607e7ebe0373c3ee361ba396b8ecb721c,1974,964,778,1538386.19,297,"BILLY, CrazyFrog, SHIT, OCCUPY, JACKET",crawled
+61,base,kreo444,0x7551fd7a88afd941ddcc0a4f1cb62cf85afdae61,51,21,25,24758.02,16,"AFC, World, SCALE, DONUT, COMPUTE",crawled
+62,base,H2H_JIWOO_,0x92ec9b0cacf6e110d57a9cfe8d5abb472ff3efb4,0,0,0,0.0,0,,crawled
+63,base,SmokezXBT,0x9f626d6e0b39f9d37c676f13230fbd4f07d8d4a8,0,0,0,0.0,0,,crawled
+64,base,BitPuPu,0x7f1daf4d2729b3065d9cea2422cd5480fddbc000,0,0,0,0.0,0,,crawled
+65,base,0x0cbb693e,0x0cbb693e0199cb7ad4f3c846f43045cb95247fc5,2573,1285,566,14394115.31,816,"belief coins, RWOK, FUKBTC, Take Flight, Farcaster",crawled
+66,base,Esee06257,0x492cba689a5560e98008c4d032a139f5c0d1ff6e,512,335,144,156167.82,122,"COOLISH, BROWSECLAW, BASECAT, gifgrep, BTCVM",crawled
+67,base,0xleng1,0x99514773a40f64e52ae3014c7836cf0e703dd0b1,113,63,50,54657.55,9,"Purple Checks, DVD, BLAI, COSTA, SPARK",crawled
+68,base,0xecd1f3e9,0xecd1f3e99caa4cdbf174ad12ce79d89a8ba54fca,1945,972,958,4565172.15,535,"CLAWKING, RALINE, CARDS, RUSSEL, ABCD",crawled
+69,base,Hercules_algo,0xbef491231527c9efb47c45603b85ea66439714a5,199,121,66,8672.87,39,"RSR, BGCI, wstETH, TIBBIR, hyUSD",crawled
+70,base,zachxbt,0x3f1c0ea76342cc3427962452891f8de8649a301b,143,85,53,83351.47,31,"CTO, onchain baby, toby, SERAPH, Clip - Product Feedback ?",crawled
+71,base,0xf11ae5d5,0xf11ae5d5d7898c6e56d625b21378f8947a3a8694,669,319,337,254705.35,219,"TET, OTTO, OCCUPY, clawdspiracy, RUSSEL",crawled
+72,base,loldefi,0xd5c2db008b969c4ef65ef1b625d0f7d8cc480240,14,4,10,16479.61,11,"GECKO, VOID, bloo, USDT, Fren Pet",crawled
+73,base,lukecannon727,0x8874174a2366668d54fea6343f71709389563c8a,34,22,8,16373.72,28,"KAITO, DTRXBT, cbBTC, LAPTOP, Fix the money.",crawled
+74,base,matt_willemsen,0xe6a5f1690fcda05d9ba0a663b6e7ddf3c97eb7b1,624,298,321,352136.0,168,"OTTO, VIDEO, MACHINES, DTRXBT, BANGARANG",crawled
+75,base,lanyihou,0x42756ec8febdf07248211b6aa6376a66502878da,191,101,60,78817.54,47,"terminal, GIVE, CON, CLAUDIO, RPC",crawled
+76,base,Cgo_d188,0x14c8fd5aa39930a8baf4b9ce0e9d1a258e50f4e6,12,7,5,2563.23,5,"BASE CATS, FRENCHIE, x502, basemode, Storex402",crawled
+77,base,0x8f6448ea,0x8f6448ea8a6a0d223acf4f2746dab5d032c65b72,0,0,0,0.0,0,,crawled
+78,base,bagufps,0xa3d3fed954a332992cfec8c606eeb2a25fbb3864,85,39,46,82675.76,35,"Postal, adent42, KarpathyMolty, LessinBot, TEDDY",crawled
+79,base,GuruG_crypto,0x9224bbb4e0fbe2f2f8fab55debc41eb21fdfb804,142,90,47,144464.65,56,"KAITO, LINK, Surplus, TIBBIR, DVD",crawled
+80,base,CipherLight5426,0x5b617e16732c9f7f1445b1639bf241451c6f1789,1,0,1,77.28,1,cbBTC,crawled
+81,base,0x1c4be61a,0x1c4be61af408446207d2d443ac247118fd84fed8,0,0,0,0.0,0,,crawled
+82,base,KZMKBL,0x0064f043786e8c597d6565fcbf4f0989bdd0f9a3,142,45,70,42877.81,58,"KAITO, LINK, RNBW, BASED, BRETT",crawled
+83,base,BMooon97_,0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718,152,89,60,236103.69,42,"BILLY, FCAGENT, LAYA, RPC, 4CLAW",crawled
+84,base,i_icepy,0x4a40eb870dcf533d4dc097c3d87aafe9f64490a1,902,574,260,68566.42,386,"TOILET, Every Little Bit Counts, Jesse Polak Portrait , BRETTSKY, Based Memes",crawled
+85,base,CCCWDP,0xc0f24234a31050186b88c622a1389deec81f133e,2,1,1,320.3,1,AGC,crawled
+86,base,derekbrown,0x605e05bf092ebd18e06d1b0f699df5b9dd85d452,400,134,125,10980.71,115,"KICKS, derek, LOGO, BANNERS, NATIVE",partial_error
+87,base,ottabag,0xd4229d8166dbaa45689589d59fa968abc840b20f,0,0,0,0.0,0,,partial_error
+88,base,qwikcrypto,0x4e8c7f243fab07d2ff3761d1ca43414ac6f61d12,0,0,0,0.0,0,,partial_error
+89,base,jxs1688,0x2a080bd88e8c0c31ecc4966a056c0a88bac4422d,0,0,0,0.0,0,,partial_error
+90,base,rynm1x,0x72bb99200a89e608658a9032aad5aef6a41dd46f,0,0,0,0.0,0,,partial_error
+91,base,0xAA_Science,0x8d5624fa29526c879a1ca7560961e4c5a08089ae,49,22,19,45961.92,25,"WAIFU, STARKBOT, NOSOUL, DAYC, QZERO",crawled
+92,base,fengsuns,0xadf86e5f9216febddee08cc9dcf6574aa0b63506,0,0,0,0.0,0,,crawled
+93,base,ohzarke,0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe,3702,2295,1317,2721449.99,792,"RIPX, Agentsv2, WONKR, FCAGENT, Slack Tipbot",crawled
+94,base,xuxubaobao0819,0x9cd581ff7804f5f3caf35f55d3cf73fbf42f0072,3,1,2,565.26,1,SMOLTING,crawled
+95,base,shenshou888,0x77e5efcf4d14f6136242dc2f5618d1854761deef,16,5,3,3702.18,4,"LAYA, BASESTOCK, AndroidLM, CONDO",crawled
+96,base,HeyNat,0xb0bf6f6fd3c8bd194d94d39a41fcb99fdffb5273,68,21,45,13499.55,37,"KAITO, UNA, BASED, AiSTR, OwO",crawled
+97,base,0x21a50e77,0x21a50e77f350dccf33d08d2011501c64ad161028,612,263,349,318081.89,199,"MENTAT, owockibot, NEURO, 4CLAWNCH, Gleasonator",crawled
+98,base,Dodseven77,0x49b3e70dfc8b18654f5335532c17406794ac5ddd,4125,1962,2136,1041548.43,1100,"GitWiki, owockibot, ROYAL, eX Arena, POKEBALLS",crawled
+99,base,0xrahaa,0x092f8963e749910e23c2fc71d887538fcef9ca19,70,46,24,16972.64,24,"EXTRA, AIXBT, POLA, STONKEX, SOCIAL",crawled
+100,base,kristophgalland,0xb3397a6feedff2b9fce9ca1086cb1bdd617c16bf,740,447,283,311508.33,169,"EIKI, JACKET, HITOMI, BLAI, LOOT",crawled

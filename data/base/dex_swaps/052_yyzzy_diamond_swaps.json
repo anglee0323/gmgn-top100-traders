@@ -1,0 +1,80 @@
+{
+  "activities": [
+    {
+      "wallet": "0x20ff275ee89cbf0ece757d1691325b653dd4e756",
+      "chain": "base",
+      "tx_hash": "0x25cb2d39b2e8c26c711bfdd8171a77d57fe9f8376e5269470be82651b3a8afa0",
+      "timestamp": 1789547385,
+      "event_type": "sell",
+      "token": {
+        "address": "0x615c5c73f8d6f802804f056bc45afefe45dbe648",
+        "symbol": "FLM",
+        "logo": "https://gmgn.ai/external-res/330373ead8894d0b44c45a88a709504d_v2.webp",
+        "total_supply": "1000000000"
+      },
+      "token_amount": "40352770.16201795",
+      "quote_amount": "0.29536987787837915",
+      "cost_usd": "705.9103785390959",
+      "buy_cost_usd": "596.8496354050833",
+      "price_usd": "0.00001749348001821264",
+      "price": "0.000000007319692717",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x0000000000000000000000000000000000000000",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "quote_address": "0x0000000000000000000000000000000000000000",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000002788997688104",
+      "gas_usd": "0.006665481354753512",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "",
+      "launchpad_platform": ""
+    },
+    {
+      "wallet": "0x20ff275ee89cbf0ece757d1691325b653dd4e756",
+      "chain": "base",
+      "tx_hash": "0xe13b6d2ce9549d5a615437eea0ee48cd3a2113cf2e2c50bfe74e3f36a447bf9a",
+      "timestamp": 1789547115,
+      "event_type": "buy",
+      "token": {
+        "address": "0x615c5c73f8d6f802804f056bc45afefe45dbe648",
+        "symbol": "FLM",
+        "logo": "https://gmgn.ai/external-res/330373ead8894d0b44c45a88a709504d_v2.webp",
+        "total_supply": "1000000000"
+      },
+      "token_amount": "40352770.16201795",
+      "quote_amount": "0.244779975",
+      "cost_usd": "584.38036891575",
+      "buy_cost_usd": null,
+      "price_usd": "0.00001448179063132068",
+      "price": "0.000000006066001764",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x0000000000000000000000000000000000000000",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      },
+      "quote_address": "0x0000000000000000000000000000000000000000",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000002988814085474",
+      "gas_usd": "0.007135405083238063",
+      "dex_native": "0.002720025",
+      "dex_usd": "6.49370608425",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "",
+      "launchpad_platform": ""
+    }
+  ]
+}

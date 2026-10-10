@@ -1,0 +1,118 @@
+{
+  "activities": [
+    {
+      "wallet": "0x039d4461f3dacbf69830d64fe5cca5e180c49858",
+      "chain": "base",
+      "tx_hash": "0x3506a737c6573e5bd67fef2e3400a872a6c5fd3996994c27b90a855a9fb6baf2",
+      "timestamp": 1769858115,
+      "event_type": "sell",
+      "token": {
+        "address": "0xa1f72459dfa10bad200ac160ecd78c6b77a747be",
+        "symbol": "CLAWNCH",
+        "logo": "https://gmgn.ai/external-res/841824b6e5624169ae17ba1a2142c400_v2.webp",
+        "total_supply": "100000000000"
+      },
+      "token_amount": "63161614.59706007",
+      "quote_amount": "1.079710980658053",
+      "cost_usd": "2853.9352525145914",
+      "buy_cost_usd": "2655.9331064568246",
+      "price_usd": "0.00004518464688887988",
+      "price": "0.000000017094417037",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/3bfb259089b2f978b1878ffff8e9fd37_v2.webp"
+      },
+      "quote_address": "0x4200000000000000000000000000000000000006",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000024079123658433",
+      "gas_usd": "0.06364690281891644",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "clanker",
+      "launchpad_platform": "clanker"
+    },
+    {
+      "wallet": "0x039d4461f3dacbf69830d64fe5cca5e180c49858",
+      "chain": "base",
+      "tx_hash": "0xea7c5836d925bcfc4f9c28082749f638d4904813bd8bb784b1b20139ab104614",
+      "timestamp": 1769850343,
+      "event_type": "buy",
+      "token": {
+        "address": "0xa1f72459dfa10bad200ac160ecd78c6b77a747be",
+        "symbol": "CLAWNCH",
+        "logo": "https://gmgn.ai/external-res/841824b6e5624169ae17ba1a2142c400_v2.webp",
+        "total_supply": "100000000000"
+      },
+      "token_amount": "23641614.73980435",
+      "quote_amount": "0.2964071856287425",
+      "cost_usd": "785.6005688622754",
+      "buy_cost_usd": null,
+      "price_usd": "0.00003322956479454486",
+      "price": "0.000000012537518646",
+      "is_open_or_close": 0,
+      "quote_token": {
+        "token_address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/3bfb259089b2f978b1878ffff8e9fd37_v2.webp"
+      },
+      "quote_address": "0x4200000000000000000000000000000000000006",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000029319384142715",
+      "gas_usd": "0.07770838892569326",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "clanker",
+      "launchpad_platform": "clanker"
+    },
+    {
+      "wallet": "0x039d4461f3dacbf69830d64fe5cca5e180c49858",
+      "chain": "base",
+      "tx_hash": "0xf87f5afdeaa56d90cfed1076af8aff036ea91a7068cad0b4d38248f97c5a1228",
+      "timestamp": 1769833507,
+      "event_type": "buy",
+      "token": {
+        "address": "0xa1f72459dfa10bad200ac160ecd78c6b77a747be",
+        "symbol": "CLAWNCH",
+        "logo": "https://gmgn.ai/external-res/841824b6e5624169ae17ba1a2142c400_v2.webp",
+        "total_supply": "100000000000"
+      },
+      "token_amount": "39519999.85725572",
+      "quote_amount": "0.6916167664670658",
+      "cost_usd": "1870.173233532934",
+      "buy_cost_usd": null,
+      "price_usd": "0.00004732219737592296",
+      "price": "0.000000017500424316",
+      "is_open_or_close": 1,
+      "quote_token": {
+        "token_address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logo": "https://gmgn.ai/external-res/3bfb259089b2f978b1878ffff8e9fd37_v2.webp"
+      },
+      "quote_address": "0x4200000000000000000000000000000000000006",
+      "from_address": "",
+      "to_address": "",
+      "gas_native": "0.000030175244887107",
+      "gas_usd": "0.08159567268943055",
+      "dex_native": "0",
+      "dex_usd": "0",
+      "priority_fee": "0",
+      "tip_fee": "0",
+      "launchpad": "clanker",
+      "launchpad_platform": "clanker"
+    }
+  ]
+}
