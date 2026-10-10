@@ -225,7 +225,7 @@
     "x_username": "feibo03",
     "wallet_address": "0xe1e3252b8b2f9bf2a8335389ba8ee62e6ea29407",
     "address_status": "unmasked",
-    "total_realized_profit_usd": -3.865216465413011e+16,
+    "total_realized_profit_usd": 44436.47,
     "primary_chain": "bsc",
     "sol_balance": 68.193,
     "eth_balance": 68.193,
@@ -239,8 +239,8 @@
       "gmgn_go",
       "gmgn"
     ],
-    "realized_profit_all_usd": -3.865216465413011e+16,
-    "realized_profit_30d_usd": -3.865216465413011e+16,
+    "realized_profit_all_usd": 44436.47,
+    "realized_profit_30d_usd": 44436.47,
     "realized_profit_7d_usd": 44436.47,
     "realized_profit_1d_usd": -409.3,
     "winrate_all_pct": 52.3,
@@ -2174,7 +2174,7 @@
   {
     "rank": 42,
     "handle": "collet9094",
-    "name": "",
+    "name": "collet9094",
     "x_username": "collet9094",
     "wallet_address": "0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5",
     "address_status": "unmasked",

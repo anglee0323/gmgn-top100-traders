@@ -460,7 +460,7 @@
   },
   {
     "trader_handle": "yesp999",
-    "symbol": "",
+    "symbol": "UNKNOWN",
     "token_address": "0xe2be680d76f0c4ddd7a1ce79d21df7a0fade7777",
     "chain": "bsc",
     "usd_value": 166.4,

@@ -6,7 +6,7 @@
     "x_username": "krybharat",
     "wallet_address": "0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927",
     "address_status": "unmasked",
-    "total_realized_profit_usd": -521944.0,
+    "total_realized_profit_usd": 26869.23,
     "primary_chain": "base",
     "sol_balance": 0.0201,
     "eth_balance": 0.0201,
@@ -19,7 +19,7 @@
       "kol",
       "fomo"
     ],
-    "realized_profit_all_usd": -521944.0,
+    "realized_profit_all_usd": 26869.23,
     "realized_profit_30d_usd": 26869.23,
     "realized_profit_7d_usd": 44582.29,
     "realized_profit_1d_usd": 44582.29,
@@ -56,7 +56,7 @@
     "x_username": "",
     "wallet_address": "0x606d2c436a07be40c276a6176bb1376c34e49ee9",
     "address_status": "unmasked",
-    "total_realized_profit_usd": -153753408.91,
+    "total_realized_profit_usd": 10477.53,
     "primary_chain": "base",
     "sol_balance": 3.8073,
     "eth_balance": 3.8073,
@@ -68,7 +68,7 @@
     "tags": [
       "snipe_bot"
     ],
-    "realized_profit_all_usd": -153753408.91,
+    "realized_profit_all_usd": 10477.53,
     "realized_profit_30d_usd": 10477.53,
     "realized_profit_7d_usd": 4764.8,
     "realized_profit_1d_usd": 0.0,
@@ -1166,7 +1166,7 @@
   {
     "rank": 24,
     "handle": "collet9094",
-    "name": "",
+    "name": "collet9094",
     "x_username": "collet9094",
     "wallet_address": "0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5",
     "address_status": "unmasked",
@@ -4256,7 +4256,7 @@
     "x_username": "derekbrown",
     "wallet_address": "0x605e05bf092ebd18e06d1b0f699df5b9dd85d452",
     "address_status": "unmasked",
-    "total_realized_profit_usd": -74255236.9,
+    "total_realized_profit_usd": 3.34,
     "primary_chain": "base",
     "sol_balance": 0.0004,
     "eth_balance": 0.0004,
@@ -4270,7 +4270,7 @@
       "kol",
       "fomo"
     ],
-    "realized_profit_all_usd": -74255236.9,
+    "realized_profit_all_usd": 3.34,
     "realized_profit_30d_usd": 3.34,
     "realized_profit_7d_usd": 0.0,
     "realized_profit_1d_usd": 0.0,

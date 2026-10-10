@@ -823,7 +823,7 @@
     "x_username": "mr_petisui",
     "wallet_address": "0x60ae9123642f9387e4c6d4ef07ebe086bcfb0aa5",
     "address_status": "unmasked",
-    "total_realized_profit_usd": -15945074.68,
+    "total_realized_profit_usd": 12117.6,
     "primary_chain": "robinhood",
     "sol_balance": 0.5775,
     "eth_balance": 0.5775,
@@ -836,7 +836,7 @@
       "launchpad_smart",
       "gmgn"
     ],
-    "realized_profit_all_usd": -15945074.68,
+    "realized_profit_all_usd": 12117.6,
     "realized_profit_30d_usd": 12117.6,
     "realized_profit_7d_usd": 739.77,
     "realized_profit_1d_usd": -12.23,
@@ -1020,7 +1020,7 @@
   {
     "rank": 21,
     "handle": "collet9094",
-    "name": "",
+    "name": "collet9094",
     "x_username": "collet9094",
     "wallet_address": "0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5",
     "address_status": "unmasked",
@@ -4284,7 +4284,7 @@
   {
     "rank": 85,
     "handle": "ignHail",
-    "name": "",
+    "name": "ignHail",
     "x_username": "ignHail",
     "wallet_address": "0x07e8db253624b1cafaf576c54e84ceea2c50fa4a",
     "address_status": "unmasked",
