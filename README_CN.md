@@ -175,3 +175,7 @@ print(chain_summary)
 ## 许可证
 
 本数据集依据 [MIT 许可证](LICENSE) 开源发布。
+
+### 3.1 `data/<chain>/positions_fifo.parquet`（跨平台统一 FIFO 重建仓位表）
+
+各链目录下新增以跨平台统一 FIFO 口径重建的 token 级仓位表（与 FOMO 数据集同口径，便于跨样本研究）。字段与官方表兼容，新增 `wallet_address`、`remaining_token_amount`、三态 `outcome_label`（ROI 分箱 / `open_never_sold` / `open_partial`）与 `is_anomaly` 报价异常标记。方法详见关联研究报告《链上头部交易者行为分型与策略解构》附录 A。
