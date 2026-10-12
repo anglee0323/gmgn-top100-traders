@@ -1,0 +1,3002 @@
+[
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4vw54BmAogeRV3vPKWyFet5yf8DTLcREzdSzx4rw9Ud9.json",
+    "sha256": "55b5a551ada74d07aad7649582ca975cf50fea2e5a6bcdc6cb9229b884d1fe93",
+    "rows": 109500
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/498g1rVnFcnjBjpfw1xyqA1WvgQXUU8RWuELjxkjAayQ.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/498g1rVnFcnjBjpfw1xyqA1WvgQXUU8RWuELjxkjAayQ.json",
+    "sha256": "9e91cdd67a4e9dc672b15d8ba7898999456ffa1c6e05337433c0289262cd118b",
+    "rows": 7489
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/8deJ9xeUvXSJwicYptA9mHsU2rN2pDx37KWzkDkEXhU6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/8deJ9xeUvXSJwicYptA9mHsU2rN2pDx37KWzkDkEXhU6.json",
+    "sha256": "d7b474c35b2b2b435b968ec038f8ed558bd2c04ebd7aedbdf91a7c8dbbcb5db0",
+    "rows": 49455
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/ardinRsN1mNYVeoJWTBsWeYeXvuR9UUDGMsCDKpb6AT.json",
+    "sha256": "1b6771ff703e24d660821bef00a3a8ffb596dbfc6ab6168b68f0f47ba3b77aff",
+    "rows": 91984
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/Bi4rd5FH5bYEN8scZ7wevxNZyNmKHdaBcvewdPFxYdLt.json",
+    "sha256": "e4dbf06b63918546d1cc8100736b9e7bac38759fadf92b15bb9648027a79a766",
+    "rows": 109000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/DxM1hfY8FQ8dNGrucuJzhJcF8KRbjk8WBwrgKvQ9spPv.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/DxM1hfY8FQ8dNGrucuJzhJcF8KRbjk8WBwrgKvQ9spPv.json",
+    "sha256": "6a6d9b3b7275bbf0a218c091752353fa3d39447415169b5c87a641df86f2be4b",
+    "rows": 7635
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/BtMBMPkoNbnLF9Xn552guQq528KKXcsNBNNBre3oaQtr.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/BtMBMPkoNbnLF9Xn552guQq528KKXcsNBNNBre3oaQtr.json",
+    "sha256": "ca195bd90a8449e0cfa424fec87f9fc39e76925a76fa6fd86c1e20773402cc96",
+    "rows": 66673
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/215nhcAHjQQGgwpQSJQ7zR26etbjjtVdW74NLzwEgQjP.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/215nhcAHjQQGgwpQSJQ7zR26etbjjtVdW74NLzwEgQjP.json",
+    "sha256": "fbcc99585452982e772005d67b1c26408098ba4e5b83ca9cf3847d85f289f46f",
+    "rows": 10768
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/BQVz7fQ1WsQmSTMY3umdPEPPTm1sdcBcX9sP7o6kPRmB.json",
+    "sha256": "f3dfce1001c38ddb75534fc9823ee310b8a4c0d177e3333a7b2350516f57eddd",
+    "rows": 101273
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4k92XBen2ofaTYi5ntXX9TVjMPgFaaZRK5K8UmtLKqez.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4k92XBen2ofaTYi5ntXX9TVjMPgFaaZRK5K8UmtLKqez.json",
+    "sha256": "d44db92f340f53080fa81de5e5d0a9122eab4114c3e64aee81ea3cd2b3fef3d1",
+    "rows": 44225
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/F9zT1F46HAoPanR4NC1Yw7TyP8Z9tCavTe48mrzK7aN4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/F9zT1F46HAoPanR4NC1Yw7TyP8Z9tCavTe48mrzK7aN4.json",
+    "sha256": "0662ddc64643b63e03d261d048ca019f0275233733de6bed7497ef7f2e7e81db",
+    "rows": 38135
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/FAicXNV5FVqtfbpn4Zccs71XcfGeyxBSGbqLDyDJZjke.json",
+    "sha256": "757ddc12ca5c5570ca54a101ec67fdc1b70f866a19101e5fd2647850b1982a16",
+    "rows": 51525
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/99i9uVA7Q56bY22ajKKUfTZTgTeP5yCtVGsrG9J4pDYQ.json",
+    "sha256": "dfd942c2b820e4d43ec02ff53b2ebd20e1ef6c988c769e456e1afd86ffec1ef6",
+    "rows": 108000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/8MaVa9kdt3NW4Q5HyNAm1X5LbR8PQRVDc1W8NMVK88D5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/8MaVa9kdt3NW4Q5HyNAm1X5LbR8PQRVDc1W8NMVK88D5.json",
+    "sha256": "577dea0337165909d829963c157a58d34482fe2f88bb7269a89c2e37a26fcf52",
+    "rows": 50218
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2fg5QD1eD7rzNNCsvnhmXFm5hqNgwTTG8p7kQ6f3rx6f.json",
+    "sha256": "33c50858ac769fd7fd3091ca52d96c8d720cc3a16b4a21acd617d9df08286575",
+    "rows": 108000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4BdKaxN8G6ka4GYtQQWk4G4dZRUTX2vQH9GcXdBREFUk.json",
+    "sha256": "431751a16b821563ef32cff23f084808be0de772ffe38208d84f3c42b9fdafc9",
+    "rows": 43401
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/6S8GezkxYUfZy9JPtYnanbcZTMB87Wjt1qx3c6ELajKC.json",
+    "sha256": "6aa02507d7eb85d8e94bbd2e5300dedae62a20ce9983fc76c43a53c111bb9a1d",
+    "rows": 41315
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/J56M2D9BeigqKVTNGSegVho8s8d9XtFueFDurN5z9Fxf.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/J56M2D9BeigqKVTNGSegVho8s8d9XtFueFDurN5z9Fxf.json",
+    "sha256": "dbcaa0237524a9c2c5a2056f9057ddcfb243cc51d181f8b3af73dc744024a7f7",
+    "rows": 1424
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK.json",
+    "sha256": "6a50ed6159f8e35ae17c83b538e7331b1c1e675799389ba0f6aa1aae6769fbab",
+    "rows": 108000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4fZFcK8ms3bFMpo1ACzEUz8bH741fQW4zhAMGd5yZMHu.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4fZFcK8ms3bFMpo1ACzEUz8bH741fQW4zhAMGd5yZMHu.json",
+    "sha256": "6a2cd303ac88c76bf4a36dbe087cd7c291a1b255425521a2848b7d0226534cfe",
+    "rows": 15251
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/hGPG7jEQLKz6muJJV37hhSRMrNLErRu3K1vk4zhDSbB.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/hGPG7jEQLKz6muJJV37hhSRMrNLErRu3K1vk4zhDSbB.json",
+    "sha256": "129b8d61c7181c3eaf31a4f2ee1d56eb16c9cd0831d80a4ec405481fdc7e3885",
+    "rows": 1852
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/HmBmSYwYEgEZuBUYuDs9xofyqBAkw4ywugB1d7R7sTGh.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/HmBmSYwYEgEZuBUYuDs9xofyqBAkw4ywugB1d7R7sTGh.json",
+    "sha256": "af7619832ef96ae44afe6aa9050d1756d61b4b55f1b8fcbc0e69c6158c5ebfe8",
+    "rows": 48395
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/sAdNbe1cKNMDqDsa4npB3TfL62T14uAo2MsUQfLvzLT.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/sAdNbe1cKNMDqDsa4npB3TfL62T14uAo2MsUQfLvzLT.json",
+    "sha256": "011059ce286c288caa015b1cd8a0a303616e346477eb4970a26f64370e0f2f91",
+    "rows": 28884
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/AVjEtg2ECYKXYeqdRQXvaaAZBjfTjYuSMTR4WLhKoeQN.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/AVjEtg2ECYKXYeqdRQXvaaAZBjfTjYuSMTR4WLhKoeQN.json",
+    "sha256": "930cee8498232fef2d029f818d98e0c7c9122d9232d7298f423c4ad246a2369e",
+    "rows": 72297
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/CKcWAvvDYr2H3Wj3ACr5zRynrYRSzir2zE5bTf8wiUmT.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/CKcWAvvDYr2H3Wj3ACr5zRynrYRSzir2zE5bTf8wiUmT.json",
+    "sha256": "51225245f1288e937fd7b1cd601ef28b5e84c7bebcf91304c1537e0618146413",
+    "rows": 44417
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/78N177fzNJpp8pG49xDv1efYcTMSzo9tPTKEA9mAVkh2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/78N177fzNJpp8pG49xDv1efYcTMSzo9tPTKEA9mAVkh2.json",
+    "sha256": "46f589bf1d8eaab8590804ec88a75a0c617a4a81baa1b6ea128b74f89faa8140",
+    "rows": 66212
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/8MoW9mtbEz6z3gPuAdYb1yWhjCAxQSYqpcTb1CQgN5qb.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/8MoW9mtbEz6z3gPuAdYb1yWhjCAxQSYqpcTb1CQgN5qb.json",
+    "sha256": "40960c46f41dca2ec010349561f990c8d72582735c640e44366895692d9a5572",
+    "rows": 8098
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2kW5wLFQw1wLuepZTJux1DZsTJSbNi2PGQ1E6hC7xeY8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2kW5wLFQw1wLuepZTJux1DZsTJSbNi2PGQ1E6hC7xeY8.json",
+    "sha256": "d6c36b15a7c4878da8509c0ccf803dd9fae7210b6b9b0570aaa4797ce2ebe8b8",
+    "rows": 9970
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GJA1HEbxGnqBhBifH9uQauzXSB53to5rhDrzmKxhSU65.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GJA1HEbxGnqBhBifH9uQauzXSB53to5rhDrzmKxhSU65.json",
+    "sha256": "d406a61dd8b11caaa4d0f5f19f242a3dd60538945c4e16b2571615b6567cd49d",
+    "rows": 32466
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/A73unoJqKuLqfJCHqjvS7SccneuzY8FoXq47x2UwoCKe.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/A73unoJqKuLqfJCHqjvS7SccneuzY8FoXq47x2UwoCKe.json",
+    "sha256": "5d9df4c16013827dfb4518e5555d2f0a2e9ba289fd7278fe18fdc380bab8fc4d",
+    "rows": 846
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/67Nwfi9hgwqhxGoovT2JGLU67uxfomLwQAWncjXXzU6U.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/67Nwfi9hgwqhxGoovT2JGLU67uxfomLwQAWncjXXzU6U.json",
+    "sha256": "0d62927b1cf7327e4df899b8d43112180a9197d2193ee9b50ee14149aff61218",
+    "rows": 52282
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/DYAn4XpAkN5mhiXkRB7dGq4Jadnx6XYgu8L5b3WGhbrt.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/DYAn4XpAkN5mhiXkRB7dGq4Jadnx6XYgu8L5b3WGhbrt.json",
+    "sha256": "864c1de22635692131bbff0d1738694672388ae9e1dcf90c053a5246bf6214fc",
+    "rows": 29998
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm.json",
+    "sha256": "8d6cf320973fc2ae60611460785ccf70eab856ca6e91985608785c9f222a19ae",
+    "rows": 2408
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/FK5z4HVnGCLbMNATcAVm81551Ng6NZU6uRFezzMKdF3k.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/FK5z4HVnGCLbMNATcAVm81551Ng6NZU6uRFezzMKdF3k.json",
+    "sha256": "ed79f706cf8d4b99af089dda748e6eca1c097c24c147da4dc9b1de65de375938",
+    "rows": 22637
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2T5NgDDidkvhJQg8AHDi74uCFwgp25pYFMRZXBaCUNBH.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2T5NgDDidkvhJQg8AHDi74uCFwgp25pYFMRZXBaCUNBH.json",
+    "sha256": "3e68841d0f89bf5740b95dbfde4ff49d3b581534103e9d00cbecf6048136fc73",
+    "rows": 19164
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/9iaawVBEsFG35PSwd4PahwT8fYNQe9XYuRdWm872dUqY.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/9iaawVBEsFG35PSwd4PahwT8fYNQe9XYuRdWm872dUqY.json",
+    "sha256": "154753061942568684ca6d738b2b64405edcc81c597d502b9eb68615f35e88d5",
+    "rows": 24082
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2tVnqzRozPkkB8ar6UwaKK48nm1MNK616QN33ooA1i8A.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2tVnqzRozPkkB8ar6UwaKK48nm1MNK616QN33ooA1i8A.json",
+    "sha256": "95181a469cacbbbf95d9e09082bd3da8aece815c68a7dd137c4bd6ae3e916bd7",
+    "rows": 8881
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/7iPPqPyrqcmfenRs4xZ72ab4pyuUofXB5YaQB83WJmT9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/7iPPqPyrqcmfenRs4xZ72ab4pyuUofXB5YaQB83WJmT9.json",
+    "sha256": "e1052f0b67fe8d146a4edc1bc6f6f9aa1510329f9a34eb593dee597619e2ee75",
+    "rows": 1023
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/9A4h17UgLGaVws6T1mBxzH5gkG35CUSrTfNgNK5Uj4Rp.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/9A4h17UgLGaVws6T1mBxzH5gkG35CUSrTfNgNK5Uj4Rp.json",
+    "sha256": "5f8ce66cca54e326773d7c312363572c4b014b6975f86e40a2cb41a66a797395",
+    "rows": 21254
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/3g4D4n67vUFSDUwW8NWvzkQSUqD4J5H8zW1sbKJrrczi.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/3g4D4n67vUFSDUwW8NWvzkQSUqD4J5H8zW1sbKJrrczi.json",
+    "sha256": "58707a76d4196021eac44b75a6f7d2137430d3a1ee7668a9fa9d5ec11af0794c",
+    "rows": 403
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/AreSXNRAsnwrKaQvg2H5trpQNqfprRPT62Y5EDU5h7xf.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/AreSXNRAsnwrKaQvg2H5trpQNqfprRPT62Y5EDU5h7xf.json",
+    "sha256": "999e8f88db1a8c0b72319421ebdc39c1f32f0ead05dd937765c7bcc2021302e9",
+    "rows": 8364
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/ENkZtLj1onzQRGnEeRkQfFzBeeY2dCeiQMXDzh8XbQbj.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/ENkZtLj1onzQRGnEeRkQfFzBeeY2dCeiQMXDzh8XbQbj.json",
+    "sha256": "dc06a1fe1bcb14d20761706c5232a2dd39d0e4003a766fd5cccf1def33ab771e",
+    "rows": 2770
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2p2mgFLmzN82sShZeAaBGmj9zFpam4xu8g4g3wqx2ks6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2p2mgFLmzN82sShZeAaBGmj9zFpam4xu8g4g3wqx2ks6.json",
+    "sha256": "a47400167abfbae856fcc02a78b895bb3ee6929b454581bb3bb7888c8d240735",
+    "rows": 27684
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/Go9BEhJGCpbXFzky6SWcofqQyuiKrtE1m9Knx1aiZCc8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/Go9BEhJGCpbXFzky6SWcofqQyuiKrtE1m9Knx1aiZCc8.json",
+    "sha256": "b94ca3864898bd13218053fac63ba1c39e8a53691ae0e4f6f55a8485373de4ee",
+    "rows": 43088
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/98T65wcMEjoNLDTJszBHGZEX75QRe8QaANXokv4yw3Mp.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/98T65wcMEjoNLDTJszBHGZEX75QRe8QaANXokv4yw3Mp.json",
+    "sha256": "6791566ce15f709f007ef4993ccdeb34edb3c3832abc8666ec7872e3495c8bc7",
+    "rows": 69005
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/AcKpsk3AKJR8YiTrHr2XCFZ2WV8gcM3zjgcr4P1MjHD1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/AcKpsk3AKJR8YiTrHr2XCFZ2WV8gcM3zjgcr4P1MjHD1.json",
+    "sha256": "baf292b0618ec7fa56114d0dc036447dc1eca54a1b2ffce400d02721e09a240b",
+    "rows": 17037
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/89HbgWduLwoxcofWpmn1EiF9wEdpgkNDEyPjzZ72mkDi.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/89HbgWduLwoxcofWpmn1EiF9wEdpgkNDEyPjzZ72mkDi.json",
+    "sha256": "84a8d3c2c153ced67835b505dd5363e01b2f8a6fefad6fdbb34a4a755a6ae021",
+    "rows": 52363
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/EQaxqKT3N981QBmdSUGNzAGK5S26zUwAdRHhBCgn87zD.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/EQaxqKT3N981QBmdSUGNzAGK5S26zUwAdRHhBCgn87zD.json",
+    "sha256": "d2ef852d533406b7acd570e90864f842a7008b0d4d277030798b46af8e481fc0",
+    "rows": 86985
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GfXQesPe3Zuwg8JhAt6Cg8euJDTVx751enp9EQQmhzPH.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GfXQesPe3Zuwg8JhAt6Cg8euJDTVx751enp9EQQmhzPH.json",
+    "sha256": "ddbe6ff93e8d249d5ae09a11b24b9ff8c12cd6ebbd96051946f5815b707d9fa8",
+    "rows": 14317
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2JptG7VJTuohCNrEE2iVT43UtjTNqRTVMsgNs8xeotbC.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2JptG7VJTuohCNrEE2iVT43UtjTNqRTVMsgNs8xeotbC.json",
+    "sha256": "6556871f8348b10234993ea749c2a88f3c7255d3cfe8cea8155f7b7f10e6b9e8",
+    "rows": 31750
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/CWryqL8F79bCUPfRMnFHxXpJEyW5TixWe59hEuFXWYnD.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/CWryqL8F79bCUPfRMnFHxXpJEyW5TixWe59hEuFXWYnD.json",
+    "sha256": "246b4e69bf2e625ab71578210b8317e1e2e208a30369512739c5d7889e6d6b7c",
+    "rows": 46216
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/7tkPWE2cZ3uQncuiF9DzpAdR7YLSG2Q14M8cjZMCaAqr.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/7tkPWE2cZ3uQncuiF9DzpAdR7YLSG2Q14M8cjZMCaAqr.json",
+    "sha256": "abd17eec72b9707b41675cfca7e2b5451802220156a28bbe7c10795440c1a498",
+    "rows": 5621
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/5x8tfrJSn4Pt5gjQEMWDnoLvAzZ8rgJVTXiTpcwhbxmN.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/5x8tfrJSn4Pt5gjQEMWDnoLvAzZ8rgJVTXiTpcwhbxmN.json",
+    "sha256": "3da22c595587be668ee1a5a141d73d9fa3394aeca373a43c2a575ad098b150ec",
+    "rows": 1541
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/CFkdHRybyzwFffHcjMAkzZmWBtxV5PjwofDNWge8tjG3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/CFkdHRybyzwFffHcjMAkzZmWBtxV5PjwofDNWge8tjG3.json",
+    "sha256": "5a991161291b268f6a327d14cc098fc9b8d3307d34355a1eec49eab9283b8bd4",
+    "rows": 5597
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2W14ahXD3XBfWJchQ4K5NLXmguWWcTTUTuHDhEzeuvP3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2W14ahXD3XBfWJchQ4K5NLXmguWWcTTUTuHDhEzeuvP3.json",
+    "sha256": "9eb02d14198fce68859403eacb3c5998eb428bef0a76d6c6f68bad8bbd4106d0",
+    "rows": 19758
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/DZAa55HwXgv5hStwaTEJGXZz1DhHejvpb7Yr762urXam.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/DZAa55HwXgv5hStwaTEJGXZz1DhHejvpb7Yr762urXam.json",
+    "sha256": "79a44684d9a03629814445c9df9805fe0066cb04a409ac144d1f659bc6fb8658",
+    "rows": 46838
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/Aeg9rNNqNPw6qQ2RgzBHvz25AF1fPqiVBKupd6YQNZmT.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/Aeg9rNNqNPw6qQ2RgzBHvz25AF1fPqiVBKupd6YQNZmT.json",
+    "sha256": "320d452f015a78b4ac1c5c83324b028b7865b1b53efa17cb673433b90e966699",
+    "rows": 54543
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4s2WzRLa35FB58bZY1i4CN3WoywJeuYrGYHnTKFsT23z.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4s2WzRLa35FB58bZY1i4CN3WoywJeuYrGYHnTKFsT23z.json",
+    "sha256": "627b2fb4d84eefb38d3be7a2ae24bad452b2077da9199104a4cb509a8a06e2e0",
+    "rows": 9300
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/ALauG4FwEYDgSXd5Hen6kvuWSCdUi2fYNSNqM1Ci31wE.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/ALauG4FwEYDgSXd5Hen6kvuWSCdUi2fYNSNqM1Ci31wE.json",
+    "sha256": "f15caa1f00fc87827ef7f988fd11e388b98cd41f7c7f66dc4d88a4b7f748ed95",
+    "rows": 2579
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4jCZyZar7EzWACSrh1c589th8hNTD6vZmqdr5m5JdGnj.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4jCZyZar7EzWACSrh1c589th8hNTD6vZmqdr5m5JdGnj.json",
+    "sha256": "79a1c2efb34a0726b481244ae899d872c32ca4c7176755cb8a810f028bf5591a",
+    "rows": 3377
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/9St6ETbe3CFitw6UNSd8kg7kZ6STXy71wEGiERqQj89U.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/9St6ETbe3CFitw6UNSd8kg7kZ6STXy71wEGiERqQj89U.json",
+    "sha256": "3c2ec88b865b37e2a8487982b8e18933eb6d6183b95d17bc5e211a5276acebee",
+    "rows": 17404
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/5QXMkhu3ycDtwsbkpE7xfVYtUiJxFBg8BU16KzbCkvkx.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/5QXMkhu3ycDtwsbkpE7xfVYtUiJxFBg8BU16KzbCkvkx.json",
+    "sha256": "44ae0b7280a299b3e30768bb04d60fb1da8b9f3eee2f2ee2e96d73182cb890de",
+    "rows": 14027
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/5zV5iXB54RmCoVV5B5MfmiD14NhbxRXRgtsEBcw4yn1y.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/5zV5iXB54RmCoVV5B5MfmiD14NhbxRXRgtsEBcw4yn1y.json",
+    "sha256": "b15b12d13cacaf7c059103a2f7ddee4c3932cbe87ef38ca1842dbfa4b5a01b9f",
+    "rows": 10675
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/FVZRwUp6E4m9jV4VumF8q7m8q3mF9fpikRrJSCCfFAdP.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/FVZRwUp6E4m9jV4VumF8q7m8q3mF9fpikRrJSCCfFAdP.json",
+    "sha256": "8b13cbe0816d61a6cf4505e3db1a834e0fcc98b68a8e816291bae663a2f925e6",
+    "rows": 12062
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GUjYXh4aR9tDJ1yU1gsa91LtivS5t84CZF3mP5SBkKhz.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GUjYXh4aR9tDJ1yU1gsa91LtivS5t84CZF3mP5SBkKhz.json",
+    "sha256": "f9b1a27ba981e603ee862d447af85c1a80976196f847aa6ebff4bf5a4bad0f02",
+    "rows": 3114
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/J898BLdjUWFPsvqwraj1rjg33rE9B6zJY6HvWFKx71fo.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/J898BLdjUWFPsvqwraj1rjg33rE9B6zJY6HvWFKx71fo.json",
+    "sha256": "30eae305265151d16d10291af97616c8254aab780dd76fc191eb0a1221f84887",
+    "rows": 28011
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/H2KMZofxpUdcvg6uyFi4so4xx6cD8WeGbb3w1gkCNt2v.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/H2KMZofxpUdcvg6uyFi4so4xx6cD8WeGbb3w1gkCNt2v.json",
+    "sha256": "311a5de96c1b6983f9b3a8d76defe495e04a1896b3950abd9e32fbf6bac5abc1",
+    "rows": 1137
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/HZGy7Kwh5UvhnPjCSmkB4e8G6t8ZeREsWTFhhK7as39B.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/HZGy7Kwh5UvhnPjCSmkB4e8G6t8ZeREsWTFhhK7as39B.json",
+    "sha256": "122bbb42d2cf3b90311d6d74f670d7043063e31d378c912d8077885228e462d0",
+    "rows": 39210
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/3wERCwv3tht8ZtQurP2or8KGon6Q8nWXcBKxAuXcBS9G.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/3wERCwv3tht8ZtQurP2or8KGon6Q8nWXcBKxAuXcBS9G.json",
+    "sha256": "35295dee67e313a93a871e136a280f6dc64538a960dbae92b1b8a80c69a42852",
+    "rows": 14406
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/5d3jQcuUvsuHyZkhdp78FFqc7WogrzZpTtec1X9VNkuE.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/5d3jQcuUvsuHyZkhdp78FFqc7WogrzZpTtec1X9VNkuE.json",
+    "sha256": "1a419c9a1798edb2354e514bc7da6c6094e8dcde235b1e851fb783472570b641",
+    "rows": 8177
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GPLmVnDTjo4f6zsKQLzuzvqRouCNrnA6LPJyGw1iL8aW.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GPLmVnDTjo4f6zsKQLzuzvqRouCNrnA6LPJyGw1iL8aW.json",
+    "sha256": "650c01582c87ef954554ac1cd38a4722a9e2f5ffca2d8d34407367521104e4aa",
+    "rows": 38796
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/CCUcjek5p6DLoH2YNtjizxYhAnStXAQAGVxhp1cYJF7w.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/CCUcjek5p6DLoH2YNtjizxYhAnStXAQAGVxhp1cYJF7w.json",
+    "sha256": "40d71decd803c447b793c94fd2dc4c5c1587c1efae9ed631b23ac9f6826a1815",
+    "rows": 3393
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GapKqefWtpzNaMPMB6BWXt5Ad9E99RX2muyVLoK8hJt8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GapKqefWtpzNaMPMB6BWXt5Ad9E99RX2muyVLoK8hJt8.json",
+    "sha256": "715e2b15074c4f1db042b753c846a1d449d1ac5cc22c8de704f7c346dcfb8a00",
+    "rows": 992
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/AyVr86YXLg5ZC2JgLjPQYWvxjr74sC7CBGMznoStNzao.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/AyVr86YXLg5ZC2JgLjPQYWvxjr74sC7CBGMznoStNzao.json",
+    "sha256": "72a89076268f8deca9f293935982d0e0788860667d1e0ae80d9dd93e68750e10",
+    "rows": 16986
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/HVWZxaTiFDz1KuzFyQuqSSLiEfD5gyhCi6V7pbQpA888.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/HVWZxaTiFDz1KuzFyQuqSSLiEfD5gyhCi6V7pbQpA888.json",
+    "sha256": "938af626f1788d34592be7d07cac5999df66fe7a1131e3e899aaff96843d93a6",
+    "rows": 2455
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/Dv32u9mvSXGVNshf7xM7afuMoPRifQxzuzEjfmfMysZY.json",
+    "sha256": "4933f600b828f79b967be6e7ffb9f0c7bae60854f6da287050cca98d6a7d7518",
+    "rows": 6210
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4uCT4g7YHH4xxfmfNfKUDenwGrRNGoZ9Ay1XFxfUGhQG.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4uCT4g7YHH4xxfmfNfKUDenwGrRNGoZ9Ay1XFxfUGhQG.json",
+    "sha256": "9c77edcb59fdb123e63fd041d81f04994a4c803ac130bf78b45313477f5ce179",
+    "rows": 108000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/VVV4C8wbLVU5Yw2JmdF7SPmoG2ubmJmmcjzHAJcdHgH.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/VVV4C8wbLVU5Yw2JmdF7SPmoG2ubmJmmcjzHAJcdHgH.json",
+    "sha256": "f8d91452bf30d1cb38528f0e0390f65e78e478a5629eeb5aafb2a16f8210d52b",
+    "rows": 43295
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd.json",
+    "sha256": "53ef255cfa02abf95426305a0e743b7061308b21e9652ea502b3875e49c0ba24",
+    "rows": 1083
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/J23qr98GjGJJqKq9CBEnyRhHbmkaVxtTJNNxKu597wsA.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/J23qr98GjGJJqKq9CBEnyRhHbmkaVxtTJNNxKu597wsA.json",
+    "sha256": "0cbbd01816e51931c7aa2fa4576c68855370e96b4b460086a362149b3a2fb43b",
+    "rows": 6514
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/B6f55KyfEBmbc8PwV7M6oWSp3Z6A1WB5yLuJxSzZZsKR.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/B6f55KyfEBmbc8PwV7M6oWSp3Z6A1WB5yLuJxSzZZsKR.json",
+    "sha256": "530f6932e905c9d367dfe4d9ec77190a87bb0f5f8c6ea541e51dcd304ecc8da2",
+    "rows": 2481
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/78qpVLBrsFAYz6BtoXbGTpeaPUrSH54wNbhvYEH8gUuy.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/78qpVLBrsFAYz6BtoXbGTpeaPUrSH54wNbhvYEH8gUuy.json",
+    "sha256": "71e387dc752848ed72ca7f829d9eb610a02f64c59d491ba33f49956bfd9238d1",
+    "rows": 5250
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/ENnyxqJAWwKeXkWxAeNfM2K8dS8GBcoNmwiM3EcWQT2u.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/ENnyxqJAWwKeXkWxAeNfM2K8dS8GBcoNmwiM3EcWQT2u.json",
+    "sha256": "953e828430abc96d9e177748274244956b96b40207a99f45afa97eafe76655fa",
+    "rows": 6900
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/AE4MPGvpMeCA7MwUakAxAQZTzcijPAXcFsoAQmtLrL4V.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/AE4MPGvpMeCA7MwUakAxAQZTzcijPAXcFsoAQmtLrL4V.json",
+    "sha256": "564effd877ac308d871a293c3a440434187a45f21d8f85dba1d3a75d133bbd98",
+    "rows": 9198
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/EP5mvfhGv6x1XR33Fd8eioiYjtRXAawafPmkz9xBpDvG.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/EP5mvfhGv6x1XR33Fd8eioiYjtRXAawafPmkz9xBpDvG.json",
+    "sha256": "ac3007232d7d149530fcc8f4780930a56a3717eb88368db59cfb140e34a2427f",
+    "rows": 15393
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/DuQabFqdC9eeBULVa7TTdZYxe8vK8ct5DZr4Xcf7docy.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/DuQabFqdC9eeBULVa7TTdZYxe8vK8ct5DZr4Xcf7docy.json",
+    "sha256": "0409c22fa61919f2ae71a3ce08ff9e1de0234dd228ee1f921af333b8f5343095",
+    "rows": 6985
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4FKdCMRVErM4vLXPm4TEEYcunSVC3vDqRWtiveFQ99uH.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4FKdCMRVErM4vLXPm4TEEYcunSVC3vDqRWtiveFQ99uH.json",
+    "sha256": "01d5bb9a5acb189e2f2ae1ec38f0df7981c20c9a778302a448ec0f3ef27b321d",
+    "rows": 24657
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/EHg5YkU2SZBTvuT87rUsvxArGp3HLeye1fXaSDfuMyaf.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/EHg5YkU2SZBTvuT87rUsvxArGp3HLeye1fXaSDfuMyaf.json",
+    "sha256": "193ac4d202d2717e9bf177f8adbbaf41c3ac18e228ff22936c7887de9f3615d2",
+    "rows": 29807
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/6G8Cu53PRgm5aPHxMaZRguYHJfaNxmnmgoR129cKMvJk.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/6G8Cu53PRgm5aPHxMaZRguYHJfaNxmnmgoR129cKMvJk.json",
+    "sha256": "7a8ca03e328c4c41d7eace5ccbfc02b3af4d7bdcd6277eb5efe7445ea48b52ed",
+    "rows": 83099
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GnBbV25vuKvW8z8gGyutt1JxLYnDBPnNAuWEbcAhvS84.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GnBbV25vuKvW8z8gGyutt1JxLYnDBPnNAuWEbcAhvS84.json",
+    "sha256": "a941f8ea0a13f9dbee2ed7ad0d47477154007fa52e32bc3d4437373a6c23c5dd",
+    "rows": 16450
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4NtyFqqRzvHWsTmJZoT26H9xtL7asWGTxpcpCxiKax9a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4NtyFqqRzvHWsTmJZoT26H9xtL7asWGTxpcpCxiKax9a.json",
+    "sha256": "f6fe37ad3a6c1c69e0304eb50277672359091991b8ea1ea7a90cc6f52ef9a581",
+    "rows": 4735
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/35ymPRRC1cPRt3XtwE46o79t734k8ZyCmXDbiibNd3M4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/35ymPRRC1cPRt3XtwE46o79t734k8ZyCmXDbiibNd3M4.json",
+    "sha256": "e02eb474eac805182d4f6c490addd73fba63cc69818c603fa6de8fda4843173b",
+    "rows": 2830
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/8fMq3Kz6CnayEJaZ7SfFnX1KPCpNjCSdoa8F2kMzewjd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/8fMq3Kz6CnayEJaZ7SfFnX1KPCpNjCSdoa8F2kMzewjd.json",
+    "sha256": "aa68d479badec0bb4ffb5faed5aff24254438e2661c72ccc4e58dddf0329854a",
+    "rows": 29098
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/GBERKNpahPnBGmeUGWQVjGBDBj6CcJKpGz34FqegmTgu.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/GBERKNpahPnBGmeUGWQVjGBDBj6CcJKpGz34FqegmTgu.json",
+    "sha256": "52acd9d3b3a4a885b740419ea611c2396860a2b9a10141b83c8ae3fd1a072f82",
+    "rows": 12154
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/4XMPyWFsYdNcCN4FG8geyytyTeUNacn4QundBzMqbGGT.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/4XMPyWFsYdNcCN4FG8geyytyTeUNacn4QundBzMqbGGT.json",
+    "sha256": "508dacc88b521536d13cb74b794f643b35b07e6aad456038241ebd7b91f62cdf",
+    "rows": 35968
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/9W69DaLY58ZmLDBuqxVPKRhEWBPD61QQgQ4qH8m6qAJD.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/9W69DaLY58ZmLDBuqxVPKRhEWBPD61QQgQ4qH8m6qAJD.json",
+    "sha256": "dffe93e811bf8c85b35618ef26f71becd08ffbee446d8bafd387785c17dcd693",
+    "rows": 1146
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/2kv8X2a9bxnBM8NKLc6BBTX2z13GFNRL4oRotMUJRva9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/2kv8X2a9bxnBM8NKLc6BBTX2z13GFNRL4oRotMUJRva9.json",
+    "sha256": "49bcf3e515789e5498925dc685c972f409528af6ffbc2d820127ab4372732c6e",
+    "rows": 23095
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/3hxVcXUVCiV9L3FQvRjFmd2kPqpsmZY4M4czCQftd8QQ.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/3hxVcXUVCiV9L3FQvRjFmd2kPqpsmZY4M4czCQftd8QQ.json",
+    "sha256": "94d1d3db23165b4b7cf523c42a4c079bb6ba5527759201327bc776cc9df26721",
+    "rows": 311
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/7tiRXPM4wwBMRMYzmywRAE6jveS3gDbNyxgRrEoU6RLA.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/7tiRXPM4wwBMRMYzmywRAE6jveS3gDbNyxgRrEoU6RLA.json",
+    "sha256": "2cc6d4e23bd2326ec9a5ac3683b6b2725002c5b598abbdb7e4f00cee9fd25414",
+    "rows": 34049
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/sol/9yYya3F5EJoLnBNKW6z4bZvyQytMXzDcpU5D6yYr4jqL.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/sol/9yYya3F5EJoLnBNKW6z4bZvyQytMXzDcpU5D6yYr4jqL.json",
+    "sha256": "2f558a7bfc877c9cf5e3b6341bbe725f3cc5fbe08bdcb0c789a728ebad0e0233",
+    "rows": 10534
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x01db37579e55ce13f4504019025e36047bdad845.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x01db37579e55ce13f4504019025e36047bdad845.json",
+    "sha256": "34479744991d3dde7324cb15acd0389890c7037334e98dfc12dd2cbb08890a2d",
+    "rows": 714
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "sha256": "ab92f7170c49654c458f4b275ff3c5a76b3aa3fdc23b79572d50fe972563294a",
+    "rows": 30805
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xa83b73f5644cde337b61da79589f10ea15548811.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xa83b73f5644cde337b61da79589f10ea15548811.json",
+    "sha256": "ab81cc9e626e6e176f88786d67178ded839cd8d2491d64ce3e5d14244d97b285",
+    "rows": 109000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x7a2363a401b2340c7941dd2eeff0196a5078d2e6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x7a2363a401b2340c7941dd2eeff0196a5078d2e6.json",
+    "sha256": "feffd4abd4ba91fb40ce3de9ab082b7f0f7927db5a2a401ff09708cc9a05713b",
+    "rows": 81673
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xbf004bff64725914ee36d03b87d6965b0ced4903.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xbf004bff64725914ee36d03b87d6965b0ced4903.json",
+    "sha256": "22e795dd68e0135d9b65770531ff23f1f2127e51ca85a8238cf5d9c8b328e7de",
+    "rows": 109000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xbac453b9b7f53b35ac906b641925b2f5f2567a89.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xbac453b9b7f53b35ac906b641925b2f5f2567a89.json",
+    "sha256": "78d992257255f4e2f6ac163e94ede35ceb11a74d32e5d6364071674cef34cadc",
+    "rows": 11843
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x3472ccf6209925204b9cf352171ee150904fda7e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x3472ccf6209925204b9cf352171ee150904fda7e.json",
+    "sha256": "7547587a44ac568b5d53a98b00cf8f0fe33cc4f0bd10e6ba86cd50f5379a0c6c",
+    "rows": 34061
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xeb89055e16ae1c1e42ad6770a7344ff5c7b4f31d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xeb89055e16ae1c1e42ad6770a7344ff5c7b4f31d.json",
+    "sha256": "90598164d1391e4e2ac03828e020448681366cc70617dbaa96c82752912335fa",
+    "rows": 1994
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9.json",
+    "sha256": "314c10534b8015661457a3a649cf633f47a9709e46813bd099d9f492116811e7",
+    "rows": 888
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x877af245c61289b24f0c619a4346cdbc68f1aaac.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x877af245c61289b24f0c619a4346cdbc68f1aaac.json",
+    "sha256": "597402d2c0f33f1b271134c709af6ade18e500400dd942fc41356bfd009d5142",
+    "rows": 42700
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xd59b6a5dc9126ea0ebacd2d8560584b3ce48f62f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xd59b6a5dc9126ea0ebacd2d8560584b3ce48f62f.json",
+    "sha256": "b3028050f562fd1c1377de037411e9390da3e9c9a9c00ce5d7bdf6b227879203",
+    "rows": 1066
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xa05ec35f7d1eba823cff2ed26aeaed419683742f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xa05ec35f7d1eba823cff2ed26aeaed419683742f.json",
+    "sha256": "cf397d13ad7c7f6417b23cbcf36373cb5d83f31614234e186b922dea47e0f967",
+    "rows": 22874
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3.json",
+    "sha256": "6a371f22753292c0d9fdfcd9ae10ebd2c6e659b5d7b9a783851d16d4dd90af20",
+    "rows": 42299
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xffbd5a03e1e936bfae82c567f8b41e0a95296dcc.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xffbd5a03e1e936bfae82c567f8b41e0a95296dcc.json",
+    "sha256": "f00c776447c4556e0a495a50b15b4cca52067fb27d7b5d02dff538e1dd7c51a8",
+    "rows": 11761
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x00bbebb4522ad6bdf2b363872b9b5cc0661acda1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x00bbebb4522ad6bdf2b363872b9b5cc0661acda1.json",
+    "sha256": "3ca6b89ec5e27e9a53460a803099e555ac3b2757ac0785862b3b54cad03ff085",
+    "rows": 19192
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xf78b066050e00fdb9b980e265aa9f317ef4b947c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xf78b066050e00fdb9b980e265aa9f317ef4b947c.json",
+    "sha256": "6b32fe333de564a9a7e330a64cd0d4d08b42adf1957e74099d66869ee0828cca",
+    "rows": 3317
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x3391a39a1b508e54a361924a26056c01c1c2c07d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x3391a39a1b508e54a361924a26056c01c1c2c07d.json",
+    "sha256": "e83fc46f0c09aacc5e6b2fff42baac21ac9e8c5d8cc6a047d63f0321e95fbc07",
+    "rows": 33675
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xb2d1af0746c410e146272e804b1741f07f83b851.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xb2d1af0746c410e146272e804b1741f07f83b851.json",
+    "sha256": "b376c8344b5377c9c0f04dd8f2a206228d89a1fb8fc0ccb54d2929dc5d0a36f4",
+    "rows": 65231
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xddac928a240bdace3994c2cc0783d4e29a002127.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xddac928a240bdace3994c2cc0783d4e29a002127.json",
+    "sha256": "248d9bfaeb4819ba826ece2b887407b45af56df00f968a4671da9f10555eff3d",
+    "rows": 38248
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x7b3d8e939ee08b52d06ab5e6f85791a6007e8d61.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x7b3d8e939ee08b52d06ab5e6f85791a6007e8d61.json",
+    "sha256": "5a4996a7bac36eab769afc62b3f009f2740a28cb68b9314d53bc5560a46dc5d0",
+    "rows": 22579
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x8d5624fa29526c879a1ca7560961e4c5a08089ae.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x8d5624fa29526c879a1ca7560961e4c5a08089ae.json",
+    "sha256": "83f18231d5acbccfeb9d763be8a4fa9baa0ff85c3f954b6db98296b0f23c10c7",
+    "rows": 4499
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xd41feaa24dede516a501862cf1f376defb811772.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xd41feaa24dede516a501862cf1f376defb811772.json",
+    "sha256": "f6dd39c44dfa43cb799eb31112f42bd15570915e27cd04e8b4b434bd29193c1c",
+    "rows": 55933
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x664d6645a04be9e27a8b33088f85025f29d45dc1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x664d6645a04be9e27a8b33088f85025f29d45dc1.json",
+    "sha256": "69bbe74b814f64884c79ecbf959bcf433fab830387da9abe87c0fd5b0b757304",
+    "rows": 7730
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xa1426c6f65fe804e05ce3c07a42412d735ef78bc.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xa1426c6f65fe804e05ce3c07a42412d735ef78bc.json",
+    "sha256": "c7e1e47bd130d55d1f8bd84ff1c6873022fdc335b1791b027235a02ad55cb244",
+    "rows": 68275
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x0143c153035dd5061f237a9eddd722940718d1c8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x0143c153035dd5061f237a9eddd722940718d1c8.json",
+    "sha256": "9d2bc54e81dd2b92fb59e1c9657a7862833c52e7544ea455dcd818ca15f1021e",
+    "rows": 13620
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x550647e8faf10116f0367526080c1005809b4653.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x550647e8faf10116f0367526080c1005809b4653.json",
+    "sha256": "ee0a7ee47f8512e36a5dc57f79e689ffcb94a443d8f59f74031086f1194f1dee",
+    "rows": 3034
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x7dcf275735184a51ade69c7c8e6e54c2dd23aeef.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x7dcf275735184a51ade69c7c8e6e54c2dd23aeef.json",
+    "sha256": "fbc97f678f4c16c04d0bbfc2af9603f4c646f34e53804b46a93575215d882aab",
+    "rows": 27902
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "sha256": "418f421c020222c641a5249955e85c1040c85d81eb6e52607d1deb0eb9aada50",
+    "rows": 1363
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xbad1772ffff47b87915d88124d20ba44364acd0f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xbad1772ffff47b87915d88124d20ba44364acd0f.json",
+    "sha256": "8ef5e22062f61c717ba38a07e3ea9a2c447a1b5b85a60896d8e6e1923665745c",
+    "rows": 10476
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x94cf7ed19901eb7d487c779e6d1baa87157b2d01.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x94cf7ed19901eb7d487c779e6d1baa87157b2d01.json",
+    "sha256": "90cab8bc6ae1a90531fbefad7b595ba30e5209680f8619a84102763e77ff39d7",
+    "rows": 19388
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xd137469da61b84aa489058229dfe54c63a30faa0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xd137469da61b84aa489058229dfe54c63a30faa0.json",
+    "sha256": "39a42e091778dc6588290b5c5d1018f4e4d80241e86d5b3f409fab0649ad6744",
+    "rows": 28218
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x92c371744e71dbe58c603661ba8784fd76472e1b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x92c371744e71dbe58c603661ba8784fd76472e1b.json",
+    "sha256": "669af436e8cb94cddae76af1e8a09ae6a0723bcbc5578924aeff6e03690f7806",
+    "rows": 27215
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "sha256": "45b07a7ceaa5dde52cfb52c0c010f6c221ceeb17983d33987a96150fd0129033",
+    "rows": 4667
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xe3577dd395e5adf2b0ffac3b2f0efa47c6bb77c3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xe3577dd395e5adf2b0ffac3b2f0efa47c6bb77c3.json",
+    "sha256": "309db92c919b1008cdbbc5730e2d80d9813fe2eb683ec19727322b6ce520a1b7",
+    "rows": 4575
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xd216cf8ee73da8438a3e57dc63703043cfb6e075.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xd216cf8ee73da8438a3e57dc63703043cfb6e075.json",
+    "sha256": "3678711066d964b7bc8c3c30c83286cb6f3d057c8d866f8143224df625184457",
+    "rows": 69325
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xcbc04b6607e7ebe0373c3ee361ba396b8ecb721c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xcbc04b6607e7ebe0373c3ee361ba396b8ecb721c.json",
+    "sha256": "466598cdc49f0606a705a4d985b4dce94f94aa1877be2507963ec60044316e64",
+    "rows": 27892
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "sha256": "f9758c6dd80ee11a69729e0258f7b9db9f1a92513fc7d1717d3f3bb296cd323e",
+    "rows": 6979
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x20ff275ee89cbf0ece757d1691325b653dd4e756.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x20ff275ee89cbf0ece757d1691325b653dd4e756.json",
+    "sha256": "a5dc0580c2d698dbfd5397792fe49458a523de8fb79c376150dfb6f0db276936",
+    "rows": 5624
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718.json",
+    "sha256": "79436b36ad9e81239a2a9335b6e867be25a6bd81d141dbf430a9b0fb4c7cd126",
+    "rows": 1543
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "sha256": "53ffd57bfdf725ab78a17e1eb2fe5b41869bbf59bee6516b53b3ef6cfc327682",
+    "rows": 1812
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x7f282a3313bc8e375f2f0893a8518b4b00ed6e55.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x7f282a3313bc8e375f2f0893a8518b4b00ed6e55.json",
+    "sha256": "924a68cc1abd7b353d9a86984dac6bbfefc49c52293d239afbb2fd714b68370d",
+    "rows": 9762
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xb226f97bc5b01978848dc440b40c70faea7c006e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xb226f97bc5b01978848dc440b40c70faea7c006e.json",
+    "sha256": "4f750854f5fe912f25de30d75d64841162b7b5ed7245be6e5550f7869d149832",
+    "rows": 18100
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5.json",
+    "sha256": "6cdd7fe180d4b0ba5ed9234f43f4f6673702254421bdc74a53a5a48586f54b81",
+    "rows": 26815
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xf7a934528d38e2f2865a7cd30c335c6d115928b8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xf7a934528d38e2f2865a7cd30c335c6d115928b8.json",
+    "sha256": "6068c81f93705c54f6ecd2707cd69d2c42e65b1d39fddbe3784f95c3959b1fd8",
+    "rows": 42769
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x9cd581ff7804f5f3caf35f55d3cf73fbf42f0072.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x9cd581ff7804f5f3caf35f55d3cf73fbf42f0072.json",
+    "sha256": "e64d5f96257187787b96d8c2483c69dd9d55b17781bf60c2a1a249ce1d81296c",
+    "rows": 1916
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x1ad30ecfb4b4916ea4df960d03721313586af8c6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x1ad30ecfb4b4916ea4df960d03721313586af8c6.json",
+    "sha256": "e46e7511d1a7c4434834fe84fc7ac41d1aaa00fb56cf3417b23678ea6f593f6b",
+    "rows": 68556
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe.json",
+    "sha256": "86eff57cb579828e2d291911acdecdf896f813092facd3deac522a58632a5e34",
+    "rows": 17087
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xec1e5db246faaa9057fd01c6882df0433e6711a3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xec1e5db246faaa9057fd01c6882df0433e6711a3.json",
+    "sha256": "ee2212d31e41e80f3d63041c83e5fbd3358412730cc38b4bf3171593b298ae32",
+    "rows": 17216
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x199776730d88cfa1aa54e7f41df386b80ac150c5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x199776730d88cfa1aa54e7f41df386b80ac150c5.json",
+    "sha256": "39bf86054e9eea69c4469331250d625fa0cf58da29b26dd00030679b98b8d38a",
+    "rows": 35211
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xeeefff8ce2710fa490e0fcb794235e873c252d2e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xeeefff8ce2710fa490e0fcb794235e873c252d2e.json",
+    "sha256": "8cacde32f83a4c1a3efca1a6e0d1a95f2d97f06d94f0de057d21d0cdb9af94db",
+    "rows": 39362
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x57a01234c07902722dca5c7363c4cdde6b059f9d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x57a01234c07902722dca5c7363c4cdde6b059f9d.json",
+    "sha256": "3fd0bfa89a0544148b3577e05d4d3fadf41ef7ae4968632eba39ffeffdc0f1f7",
+    "rows": 14182
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xb4e1e589f5a5cb7f4c5d3bb0179dd678e421fee9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xb4e1e589f5a5cb7f4c5d3bb0179dd678e421fee9.json",
+    "sha256": "5d3ee75a860880469734c0ca4bb6f0378dd78eaf8e5a3e4ad1a9bf05dd0ba81b",
+    "rows": 2841
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xb750f03e86980a3dffdfad269a88f008bb78ea51.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xb750f03e86980a3dffdfad269a88f008bb78ea51.json",
+    "sha256": "425b191f3056c712a7e82c94ccb7c2578efe9ebfb9198fde35571af3b2cfff07",
+    "rows": 46782
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x55fade80e573c4594b0dd73041297024f1f2ee95.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x55fade80e573c4594b0dd73041297024f1f2ee95.json",
+    "sha256": "8234c7b1c732144e1d5b019b8d537b91a53de45171073993dd97a030b1a746fa",
+    "rows": 29106
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x40e569e9b5458c89b4910f3ecfade0f650e92a40.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x40e569e9b5458c89b4910f3ecfade0f650e92a40.json",
+    "sha256": "053f2a0c0edaeb57d7c0bb71d2429aa60945b27991b833ad2edf832a95492ee0",
+    "rows": 7225
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x29935ef1417e1c3b1fec68dd666ea9baac31d4ed.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x29935ef1417e1c3b1fec68dd666ea9baac31d4ed.json",
+    "sha256": "b04b13226479843206467cbf9a0fda3e01b79e582e999fcbe64fe9e5cf4a1b8d",
+    "rows": 9289
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xe881f671b1ede86d4a8e3315ce13b77257ec7525.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xe881f671b1ede86d4a8e3315ce13b77257ec7525.json",
+    "sha256": "011cd45e3105d7958814c2640d317252862f374bbab20f21ef68034e8c010dcc",
+    "rows": 5960
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x331cc2e56c657126f7a986419040838cf446eb93.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x331cc2e56c657126f7a986419040838cf446eb93.json",
+    "sha256": "9dcf80670bdec18b7a0c647c5e8b8be9cd7e0bd705f78c7dc431c14e4743f8da",
+    "rows": 7146
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x609f2c912175f8cd4438c1882f291fa6a4b4c735.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x609f2c912175f8cd4438c1882f291fa6a4b4c735.json",
+    "sha256": "5213d3807b73a109a0fc1f88db23feda720add0f183d31ea1533ccf2bfe95a2f",
+    "rows": 3419
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xf672ce59fafd2a173d275abc626087b1eae874a2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xf672ce59fafd2a173d275abc626087b1eae874a2.json",
+    "sha256": "a39dd99cd3d0c82cfeac27d8900af19188d1bd50fe1a921d67d61cf67d67067e",
+    "rows": 2492
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xc14e2e7cbd0153cde91f14232f91faa5085254d0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xc14e2e7cbd0153cde91f14232f91faa5085254d0.json",
+    "sha256": "6c961d0403386cf0fa52c705b7d96c28aa5088544bc48425213ff152dccc2174",
+    "rows": 3346
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x271c01063f1c978dbacc45b54ba4403c97b0d675.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x271c01063f1c978dbacc45b54ba4403c97b0d675.json",
+    "sha256": "05e7108e279f39f4363deb916235e9ada6dcfac05724361073b5e97cac86c9f6",
+    "rows": 6417
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x81d20b2c34d37e406659a80008723b4ea815717d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x81d20b2c34d37e406659a80008723b4ea815717d.json",
+    "sha256": "740b9a40a16ebec1c6fcaf2902258a507240ea1249b3fc9c7a7a188e5773e7b3",
+    "rows": 3116
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x077b9981bc8a2ca417cea41861111da63266988b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x077b9981bc8a2ca417cea41861111da63266988b.json",
+    "sha256": "5f9abc9280d56b039453c6cf662e6e633b5e9f51caa226e0a3e809b35fcb4870",
+    "rows": 9075
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x24b2eafb861d0b8bdf0618e0787bf894305daccc.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x24b2eafb861d0b8bdf0618e0787bf894305daccc.json",
+    "sha256": "f509c14ca0d15263ccd6d5d0a900704eb5a52f04078de19cda6a6aecc7a7a08f",
+    "rows": 1957
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "sha256": "78109c4e4dc900f07632c7118f19f17aab21ce7d4910c7d38a19c157b9a0720a",
+    "rows": 2249
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x88669768e431ad1e6861982309cc694ced330903.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x88669768e431ad1e6861982309cc694ced330903.json",
+    "sha256": "d4e910bba66e8421740f85d8d5e00afdfcf4aeac4265a109f9c029a71b707cb7",
+    "rows": 19029
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x77e5efcf4d14f6136242dc2f5618d1854761deef.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x77e5efcf4d14f6136242dc2f5618d1854761deef.json",
+    "sha256": "0f83617add425a32b291b901c00523068ee90963189fccdb841321cda05a7201",
+    "rows": 11213
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xfea3157ff571174f05fc86af3caee3b870a8495a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xfea3157ff571174f05fc86af3caee3b870a8495a.json",
+    "sha256": "ee908b9fea42a393d9f30413fa54de2aa36ba8fae3d3d8f735edbd6954638344",
+    "rows": 20643
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xef395d6a8ef0fa4f2593ee3e10b9fd4df1fa9c2e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xef395d6a8ef0fa4f2593ee3e10b9fd4df1fa9c2e.json",
+    "sha256": "034cab7a9dae40c44684eddda85caec48651cc32b9c54d6e704ab3d5203848ca",
+    "rows": 6667
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xed0ffebb4342c814947c27c2e00df6fd18bf81b8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xed0ffebb4342c814947c27c2e00df6fd18bf81b8.json",
+    "sha256": "b0a1a16e2c760eef13af5e36bd123ad126dfa888b820eea068decce602ae3247",
+    "rows": 5940
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x745d2e5a52dd79eccdae86bf0af4e7760272ad0b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x745d2e5a52dd79eccdae86bf0af4e7760272ad0b.json",
+    "sha256": "362dcc7ab42261e864fe49fedff2cb2e83129751c32fb44e5b4ba0baff7bb9a1",
+    "rows": 31947
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xd3a71f80906876d063321ccb125f2f214993de17.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xd3a71f80906876d063321ccb125f2f214993de17.json",
+    "sha256": "f649e6ac5019cdf493af58f3f04144e6bc1fc4ae13e9a3abb2a0f8968b38580b",
+    "rows": 34448
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xeb1222a0c07d4e62b0235d8b4b3e7e617d259be2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xeb1222a0c07d4e62b0235d8b4b3e7e617d259be2.json",
+    "sha256": "39fcd4a36ab80d16a2adbf8d27e7a9bec4ad97c06688b7d3de190a218f4488f4",
+    "rows": 21641
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xa3d3fed954a332992cfec8c606eeb2a25fbb3864.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xa3d3fed954a332992cfec8c606eeb2a25fbb3864.json",
+    "sha256": "b558a3779fa022e39d4c322ef636aa303eb244b2d494d29fabc00c6590cab698",
+    "rows": 722
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xda8e6446c8e2c55a43599cf4f461adbfff56b311.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xda8e6446c8e2c55a43599cf4f461adbfff56b311.json",
+    "sha256": "8ada015b5f66a81b2277666acc8bc586c975e1eb6c2af2f6fd75616f8e857b88",
+    "rows": 7387
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5.json",
+    "sha256": "a27b28f498e9a560f0ef108bbb7477df1181113a5403a34b571bc14caaf9c661",
+    "rows": 2381
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x4866015cc5f98911757e4d63fdfd859f594aef42.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x4866015cc5f98911757e4d63fdfd859f594aef42.json",
+    "sha256": "82fd7a536794f5928adbac7a480b4f5aad6df86d65fb9e44991af46f40f90b88",
+    "rows": 24551
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x8b54982efb0d30df9eac59b3badde4ea951d20ca.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x8b54982efb0d30df9eac59b3badde4ea951d20ca.json",
+    "sha256": "977eee46d54e7859786c6b0a6bf81951cfef3d6ae055da4c3f69b2bcd374891a",
+    "rows": 33661
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xa4beaea04ee42f451f38c771842489d7649b95f2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xa4beaea04ee42f451f38c771842489d7649b95f2.json",
+    "sha256": "2d924fc904811b1b6831de78fd87ec098c1457b007848ac1455564f95a525c41",
+    "rows": 47317
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x01bdebe6224b910d380f62852b205d97e3487336.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x01bdebe6224b910d380f62852b205d97e3487336.json",
+    "sha256": "0dba3b3b4b5f7dcb043cf521a7f88d957c58cdd540a08d855544b8a24c411cc7",
+    "rows": 5583
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x592ba6876b70f795ec14601c69a03e5ea2268f50.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x592ba6876b70f795ec14601c69a03e5ea2268f50.json",
+    "sha256": "372880800580c930fde0ae2c45519fc04b74548305f90dd2da1d6161e243f6de",
+    "rows": 10193
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x2f47ca870e6febbd7cd9b7fdbe1d76467709a085.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x2f47ca870e6febbd7cd9b7fdbe1d76467709a085.json",
+    "sha256": "6e745ba1d81f4f0de9f0aab5128280491a1b9f6224294e5353891d7a8259f513",
+    "rows": 34489
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x9ba457f105bffac35d67138fecb32a86428c02a2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x9ba457f105bffac35d67138fecb32a86428c02a2.json",
+    "sha256": "74bccf96e6e9ea4e9f61e4112384fbf647cc2a9bfc483eeb31a27a68d8910b45",
+    "rows": 20406
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x3d06315c94ac30b6061c91caf748fc2db04a89f4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x3d06315c94ac30b6061c91caf748fc2db04a89f4.json",
+    "sha256": "9faea872efde6cca69642dfcf29fa1b5903fb073c5b61a2594caf676c9ab1038",
+    "rows": 2979
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x3a77eac222993900b2058ac91d77b086664b1670.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x3a77eac222993900b2058ac91d77b086664b1670.json",
+    "sha256": "11b0eaeeaba5f501fb2d5916a80dd67c1851e7429d674b64d9cccc92c72489b5",
+    "rows": 27785
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "sha256": "368fa3e98d619801b58b43a944cbc514d4144274ad72637aa20bba482ca45c6e",
+    "rows": 20121
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x0b085b2b9a7731772e7fc309dce30cc14657af7c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x0b085b2b9a7731772e7fc309dce30cc14657af7c.json",
+    "sha256": "593e8581c06ca287936a95302fc158ff3eb78f577075d8bf592aa7aabfde9beb",
+    "rows": 12114
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x24bd6c97ffe8696d2c35cd200823caf839e4bd66.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x24bd6c97ffe8696d2c35cd200823caf839e4bd66.json",
+    "sha256": "d521285cecb9de1b805048f99902de7394c14b018efeb990f3051b2c465bfd21",
+    "rows": 16053
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xf21968ba364f2366a161c7f4e3dba2e8389e57a8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xf21968ba364f2366a161c7f4e3dba2e8389e57a8.json",
+    "sha256": "43232cc46de2c89c5bd53929b9c60418b939eeb0496cc049946ab32f6dd3bba9",
+    "rows": 17013
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x41ccc209d3ba4e81ef0c1fcb6d191127fb5b42f5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x41ccc209d3ba4e81ef0c1fcb6d191127fb5b42f5.json",
+    "sha256": "e334b0d0414bccbc0fb419d71f05c57834e743fe5d5dcfafa4d7e76851037d56",
+    "rows": 10302
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x5e1f51a982cdf19fc113deb66838eb0393bf7ec1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x5e1f51a982cdf19fc113deb66838eb0393bf7ec1.json",
+    "sha256": "bd33ef5c4834e3f35a805bd9ec0c6f9d66c20e708ebd1df48e87637cd80028b4",
+    "rows": 42837
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x043b0945b6d878e593d8ea7737c53f17a01e906e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x043b0945b6d878e593d8ea7737c53f17a01e906e.json",
+    "sha256": "e912b159618dec763e18e658f8f2d0af9819b75414fe3adbbfaa3c9c8be85b07",
+    "rows": 24874
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x1a63244d48b25216776f1a8c2ccc09e6db595812.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x1a63244d48b25216776f1a8c2ccc09e6db595812.json",
+    "sha256": "71552d2b21009827189060ec9e97c12b04d10dab9bb691edca55ad857bc3133a",
+    "rows": 5119
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x0cbcac020e4b50c38137c7140560161d77e76acd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x0cbcac020e4b50c38137c7140560161d77e76acd.json",
+    "sha256": "2421ccbb720de2ba8d3df0279279875882fc0ccf20065c2c6306cf8c89cd85a4",
+    "rows": 12884
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xa12cd8eb1f533255aa252655e456b8c48e9c3d52.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xa12cd8eb1f533255aa252655e456b8c48e9c3d52.json",
+    "sha256": "371ff53660073232e3ae1f2fd05c547b12e42feedbae7a4e67a8f0d8eb9d7479",
+    "rows": 15281
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xf0f8a6479a428edd0eab965e624800585b62972c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xf0f8a6479a428edd0eab965e624800585b62972c.json",
+    "sha256": "70375f673eca7ab4791494060a26c25845661049f583687e059b60914db0dafc",
+    "rows": 1932
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xe45966b2b3b7868c07db92016188ffa86356053e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xe45966b2b3b7868c07db92016188ffa86356053e.json",
+    "sha256": "5d60cd26d6c39dcd3c14ee7151d534013bade5f4cb2c6b10e76faf4f18171334",
+    "rows": 910
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0x683035da6b84ce48421534c1d3d160a8487cb9bb.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0x683035da6b84ce48421534c1d3d160a8487cb9bb.json",
+    "sha256": "4dc3e006caf601c35e09f8303ddb841371e385fe03151b3c612cb63cfc5f7008",
+    "rows": 922
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/bsc/0xaa4e9e8f1e9c03e6de9f5f78680a0f8ae5908709.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/bsc/0xaa4e9e8f1e9c03e6de9f5f78680a0f8ae5908709.json",
+    "sha256": "0f5624f27726ea0d7267d2196af823c5fcc4d8ce5a893838a1424ec1346e63a9",
+    "rows": 30822
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927.json",
+    "sha256": "2c546bbd0141089fda0664973db40877ff50196d6c7f72dbf1fdfa8c28e64e05",
+    "rows": 1227
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xd01fe03aba9eb73ff92e2b64e22daf99458e4f54.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xd01fe03aba9eb73ff92e2b64e22daf99458e4f54.json",
+    "sha256": "689ff07d8f6e918e004ddbcaea82acb7188dd054fbf0f66b01677e08d672f00f",
+    "rows": 3601
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xcd83f4c3a4b96d56367e482a3774802877b82e13.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xcd83f4c3a4b96d56367e482a3774802877b82e13.json",
+    "sha256": "0f292e2d3473a6ed5b2e1ff1c3dc8e358ee4275b8a8c5f2db0461a8ca91601f5",
+    "rows": 4308
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xa05ec35f7d1eba823cff2ed26aeaed419683742f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xa05ec35f7d1eba823cff2ed26aeaed419683742f.json",
+    "sha256": "d91156d46c3325ed71bceb3d8aed4c1c37816667fc311f61064171ff301d626a",
+    "rows": 2658
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xc5606cde16fb8c39cc68d1d97700883ae951ff56.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xc5606cde16fb8c39cc68d1d97700883ae951ff56.json",
+    "sha256": "26ee9058b9fa3847d4120e402e8a80bfc2a10b27e088b1703f3f15f7a83800f9",
+    "rows": 258
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x9a1ee67e454bb963183884e7e2872fc0016613d3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x9a1ee67e454bb963183884e7e2872fc0016613d3.json",
+    "sha256": "5c3938fe7273e77abdc304aea6efaba4d6175fd93a8af772999e41ab05314a7d",
+    "rows": 2366
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x11d67fa925877813b744abc0917900c2b1d6eb81.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x11d67fa925877813b744abc0917900c2b1d6eb81.json",
+    "sha256": "e229e78131323cefe60f4f63c161ca88bc1381f0c5a0340db9f190ebbd4fac7f",
+    "rows": 1205
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xcbc04b6607e7ebe0373c3ee361ba396b8ecb721c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xcbc04b6607e7ebe0373c3ee361ba396b8ecb721c.json",
+    "sha256": "af1b4562b148c4f53ef1d2b8db47c558f38767b922d1a812a11a090ed882a46f",
+    "rows": 2876
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x48cd80183cb75c02e0bcc9b8c5dfc034fd99e6fb.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x48cd80183cb75c02e0bcc9b8c5dfc034fd99e6fb.json",
+    "sha256": "3d3e14e7c65eb7db747727983782c8d849a7b5f8f3a73de4affc9237dda9f8d9",
+    "rows": 1
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x606d2c436a07be40c276a6176bb1376c34e49ee9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x606d2c436a07be40c276a6176bb1376c34e49ee9.json",
+    "sha256": "4594a3c4593823d5f227e321f80c642bc841089f2249fef0cdf41593e6ac4821",
+    "rows": 2868
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x98c43da65205b7c53a857d79f3d1f6fbc0b76fa5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x98c43da65205b7c53a857d79f3d1f6fbc0b76fa5.json",
+    "sha256": "d409c9084e57bf947cdac94e9604e85fd56579e5a433cad2b9a670714c032afd",
+    "rows": 7170
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "sha256": "8f20f26f8a72c2fc8fc451ab0cc3ed0d48c959d81575646b547e6a3e47dc0e06",
+    "rows": 3476
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x05c17ffad91bbd8e07bb896c15b792e073686183.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x05c17ffad91bbd8e07bb896c15b792e073686183.json",
+    "sha256": "ccbbf207fadbb945d435b496ce1a651fa61d710371827c996689a4ccaba793dd",
+    "rows": 2309
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "sha256": "947998639f8abed3248143a2d0d692bb23487b9d097deee683efa2c2f861bbca",
+    "rows": 3390
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x947ba15d0c9ec51057b1061297da112ecfd6af25.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x947ba15d0c9ec51057b1061297da112ecfd6af25.json",
+    "sha256": "1948de76bffe1b425e7927f32002c010c474610d14616ee048d392f4591c6629",
+    "rows": 1332
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "sha256": "635ffc65e393075a7f1ab97304cf6750108bd4023c761bebf960faf02e66415e",
+    "rows": 1135
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x59905d5d085e0caf031ba883b821ba354e51f95e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x59905d5d085e0caf031ba883b821ba354e51f95e.json",
+    "sha256": "5553e270e3a27c42e88baf322d6827933dcbb244d8057cb73f73d6acc2a9d44b",
+    "rows": 8512
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x664d6645a04be9e27a8b33088f85025f29d45dc1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x664d6645a04be9e27a8b33088f85025f29d45dc1.json",
+    "sha256": "d2d818779d16e5bde7c65dbf82f75db67ca7bdf91ab42a58adb53cc909ea39db",
+    "rows": 494
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x1df3160f73fd6c1bec394c51fc20b7b2a91d6330.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x1df3160f73fd6c1bec394c51fc20b7b2a91d6330.json",
+    "sha256": "12ffc75aac4e585bc1b6388a458c0d4ab6cd001bbb5d3bd6739249a472007435",
+    "rows": 11656
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "sha256": "f1c91af7dfdadddafd73a0298d086cc4f0491c18cbddf462e8d2857735f32945",
+    "rows": 3057
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xb6cc827f1f87bc8662603f3ac58774b225778a4b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xb6cc827f1f87bc8662603f3ac58774b225778a4b.json",
+    "sha256": "e3f0241dcb4b2e5dc81fe2f1538dc065c4c893dffa23b9328f1c8d9712a5b77c",
+    "rows": 107150
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x695b065ddf17ca69f4b1b77f1a0680cd438f1970.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x695b065ddf17ca69f4b1b77f1a0680cd438f1970.json",
+    "sha256": "625b674dce598fbc5eb3c056b9c7ac2ce7beaed6413b25cb4cd1b8b333c52ad3",
+    "rows": 143
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x347ffc6db9acc54ac2019795173b9599e8b82bd9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x347ffc6db9acc54ac2019795173b9599e8b82bd9.json",
+    "sha256": "956d2df281f52f966bf5376e051cacf468d871fa8c51a2de631d0509c1ede73c",
+    "rows": 17069
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf907877022b1e61232aca00661d6fb629b356d4c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf907877022b1e61232aca00661d6fb629b356d4c.json",
+    "sha256": "0dd6180fb49e0d65b9c44ed1cf8de40e694bb91966bc2cb706fc8d735362fb7b",
+    "rows": 8601
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xd4229d8166dbaa45689589d59fa968abc840b20f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xd4229d8166dbaa45689589d59fa968abc840b20f.json",
+    "sha256": "7d4215afcb117da0e0c609780158e18fd1437da4d976fd5cda23880e5930ab1c",
+    "rows": 669
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x72bb99200a89e608658a9032aad5aef6a41dd46f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x72bb99200a89e608658a9032aad5aef6a41dd46f.json",
+    "sha256": "c41675b96f085079f9caf3e1f9b2bc9f01074bf35579b74682eac9969037c1fd",
+    "rows": 22
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x0cbb693e0199cb7ad4f3c846f43045cb95247fc5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x0cbb693e0199cb7ad4f3c846f43045cb95247fc5.json",
+    "sha256": "19f880b74a5279ce07492ce070966a9d460176b08cfee0e5cc26ae3ecf4f1e54",
+    "rows": 2749
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "sha256": "71509381b1e74d1ecec8bb2e0f525798511ed68b5cd1e2ff2497001a22f4e9fc",
+    "rows": 998
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x37a6156e4a6e8b60b2415af040546cf5e91699bd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x37a6156e4a6e8b60b2415af040546cf5e91699bd.json",
+    "sha256": "dbc0298f1448a8eb9f9d4c7aa023f808654c715e6bc1fd3f56d786d7c99de1d4",
+    "rows": 129
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x82eb45562f991329ed2867f43fc60f0ba52c3dab.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x82eb45562f991329ed2867f43fc60f0ba52c3dab.json",
+    "sha256": "68577e9ccef4c83914df6b3fa7c75781480379ac6bbd265482f30e6987ab32d5",
+    "rows": 208
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xddac928a240bdace3994c2cc0783d4e29a002127.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xddac928a240bdace3994c2cc0783d4e29a002127.json",
+    "sha256": "8a675fec01d92763785a759bd342c50d3c49e001e565b45d3f6c8b65165bed03",
+    "rows": 371
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf100af33f90445d1d482fb63df3f6cdb475eeb0f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf100af33f90445d1d482fb63df3f6cdb475eeb0f.json",
+    "sha256": "21611101bd2e4552be9a6b895f9d27adab1dd7751c9948f4f85aa7f2219caf7f",
+    "rows": 2410
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x8d5624fa29526c879a1ca7560961e4c5a08089ae.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x8d5624fa29526c879a1ca7560961e4c5a08089ae.json",
+    "sha256": "c2523f37f9cf9b1e25589146041bc2c6d06b1a272bacb4f999d3de807ceaaec2",
+    "rows": 97
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xdd6f338b91f40e5a02c468b7cb49cccc569a3134.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xdd6f338b91f40e5a02c468b7cb49cccc569a3134.json",
+    "sha256": "95e686e565b798a95bef3966c172c72d7af680181e2e88adc7ad610577bc99c9",
+    "rows": 191
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xe5e9ffe707ee071998340972af6fb178f5c64ba6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xe5e9ffe707ee071998340972af6fb178f5c64ba6.json",
+    "sha256": "a6717d8c556eb403ab2af2257c5c8902d0b4b99e3edc9a0c287825032d483b2f",
+    "rows": 1657
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "sha256": "758e3717433979fa24fd6f944c594a06c1230756ba1adbf9ab60b9094ce3a195",
+    "rows": 3493
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3.json",
+    "sha256": "941f3c65e58669aa46f288e2a12a0be6fb421c028792547dff0167192c2d62b6",
+    "rows": 4506
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xb226f97bc5b01978848dc440b40c70faea7c006e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xb226f97bc5b01978848dc440b40c70faea7c006e.json",
+    "sha256": "6e807912178b4508cfefc97df64a47d388710088ac175b463cff23cc1719a7ac",
+    "rows": 1637
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x7b3d8e939ee08b52d06ab5e6f85791a6007e8d61.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x7b3d8e939ee08b52d06ab5e6f85791a6007e8d61.json",
+    "sha256": "c3bc41ef7a389e22707a4e1efe90d4e5836882075b7acf6181fe5d050753de60",
+    "rows": 3594
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x609f2c912175f8cd4438c1882f291fa6a4b4c735.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x609f2c912175f8cd4438c1882f291fa6a4b4c735.json",
+    "sha256": "8260f180ae748ace07b3606b85f10e007a746cbfe90ee8731f7405fbc07371d6",
+    "rows": 757
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xb2f9bbc5db84a95b598cab0c464cf92d584d8900.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xb2f9bbc5db84a95b598cab0c464cf92d584d8900.json",
+    "sha256": "1a93bfd92972b4c7370065d713fc2bf26464e05e4b6c1a11b87953863eb38c85",
+    "rows": 408
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xa60aadf62907bf06dd714781d44bbd4c2d783259.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xa60aadf62907bf06dd714781d44bbd4c2d783259.json",
+    "sha256": "2c564c795ac80b11cfbe8829dc5312fbd07f8da49272a47eeb66d97822e9bbaf",
+    "rows": 1489
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x5865363bb04450ab313dcd2e71a189efb3c31e41.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x5865363bb04450ab313dcd2e71a189efb3c31e41.json",
+    "sha256": "023c90153cc099d1ee1d679e542bf28bbb531e4154879c5340229d26c1511916",
+    "rows": 337
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf99583d39e0a967d45d7faf0b28235bf4623c268.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf99583d39e0a967d45d7faf0b28235bf4623c268.json",
+    "sha256": "a2a5d5f583ae74e6da30ff158521ac4db7ee3db1569bfde90d6122c5a784aefe",
+    "rows": 4879
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x217946e128c1b9c7f8c3f16b33878a908713923a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x217946e128c1b9c7f8c3f16b33878a908713923a.json",
+    "sha256": "1d8a2576534ef17db6cf832e77e12383a19ffb3afd0ab4f9b80eb81983087023",
+    "rows": 1834
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x5e8343066704cea8f254b637b3e4fc9be6ab318a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x5e8343066704cea8f254b637b3e4fc9be6ab318a.json",
+    "sha256": "4dd65d8ab37134dad118cce3874d3868cd0697ae439ec87c191e4fac46670d4b",
+    "rows": 168
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xa12fa23701f00ad2663e339386d65cd94a144cbc.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xa12fa23701f00ad2663e339386d65cd94a144cbc.json",
+    "sha256": "0a9af5938df4c28d27dc5be14f70d59de13438cd9f2b7a22bf64693de83b045c",
+    "rows": 105000
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xa3d3fed954a332992cfec8c606eeb2a25fbb3864.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xa3d3fed954a332992cfec8c606eeb2a25fbb3864.json",
+    "sha256": "997d4faeba01903d50b3ffe3525ec36347ab9daa5c989bdb067969bbb55daf94",
+    "rows": 106
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "sha256": "e3af720c624432375d08ed573e77210d40c10b79987b9607bc787a2941e51ced",
+    "rows": 824
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x3472ccf6209925204b9cf352171ee150904fda7e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x3472ccf6209925204b9cf352171ee150904fda7e.json",
+    "sha256": "a2b2f483b7fcdf26901a67eda3ccb0c6765f2b95c35abab959c8a04f61d69805",
+    "rows": 120
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x3391a39a1b508e54a361924a26056c01c1c2c07d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x3391a39a1b508e54a361924a26056c01c1c2c07d.json",
+    "sha256": "c74bbe3828befd3d493c3dddd98382413843ce56e4c0bc7a11b37334aeb468df",
+    "rows": 4814
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x3d06315c94ac30b6061c91caf748fc2db04a89f4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x3d06315c94ac30b6061c91caf748fc2db04a89f4.json",
+    "sha256": "d42420eb20a98dde99cbe3b89909816f6c5f0e419b8c50ed81b3e92e2e0862e7",
+    "rows": 706
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x4eb3d06c16f8e40b0f9585895b2d106c1104079f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x4eb3d06c16f8e40b0f9585895b2d106c1104079f.json",
+    "sha256": "cc50b15d49d80f9cbd4ce0039b06b446cf52526f567dc2180474c7f69eadf9a3",
+    "rows": 7121
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe.json",
+    "sha256": "e1c430018f24ddb7cb374bd45289574b5ee00925116f3054da0dbfe1d9b0d7bc",
+    "rows": 4605
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x4e8c7f243fab07d2ff3761d1ca43414ac6f61d12.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x4e8c7f243fab07d2ff3761d1ca43414ac6f61d12.json",
+    "sha256": "a45e4cefe6e6cbdc25f4e2f026858f881012f7b9f760d561511e7fe17bd37b7f",
+    "rows": 386
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf0f8a6479a428edd0eab965e624800585b62972c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf0f8a6479a428edd0eab965e624800585b62972c.json",
+    "sha256": "878b4ea30ae54cc5bffd2b9dcd8e3a8d1d12a6cc30cf235f7f000f1c28e5666e",
+    "rows": 124
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x3f1c0ea76342cc3427962452891f8de8649a301b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x3f1c0ea76342cc3427962452891f8de8649a301b.json",
+    "sha256": "fcbe47d7cd0eec0175b34cdca79ebfc26947a534415e363e6d86cd920b627d85",
+    "rows": 175
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x7852346c77b3a622fa73607ee35cc784e53f326b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x7852346c77b3a622fa73607ee35cc784e53f326b.json",
+    "sha256": "6ed864a9359db134e4901c09d8e1ca6af7b5671b924a26e7f2f01c0ae76cbb30",
+    "rows": 754
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x9782d08d2d8657b154e00e8d43bc0150ee5febaa.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x9782d08d2d8657b154e00e8d43bc0150ee5febaa.json",
+    "sha256": "3d6b02026f4d2b030c9b5fdaba512da34a1676b51f61c0daa1727a1d6e87d8c3",
+    "rows": 75
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xacd0cea3607626a6198bbb50718eb84ee7e5799d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xacd0cea3607626a6198bbb50718eb84ee7e5799d.json",
+    "sha256": "697a2d106b9f1791cf767800af2575a957dd4dd1b5c2c7fed08ee96781b113b0",
+    "rows": 1339
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x80c9faf6ee0538f7a11be306e73b365bb092b56f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x80c9faf6ee0538f7a11be306e73b365bb092b56f.json",
+    "sha256": "1a9198fb8bfd44ba7a350898616017de4a08c241ad99297534c0fe968ffeb275",
+    "rows": 2985
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf78b066050e00fdb9b980e265aa9f317ef4b947c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf78b066050e00fdb9b980e265aa9f317ef4b947c.json",
+    "sha256": "5d46749ad523a54fe45a1fea49e63cbc5d793a00fa818e8ad9dc3b302fef8e7d",
+    "rows": 506
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5.json",
+    "sha256": "52b4df9499777cc57409ebbbd5f11e7c85796873520c1c108d587ec13628af97",
+    "rows": 78
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x9224bbb4e0fbe2f2f8fab55debc41eb21fdfb804.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x9224bbb4e0fbe2f2f8fab55debc41eb21fdfb804.json",
+    "sha256": "1b3fd64eec534dc095732d5cea1653ec0c185fad1c4c668b25e914dca67b6bb7",
+    "rows": 359
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x7551fd7a88afd941ddcc0a4f1cb62cf85afdae61.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x7551fd7a88afd941ddcc0a4f1cb62cf85afdae61.json",
+    "sha256": "af3368fe67aca2d87181714918f27da05967678c6c51e2966268746f5a910715",
+    "rows": 56
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x231b405c333db6d81adeaadf4c6ff3940ea5db21.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x231b405c333db6d81adeaadf4c6ff3940ea5db21.json",
+    "sha256": "82b610ca57f273b7e59ceb6ba2e31e87a24b1812a0dabe1bc16644f94e027736",
+    "rows": 172
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xae9b2082c9ef1edc7dba94e7297a1ec00da6cbd1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xae9b2082c9ef1edc7dba94e7297a1ec00da6cbd1.json",
+    "sha256": "f27e05e941ff665944966831e7719d2d0987d734f7c8bc2ed712e4db0a29917f",
+    "rows": 1380
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xe6a5f1690fcda05d9ba0a663b6e7ddf3c97eb7b1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xe6a5f1690fcda05d9ba0a663b6e7ddf3c97eb7b1.json",
+    "sha256": "dcc7aac6784d7f5fefcb1f9e937ef57dc86e529308a2196a2ecd7f69cf6625a7",
+    "rows": 1277
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x21a50e77f350dccf33d08d2011501c64ad161028.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x21a50e77f350dccf33d08d2011501c64ad161028.json",
+    "sha256": "c982607d8cd2aae8c7cec0acce48550cbdc2f38d2d1b074173f73a9a73141668",
+    "rows": 715
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf41f0813e3e8670eac65d781adc91cc54525ad68.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf41f0813e3e8670eac65d781adc91cc54525ad68.json",
+    "sha256": "5225d89274f6d0fee7156dfe4990be642a6a4841477f620d1285c3da5443fc2e",
+    "rows": 110
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x42756ec8febdf07248211b6aa6376a66502878da.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x42756ec8febdf07248211b6aa6376a66502878da.json",
+    "sha256": "87693535469c79f6736f7aa8b85968f966ec98223f591b7775aa91c0230248a7",
+    "rows": 226
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x629fe6d73d5ca48c1b5e4ef35bb7319080c4aba5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x629fe6d73d5ca48c1b5e4ef35bb7319080c4aba5.json",
+    "sha256": "4a0a50160b5f299fc33e3414edd3f0bae7609c4d3cf869aeee244e3d620e5a07",
+    "rows": 135
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x2f5eb3f35df41a6bfbd17faaf0130b3d4228759e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x2f5eb3f35df41a6bfbd17faaf0130b3d4228759e.json",
+    "sha256": "929caf19c9d88ca4ebd4c236bc8a5bf2efa3136fdfc1cf7ac4045c295d226946",
+    "rows": 689
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x349be9963b502fc7d938602890887baceee17891.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x349be9963b502fc7d938602890887baceee17891.json",
+    "sha256": "744614eea146b7ca28d3a9049e85e3bd8c9d0656918efc7d2c228dff1bed116d",
+    "rows": 5050
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x9dbfded199ee3a6b291c223e65f97d387156aada.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x9dbfded199ee3a6b291c223e65f97d387156aada.json",
+    "sha256": "8a0da73a0e9531b202c39957a505b78df4494c6047b0fd0f01804c695222865a",
+    "rows": 2540
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xdb3a65a512dee57cbf4d8c797fcbad290dcde953.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xdb3a65a512dee57cbf4d8c797fcbad290dcde953.json",
+    "sha256": "5364729023dcb9739fdbdfeba5b38bece7eaae9f01971829e4ee4f2990ff3d55",
+    "rows": 74
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xb3397a6feedff2b9fce9ca1086cb1bdd617c16bf.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xb3397a6feedff2b9fce9ca1086cb1bdd617c16bf.json",
+    "sha256": "01f6a6bcdde70ba2590fca9171fed0e8276254fbbadc3cc492ff13ac49fe3546",
+    "rows": 1105
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xaeb3075cad78597c26ac5a6885dbdeb20ed61849.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xaeb3075cad78597c26ac5a6885dbdeb20ed61849.json",
+    "sha256": "f8c75004d804f3735f28b6d3ec63c41335f2258f3afdff51090fc792a579d826",
+    "rows": 422
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x023ab8e20a4682d315daef4c91db96bd77934d66.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x023ab8e20a4682d315daef4c91db96bd77934d66.json",
+    "sha256": "92c3ca2fae2d2384f4c3b042e77721bbf6b70386b5a61c732bfedfc65ffd35dc",
+    "rows": 5126
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf631eae9033f881a35091f221ac20ee0c6b05310.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf631eae9033f881a35091f221ac20ee0c6b05310.json",
+    "sha256": "cdc90eeb7d64201792fba8a588db5a43293cac7e10fe056d54f2ccf45d5e21f6",
+    "rows": 21
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x77e5efcf4d14f6136242dc2f5618d1854761deef.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x77e5efcf4d14f6136242dc2f5618d1854761deef.json",
+    "sha256": "4a87ef8f87fb01dbbae5b3c239cf1b04bb721f1d900901687930d4610c54c87b",
+    "rows": 24
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x55b668e1aea8d19e358661be78b665bc25428d29.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x55b668e1aea8d19e358661be78b665bc25428d29.json",
+    "sha256": "159b54975a26f3f22d6ec95d9f252a87ea117f3379d01393555541754851cf8a",
+    "rows": 483
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xaf3d75ac07863a715de23954aeb26f1ab1a6cac1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xaf3d75ac07863a715de23954aeb26f1ab1a6cac1.json",
+    "sha256": "b5f4f0385b3b0e5449c5fc959d6afebf4062e68e199d38cead5647a5680b640d",
+    "rows": 97
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x8874174a2366668d54fea6343f71709389563c8a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x8874174a2366668d54fea6343f71709389563c8a.json",
+    "sha256": "f2354080abe8d989fc1753f2a3948c91396e8958a51ddcd8fd42185725ea4f11",
+    "rows": 74
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xcae4ccfe670f8c2a4999f9dfaf44625110fce9e5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xcae4ccfe670f8c2a4999f9dfaf44625110fce9e5.json",
+    "sha256": "77fa25684e0c6ee7ad3f71848b51dc4077e5ec7643b7bd5e3cead7deae4c7b0f",
+    "rows": 344
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x99514773a40f64e52ae3014c7836cf0e703dd0b1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x99514773a40f64e52ae3014c7836cf0e703dd0b1.json",
+    "sha256": "bb1ae51e487662a6be56d7add14303e13f39fe172ab6682bce4aff34fa2f6518",
+    "rows": 113
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x66883274f20a617e781c3f869c48ed93a041f178.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x66883274f20a617e781c3f869c48ed93a041f178.json",
+    "sha256": "6cf14543159a073f963999da1d4d7ca105cd0df7cf017c060afd981050aefa47",
+    "rows": 19
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x16f368bfaa9308a4b1728f5356001f58b914caab.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x16f368bfaa9308a4b1728f5356001f58b914caab.json",
+    "sha256": "1cc679417b2e345697eda993a3f5f92a264dc136f186ef9c08c0ac294b720f2a",
+    "rows": 169
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x20ff275ee89cbf0ece757d1691325b653dd4e756.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x20ff275ee89cbf0ece757d1691325b653dd4e756.json",
+    "sha256": "691a2b971ed82d90c6185aa478d1b36fb447e8a23f5b469dd4f0d54213886d48",
+    "rows": 2
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xa866c5adddc1c3570b6328491b510deefa374e0d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xa866c5adddc1c3570b6328491b510deefa374e0d.json",
+    "sha256": "e4155d7425ad3ce6650055bbc09e249216b83d24fa171dfd748255c5f2745d33",
+    "rows": 269
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xdf2a8e398b97899ecda4db93bb00eee386338d3a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xdf2a8e398b97899ecda4db93bb00eee386338d3a.json",
+    "sha256": "6393810d1330236e7c8b9f2c89734ab830d9d9ed97bc6589dafd27926dedd9a4",
+    "rows": 96
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xc00a5ce2a1c2000a70a655aba84e87956a0f7361.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xc00a5ce2a1c2000a70a655aba84e87956a0f7361.json",
+    "sha256": "f5ea317b7fca4f416c0741dd50cc3efa6d0f0f7f13acf42cdd1bf475f3a66157",
+    "rows": 73
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x49b3e70dfc8b18654f5335532c17406794ac5ddd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x49b3e70dfc8b18654f5335532c17406794ac5ddd.json",
+    "sha256": "abb6a372978a5280cff70937df145b8f794e00a7e92ed83a3d292ae2dba3c049",
+    "rows": 6765
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xd3abaa759af897122c876b87cf386f748cb213a8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xd3abaa759af897122c876b87cf386f748cb213a8.json",
+    "sha256": "540a93db767d36ecc80c6c8ec9b801a36a4bf47c5d3ab8810f386c107e739920",
+    "rows": 79
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x9db43bb875e10bad12cdf798b14f279e3775ddff.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x9db43bb875e10bad12cdf798b14f279e3775ddff.json",
+    "sha256": "429c5314a3faf4afdc07d5f452924e232e1d822c51d3c23c169fb7b69a53bc38",
+    "rows": 269
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x3310fd13c6c55f054cc128439e1e51cd0cb16fed.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x3310fd13c6c55f054cc128439e1e51cd0cb16fed.json",
+    "sha256": "ad55cdc5d4b482cd532f7da2c4be7b6fed85a8c1dd9cf5c3971be9a66973b228",
+    "rows": 416
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x2849857d9b640fd2104c4607c6c23dec3c798370.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x2849857d9b640fd2104c4607c6c23dec3c798370.json",
+    "sha256": "d8b07a447fc73a07bdef60fb64ca70f10ede83f24cea9d5f7604afdbc87dbfe3",
+    "rows": 558
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xf1d8f13fd137669ac768edf467f358200fafba72.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xf1d8f13fd137669ac768edf467f358200fafba72.json",
+    "sha256": "00d7dec4d73c0d7b5a3a9b72024a9498c2278104f5b00a4c5e438adbb5f3580a",
+    "rows": 47
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0xc7d75ccdad8c368382e490ffd64b7ee2c2a0bb62.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0xc7d75ccdad8c368382e490ffd64b7ee2c2a0bb62.json",
+    "sha256": "1b998ae94bc433d249b597cafc4c6f97fd606c09c743a7268b2c0e420e8a9c85",
+    "rows": 30
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/base/0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/base/0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718.json",
+    "sha256": "dcbef591e5d57a97d9c83c89b521ff80d5b9bdab5164428ca2ca485579046c7a",
+    "rows": 200
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf5d4a3b9fb77d1d5600a10e0e1c4efd12f9be751.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf5d4a3b9fb77d1d5600a10e0e1c4efd12f9be751.json",
+    "sha256": "566b44489343c4226408e1f6c8e28fb2778e8256a32d1d3d04d428defb0ae0ab",
+    "rows": 22
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xfe277aa25a4f65a182c0ec135854794eb7131e79.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xfe277aa25a4f65a182c0ec135854794eb7131e79.json",
+    "sha256": "259bbe9fb6be1c5f65e5a00605808254f8b7265395550752497ff4cd1fd0d366",
+    "rows": 1696
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x6e5823a9f398549158ad3769b99f1fcb541038b4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x6e5823a9f398549158ad3769b99f1fcb541038b4.json",
+    "sha256": "e1531ba0b00222f645b7f5a0d35557e881b46c8f106b32df2de0faf607fa9ff6",
+    "rows": 5984
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x311ef08626709a0de3aa84d396437773340e022d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x311ef08626709a0de3aa84d396437773340e022d.json",
+    "sha256": "b831e7c7b8ae1ae5484d2567047329ec0d90ecf8f018e512ddfbc64ed44a5589",
+    "rows": 8
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xd611a3350321558bda7d15da88e4b74eaf4c8986.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xd611a3350321558bda7d15da88e4b74eaf4c8986.json",
+    "sha256": "874f406081a4a080393302e7a4e59756140ab9645c399f9b3a23fe48e9db7bc1",
+    "rows": 188
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xfd4102531f9a20101a9f7e42c76c253362c710c8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xfd4102531f9a20101a9f7e42c76c253362c710c8.json",
+    "sha256": "c9ec2bbd95c9aec190dc24908e26297b43634c72bf0c3d3abdcdc75f4dea14c4",
+    "rows": 8391
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x05c17ffad91bbd8e07bb896c15b792e073686183.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x05c17ffad91bbd8e07bb896c15b792e073686183.json",
+    "sha256": "c4028a13d90154181fe40fe36131744ddece742efa931e54448e1828b13ebf7c",
+    "rows": 3752
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xd4229d8166dbaa45689589d59fa968abc840b20f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xd4229d8166dbaa45689589d59fa968abc840b20f.json",
+    "sha256": "b3186803f1ea615cdea86a1df1b7429cfb3f08b1bb56e252141031ddf4a5a43f",
+    "rows": 16755
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "sha256": "ead3caa6f2717a836d8c8e0f3b0507199fea8d91f40065d4dc494c335d4e8252",
+    "rows": 2563
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf78b066050e00fdb9b980e265aa9f317ef4b947c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf78b066050e00fdb9b980e265aa9f317ef4b947c.json",
+    "sha256": "c897e0065c051cb8d8fbd307bfd01fc2a5e40bd9146bd5f63097e4b423f2975b",
+    "rows": 1323
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x4b10707123c79f6e99be486dcd95d60323988d76.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x4b10707123c79f6e99be486dcd95d60323988d76.json",
+    "sha256": "685630e1bc50a5de678e77ce53dd8c145e5cac6dab6b9fabfaa6f3eaefc40469",
+    "rows": 1601
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x609f2c912175f8cd4438c1882f291fa6a4b4c735.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x609f2c912175f8cd4438c1882f291fa6a4b4c735.json",
+    "sha256": "aa2db674795105e3fd46cb97bdc9ab862719f14c370d4b7b91951efc5dbdc3dc",
+    "rows": 8611
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "sha256": "b1986881283a86bf93d3de3f59565a99fb0866710863876ca0436aa4818534c8",
+    "rows": 1497
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x3b3b9c3012759c7210e1b22e5d55912c8101cb40.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x3b3b9c3012759c7210e1b22e5d55912c8101cb40.json",
+    "sha256": "3b1cf71163abfab5f453950a8f69f6892ab306aff8d4fd901e9915c55481046a",
+    "rows": 3358
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xe465f5fe06e79bdc4e0add8546eca2368d1a0fd0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xe465f5fe06e79bdc4e0add8546eca2368d1a0fd0.json",
+    "sha256": "07bcba0ccad9282ddd255111d3969cd60c069b7e9ebf4ed1658aa539873cdc6a",
+    "rows": 3366
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x7a2363a401b2340c7941dd2eeff0196a5078d2e6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x7a2363a401b2340c7941dd2eeff0196a5078d2e6.json",
+    "sha256": "fdae1f3b3033ef6f1f6cf92183127ccd6f2c483e47665013568867ec6bdb2965",
+    "rows": 12229
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf907877022b1e61232aca00661d6fb629b356d4c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf907877022b1e61232aca00661d6fb629b356d4c.json",
+    "sha256": "1c4ab671f1906c43a25645ca16dbfe677fc2dc0a7be7fbda97314c92e9bc0b13",
+    "rows": 18414
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x4d9644d05fe2123b4eafa8d7fd31b0ea430726f3.json",
+    "sha256": "11f01729f9bad3adc7eb8f3b17e01f4dc6447ce1781be3e754b64bfd0205073e",
+    "rows": 11891
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x01974549c9b9a30d47c548a16b120b1caa7b586c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x01974549c9b9a30d47c548a16b120b1caa7b586c.json",
+    "sha256": "9a2e7f91aa823d2edb4cf1f2d8f0a562e017e968a5c539ca05289bcf0fc7543b",
+    "rows": 12
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xff335b2c27f66910e67808382de6a1fd2389321d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xff335b2c27f66910e67808382de6a1fd2389321d.json",
+    "sha256": "81855a467d832e4ea30e4c55f2d4cfd4ee21a9c48ad677e865064f3cb215f514",
+    "rows": 6582
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x3475831749ea6c9992e638d01427453b9cc83a12.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x3475831749ea6c9992e638d01427453b9cc83a12.json",
+    "sha256": "272ef9b8aed397e192c9ccbd9d00eb0802900d1585bd668a7c173f90ad838251",
+    "rows": 12787
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x3b6b2a0cc5be24f04e9239e3340e2019c2b5af88.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x3b6b2a0cc5be24f04e9239e3340e2019c2b5af88.json",
+    "sha256": "8253a2c0ad404a023ca1a228a0adcd8b2beeebc98d39a9b0d615ba3cb46fe9f9",
+    "rows": 931
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x07cdaf0140c60a0c34681065abf49bb8d85b8cbe.json",
+    "sha256": "d248dc5a83d439dc701a0cfa11412e5aa5161983acb30488c756602db6b85d83",
+    "rows": 4741
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "sha256": "e0cf4f8733eccadf8c67380e35c49e948fe9a487f8d15fc4833a7b67e9d7133e",
+    "rows": 1136
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xeeefff8ce2710fa490e0fcb794235e873c252d2e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xeeefff8ce2710fa490e0fcb794235e873c252d2e.json",
+    "sha256": "02c1e41f45ae7a8c4abaf133b4f9b3a1c5170508c0a24d95c4e4c532cad3799d",
+    "rows": 13933
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "sha256": "4a297bc0a4fffbc8e1f310c581d67e3f56114eed1e5c4880c2498ec7a787c3ec",
+    "rows": 17190
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x8c89f3efaac0fb48d14e5b82912fb5e418dd3709.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x8c89f3efaac0fb48d14e5b82912fb5e418dd3709.json",
+    "sha256": "aa76af5de4a0d7f5f51bfae8192431c67486512abf4ea960aea146fa7942eae2",
+    "rows": 2961
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "sha256": "1d2bc4fca8e1c813d94a4e55e02541d891572177ac7553c7b3bf624c15231c09",
+    "rows": 13435
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x9631335762e3603d2a7507d84838aa3236d52745.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x9631335762e3603d2a7507d84838aa3236d52745.json",
+    "sha256": "cfce09743ab80bddb2da27e6c5ca4379aa09c874cf496d1f1cd2009894c6b11d",
+    "rows": 4950
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x6078ee8a93697c6d67863fcbff77141d9ab358b2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x6078ee8a93697c6d67863fcbff77141d9ab358b2.json",
+    "sha256": "0069db5bbcb34a17184a8f7f276cf59c251b3c5c649328861119ed2e24349019",
+    "rows": 39556
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x90c9e45cf61ce25aca1715fe821d7ef5de37cdf0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x90c9e45cf61ce25aca1715fe821d7ef5de37cdf0.json",
+    "sha256": "c0fcc59fbc44521934595b632952991bac2f575206dea7edc9c1f69a8b285cf9",
+    "rows": 2250
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf41e3186861afb9840ea3c87f00366440a648320.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf41e3186861afb9840ea3c87f00366440a648320.json",
+    "sha256": "3ac513698b6443a491f915c9945cfbbbbe10df2b1a4d8cd27611e0cc68f82528",
+    "rows": 1523
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xc2c6acd377458010713e733e1b21dd6f670d091c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xc2c6acd377458010713e733e1b21dd6f670d091c.json",
+    "sha256": "f32a34d3ac1be9e18a61f22be52e642e1b5b6bd2f96104cd3910e205619280ad",
+    "rows": 1686
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x7b9761145ef55f33dfcd514f1e20f5313da978af.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x7b9761145ef55f33dfcd514f1e20f5313da978af.json",
+    "sha256": "045b3e13112f7f8d69fe703493a27a6532a78bd2e56e1d59963112e1c3a82f5c",
+    "rows": 5393
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xecb7208b4eba833001e0766f036fe5e8e7657039.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xecb7208b4eba833001e0766f036fe5e8e7657039.json",
+    "sha256": "2a7ffd6af6e080e0d6e28b3c0822c7c759dcda6403c22e10c965b87ee038be4f",
+    "rows": 6215
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xa7dcc417c63f24f9073b667a5d7149bd38463d0f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xa7dcc417c63f24f9073b667a5d7149bd38463d0f.json",
+    "sha256": "a3f356a507381827c0f1d7c061a7364a6293a82a334dce7200e25a8817f1d086",
+    "rows": 225
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "sha256": "e3e26bf3277118dd2abdb68a33e6e5e796bc40f657117070ad1fa17f87588ad7",
+    "rows": 3187
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x49f91579477f2e55a28560e1cb5ea07a921bc616.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x49f91579477f2e55a28560e1cb5ea07a921bc616.json",
+    "sha256": "eaa777d6be8ed4076271fee4a5691fab60b482ec72f5be7a9325b92d1d3eeb23",
+    "rows": 1673
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x8282216ef6e5501c23d64820c12eaa6ced9acd0b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x8282216ef6e5501c23d64820c12eaa6ced9acd0b.json",
+    "sha256": "945b221fd5380729be29252db7ae16b95ac1a7142d4207994cf97913f571c1b1",
+    "rows": 1344
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xc5606cde16fb8c39cc68d1d97700883ae951ff56.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xc5606cde16fb8c39cc68d1d97700883ae951ff56.json",
+    "sha256": "91d761af04862bfeac1097d39c7fabe23f877c09eb88ac959a22058c4db86b50",
+    "rows": 7022
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x9782d08d2d8657b154e00e8d43bc0150ee5febaa.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x9782d08d2d8657b154e00e8d43bc0150ee5febaa.json",
+    "sha256": "a1656590b5a760c6b106963e65cd793fe4d6e78d2b8f53314457e84f449b8929",
+    "rows": 1820
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x6886edc256d178df494cbc67ead124cc4551fcae.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x6886edc256d178df494cbc67ead124cc4551fcae.json",
+    "sha256": "e5272b0e4dd0720e889892d5d5ab9563389abc19e7c21789a8728815400e6c19",
+    "rows": 7526
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x9dbfded199ee3a6b291c223e65f97d387156aada.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x9dbfded199ee3a6b291c223e65f97d387156aada.json",
+    "sha256": "81f9b1a8b6030d2fe7d0aa763ebd87838aa0efcb77530c6be57bf5e486cbd04b",
+    "rows": 2724
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9.json",
+    "sha256": "3889ebf1971957fee75468e6c204faaae3def5671d8e97548d638aeddc1e40da",
+    "rows": 100
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf34bffdff1653d56f6ce2cca168b2a48d8c7ec29.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf34bffdff1653d56f6ce2cca168b2a48d8c7ec29.json",
+    "sha256": "5c5c0876fe0b69b8537e14bd23a8b837063a691fe207807204317f6b93f7f6d9",
+    "rows": 8841
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xcaecd42e2c19d0ebac5958bed8316107c7001224.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xcaecd42e2c19d0ebac5958bed8316107c7001224.json",
+    "sha256": "f14bc11e9d48007a20e5142784bbbcc5ac0a55e7160fbba30876c594b26b4e6d",
+    "rows": 1361
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xa83b73f5644cde337b61da79589f10ea15548811.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xa83b73f5644cde337b61da79589f10ea15548811.json",
+    "sha256": "f563cdfc49a6607b1f7bab12efb9382ae3c108e26004e0dd85855562c6b08883",
+    "rows": 26198
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf10ba5ab6d29818d387b5af3faf8e10502754988.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf10ba5ab6d29818d387b5af3faf8e10502754988.json",
+    "sha256": "b6486c25a567257878d8dcdc66ea8cc44c1013283d578f82af07b18baede52b1",
+    "rows": 1452
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x07591d902e68503c113ac4beca8abb3e3f6b0ab3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x07591d902e68503c113ac4beca8abb3e3f6b0ab3.json",
+    "sha256": "0220ca553bd0a2ab882c2773279a126bb6b56dc192d8e40f74d9a398b153ce36",
+    "rows": 6041
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf36803a545dab359a93bd9cd1f5e23de847e1123.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf36803a545dab359a93bd9cd1f5e23de847e1123.json",
+    "sha256": "a69213dd4d1594a1fa734b395e3c7c2a02a5102dc782b191570a3868898a8a22",
+    "rows": 3541
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x50e452be88117e24c33121e3f1c871bec26430e9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x50e452be88117e24c33121e3f1c871bec26430e9.json",
+    "sha256": "89246e5679fc396d93f3e1e1fda98c05b7adddde54b81455010a7e8062dcf9ee",
+    "rows": 2552
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xa3d3fed954a332992cfec8c606eeb2a25fbb3864.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xa3d3fed954a332992cfec8c606eeb2a25fbb3864.json",
+    "sha256": "51576a5db2f6bce27f69024c72d53b382684f630a89dda489444a70ba37f389c",
+    "rows": 183
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xe55bbdfcd79bc623a4e1947bca3b4d14f319b3d6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xe55bbdfcd79bc623a4e1947bca3b4d14f319b3d6.json",
+    "sha256": "bcf144af545a0d2a7345ade81bc736ffa54d3e19626fa4594ac8e306bbf42c84",
+    "rows": 2952
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xcc5ecdfc4f4b81e3363e6417031a4e3e3186a2f5.json",
+    "sha256": "b74956c0dd061ea68f31b182a8758a0b3ce2136b08af3e999666bdccbaa6db5a",
+    "rows": 1164
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x4ccc4a922efdaf2179f651523a6c0c598c1216b0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x4ccc4a922efdaf2179f651523a6c0c598c1216b0.json",
+    "sha256": "f1041a82cc2092f8078284762be6ff076b7b24845b9f1e9fcde412c4565621d8",
+    "rows": 2101
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xedc7c552077bbe04f61a52c9d17bce85154f1fc4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xedc7c552077bbe04f61a52c9d17bce85154f1fc4.json",
+    "sha256": "bf10248ad8be177805e662c1e791d03c5b9874eee902b77df3c0a64adae016de",
+    "rows": 197
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x4ef94b67120d878f37449f2ef8f85d86366593fd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x4ef94b67120d878f37449f2ef8f85d86366593fd.json",
+    "sha256": "dc45e5840ab20bf98a4be331e6fea9121f5e24c124b839da509eb682a7fa9ef0",
+    "rows": 8771
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x3d06315c94ac30b6061c91caf748fc2db04a89f4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x3d06315c94ac30b6061c91caf748fc2db04a89f4.json",
+    "sha256": "4be62e313b4454121cd179b1f67cdad9bff1322809c2ea41381cd69a64056691",
+    "rows": 978
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xb90d9ea599c2634069ae4d5eecc5ab7234a81a05.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xb90d9ea599c2634069ae4d5eecc5ab7234a81a05.json",
+    "sha256": "49ee5ff2db8e83009dc421d5f8c791d8caca7103eb98334eb769057768cb21f5",
+    "rows": 2013
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x76ea831e2a1e4116406509f3c1f403b7bf935849.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x76ea831e2a1e4116406509f3c1f403b7bf935849.json",
+    "sha256": "0d2d05fe14bbbc441adc0101517d0254cb71ffc41a1fb7c153f4b564c25b84a9",
+    "rows": 1129
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x7b3d8e939ee08b52d06ab5e6f85791a6007e8d61.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x7b3d8e939ee08b52d06ab5e6f85791a6007e8d61.json",
+    "sha256": "4afc444248a7d06b9d79f39ac56bb42b90fa45c793f682c20b13a8f12b672a1d",
+    "rows": 6351
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x432072fc9ee83201c14416509ccb6b5d92fb5d14.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x432072fc9ee83201c14416509ccb6b5d92fb5d14.json",
+    "sha256": "2d7099d4482e8e4371662c4eaf267719f2186cd93c07a0e3a8db5a781b83a227",
+    "rows": 3041
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x42910a69effb47b8f8f2cb726fd964a654914131.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x42910a69effb47b8f8f2cb726fd964a654914131.json",
+    "sha256": "9075d9fe934adc73cd38e29ad605be8fbd785ad53a47d9904c2e359f39683728",
+    "rows": 67
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x491822b9c505fd30c569c7b8aff0a9c1788e24c5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x491822b9c505fd30c569c7b8aff0a9c1788e24c5.json",
+    "sha256": "9a6ec88f87cd13097e66de2099e9efc86b079826b93c1c301fa1211466818eac",
+    "rows": 3154
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x0cd4d1a9c67a0c7677dcacb37791dadb38ea5666.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x0cd4d1a9c67a0c7677dcacb37791dadb38ea5666.json",
+    "sha256": "85bd5af4adf29e50142a5d4098dfecd9090c218540cca58f68506611bcf73410",
+    "rows": 197
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf90706b39d80fabd2cca57d0cc06d43f9c3ddf0d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf90706b39d80fabd2cca57d0cc06d43f9c3ddf0d.json",
+    "sha256": "51831a3442e4e005e206242d686fa3f218fc1829b55d30250e5d722f2bc94985",
+    "rows": 2516
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x7551fd7a88afd941ddcc0a4f1cb62cf85afdae61.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x7551fd7a88afd941ddcc0a4f1cb62cf85afdae61.json",
+    "sha256": "2caf5b18e0332ae97d1e9a0cdbc41de955e6101e690251e1df2f48d885db048c",
+    "rows": 4669
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x81d20b2c34d37e406659a80008723b4ea815717d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x81d20b2c34d37e406659a80008723b4ea815717d.json",
+    "sha256": "4ded124bf145228d494b4d9ae4316ca8a86d8af53510c75bf2f773a94caae924",
+    "rows": 3607
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x09534d56a013ef3c4f9de4e082869c109463b9e0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x09534d56a013ef3c4f9de4e082869c109463b9e0.json",
+    "sha256": "9238288cef0cdf38a66b0fd6f789c7692302e47fbbce4d75fef39e159883ec8a",
+    "rows": 3694
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x5671931edf52097bee96b8d791b3cb4d06510da4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x5671931edf52097bee96b8d791b3cb4d06510da4.json",
+    "sha256": "ec9106fe2d6f1f0f0e9b123c2bd58bcfcdf85d0f74cbb6fa5b0e41c9e0b22577",
+    "rows": 3468
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x9c4468c67bb0c8977fb541dd2b22c28497293312.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x9c4468c67bb0c8977fb541dd2b22c28497293312.json",
+    "sha256": "deb0146245f7d2e85388afd65d96207ed0f190d94bdd824b642a9a13fc4328ea",
+    "rows": 3337
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x7649a32e792d2b59d3d616fef17700ec70e27d1a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x7649a32e792d2b59d3d616fef17700ec70e27d1a.json",
+    "sha256": "3deee2afd33fcbce7fc4f28be8a78468727a259313b0845070ef5fd899d618d9",
+    "rows": 1819
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x837d63fcb6da12b702c8172662a5cf63abe36690.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x837d63fcb6da12b702c8172662a5cf63abe36690.json",
+    "sha256": "390d33a1e19261789f44e75c058306879b1cd850b5a43c308eb7e74572382080",
+    "rows": 2892
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xca1a2fb7f3179d887504966b25d1606978adcd42.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xca1a2fb7f3179d887504966b25d1606978adcd42.json",
+    "sha256": "1374231aac92c6a12d8655770ad1c1bb95d38732f23b3f47ee5ee5ca68df44bd",
+    "rows": 9078
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x664d6645a04be9e27a8b33088f85025f29d45dc1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x664d6645a04be9e27a8b33088f85025f29d45dc1.json",
+    "sha256": "3ca7887a5bdc3fb7658fcde9d40bd8ea26d82f7d832475903069680bdf0e5d44",
+    "rows": 2170
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x147fc5ee41f3c98d46fe190098b4fc28b66d3018.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x147fc5ee41f3c98d46fe190098b4fc28b66d3018.json",
+    "sha256": "637c95b5e2f6c2ff3432bd6cc66eb0d4cd366265eb5a8913f5d546fc46b55782",
+    "rows": 4489
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xa98a29c75fd9acf4cfe358cd0b659d922c9b165f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xa98a29c75fd9acf4cfe358cd0b659d922c9b165f.json",
+    "sha256": "26cbf469fb76a276ec8233462a1d2719e3fe5d3b65d8261a5c5c9812f98ef760",
+    "rows": 1096
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x996a8f421435cf1f4e20f593facc87b18f1b95bd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x996a8f421435cf1f4e20f593facc87b18f1b95bd.json",
+    "sha256": "55e53ae5e132b34238f39f3947f4eff42977697125e86bcda42556477307f431",
+    "rows": 79
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "sha256": "d11cf406dc4fb0c09e3902980ccc6b909f0096f32cbaa330545f5ac37e98b16a",
+    "rows": 16992
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x4d345d690e95f64d58fe4f35fdda98ca8bdec695.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x4d345d690e95f64d58fe4f35fdda98ca8bdec695.json",
+    "sha256": "35b02579be51bb702f5fa6ea50b1b1415cb0efe3cf112eb322b73345041165f3",
+    "rows": 820
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf672ce59fafd2a173d275abc626087b1eae874a2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf672ce59fafd2a173d275abc626087b1eae874a2.json",
+    "sha256": "7090bf5941f0c43568843fe74e99b83688bb89a73059e40e877f29adfe5ccedc",
+    "rows": 3553
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xcdcae7d23843f01349c78abc885f95c76e5fa8a8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xcdcae7d23843f01349c78abc885f95c76e5fa8a8.json",
+    "sha256": "8b8590be3f7aae067f1f3afee2f08da4f0fe486349ecf498d0d21a9ffe50b1bd",
+    "rows": 7095
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x67ee81e92a6e677533b0335fb9be21873d8aca78.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x67ee81e92a6e677533b0335fb9be21873d8aca78.json",
+    "sha256": "8b1a31540494b3a591f8cf38650b95d2485d1cb7cedb8d575b8e1628f71919aa",
+    "rows": 1156
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x41ccc209d3ba4e81ef0c1fcb6d191127fb5b42f5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x41ccc209d3ba4e81ef0c1fcb6d191127fb5b42f5.json",
+    "sha256": "0bf71c876d23b3a74e2f8d43a9b0e7295c23065f3295fa434c4a603a518a0c3b",
+    "rows": 1449
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x11ca9701430f3ef4f79c4aba3f722f6d3d115754.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x11ca9701430f3ef4f79c4aba3f722f6d3d115754.json",
+    "sha256": "cd1ea42f9bec37c28a5a6db770ed3cac3373fe0d7d5735deba12285efa2aafe2",
+    "rows": 1065
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x3ec73b58426fc7a1b314d1b1347f055fbb1d3533.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x3ec73b58426fc7a1b314d1b1347f055fbb1d3533.json",
+    "sha256": "e2b9a5122ae4012d38a92ef6ad33c954904fd547be1254e0e7625a014e667703",
+    "rows": 2511
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xba30aefa3a84e40c8ed047b110761ac10d0b4c1c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xba30aefa3a84e40c8ed047b110761ac10d0b4c1c.json",
+    "sha256": "419180533f6df9389a3dca414f8484da7d4386f6643a408d5889e3070be3b7da",
+    "rows": 1701
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x037e6b68ca866598d464a370afa060e4583aa0b8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x037e6b68ca866598d464a370afa060e4583aa0b8.json",
+    "sha256": "005a0c136f0643cac3f8c76b508174319228b62e79da9c6609bc2c4b1e8df07c",
+    "rows": 2798
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xbc5dfeec736894bf2571e9488cdfa62b879f0165.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xbc5dfeec736894bf2571e9488cdfa62b879f0165.json",
+    "sha256": "5a9ca964e5a07fada643ffae67fd03128248151f67730f4260734e22c266093b",
+    "rows": 1621
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x77e5efcf4d14f6136242dc2f5618d1854761deef.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x77e5efcf4d14f6136242dc2f5618d1854761deef.json",
+    "sha256": "d65922b43954093eff96292d325fdb149d22cce4ead0df3fe020a0db7aeb15f0",
+    "rows": 1388
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x2cf1e7137efae14caa26b9bd60cf16fd52d5157e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x2cf1e7137efae14caa26b9bd60cf16fd52d5157e.json",
+    "sha256": "35613482dd894a1febe113388de0116867ac29e9a5ef7e6a4a804582edddb0b1",
+    "rows": 7
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x683035da6b84ce48421534c1d3d160a8487cb9bb.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x683035da6b84ce48421534c1d3d160a8487cb9bb.json",
+    "sha256": "5eac6928462df38230fb29f5d36f256eb12cad5f447852c77cda17847c51af2e",
+    "rows": 857
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x7db1a182cddee6ea0483aead72efe945e11cc873.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x7db1a182cddee6ea0483aead72efe945e11cc873.json",
+    "sha256": "d196b53449bd0eee8eba69e8df761f36fa93f2c5de5af0386276944bb690b0d3",
+    "rows": 2393
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x6afb06fc5a0dae2a86b96088338236d02f999999.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x6afb06fc5a0dae2a86b96088338236d02f999999.json",
+    "sha256": "cf8499f544fe036c59eea8bbd6dbe13eee72bf06a9fd955c5de613e3722d2cc8",
+    "rows": 907
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x2fcc020f72e5d2edd2a24d04f3dc90d7fdfbd1dd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x2fcc020f72e5d2edd2a24d04f3dc90d7fdfbd1dd.json",
+    "sha256": "64d4e69b91b85d52d9da0f9f731f1ce9d8e17c322749586f19430917a81d060d",
+    "rows": 232
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x92662d5f5d0dbc25cce7ceba5a4160084c9e05ab.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x92662d5f5d0dbc25cce7ceba5a4160084c9e05ab.json",
+    "sha256": "bedec4ff6f7d9f1ed88ff76a42fae2f3df331ddf623f4f45aeda1b3232fb5f11",
+    "rows": 151
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a.json",
+    "sha256": "35ad007d11b05fffe4a6c7a4ad2847528466e76f696f758732aa136ded0afd97",
+    "rows": 16420
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x9f6ae0370d74f0e591c64cec4a8ae0d627817014.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x9f6ae0370d74f0e591c64cec4a8ae0d627817014.json",
+    "sha256": "4cd19fd848bc8f564f75a6404e0f7c83037598caef493da61d19079a7ff1622f",
+    "rows": 13
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0x4a30496554ef401e4b687189f7df6efe4b3e0249.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0x4a30496554ef401e4b687189f7df6efe4b3e0249.json",
+    "sha256": "0d468133303394dcafab6a573c06049f7abc5d6ff38ce1ad5a5c35eb5dd217ed",
+    "rows": 13890
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/robinhood/0xa906e7b6c916af437fb81ca312390e9850c3e27a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/robinhood/0xa906e7b6c916af437fb81ca312390e9850c3e27a.json",
+    "sha256": "7d1482f8af018546beb5752a968d3fd727487463ec75b0d7e7acea4f09144720",
+    "rows": 60
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xceb69f6342ece283b2f5c9088ff249b5d0ae66ea.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xceb69f6342ece283b2f5c9088ff249b5d0ae66ea.json",
+    "sha256": "522d834376364507ab63a7151d6f168da6ee13cb3146f40781ca393a17281e7a",
+    "rows": 0
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x51f9d44c65e8da6bce596092dc0d41d07d97968c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x51f9d44c65e8da6bce596092dc0d41d07d97968c.json",
+    "sha256": "eac77559155f44ee7f61c81e2c2b9d7ceca6e9b036d9e185515e922aafff5130",
+    "rows": 18233
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xbee242d3a94420551c65f5b16d9a1c918910cccd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xbee242d3a94420551c65f5b16d9a1c918910cccd.json",
+    "sha256": "939d7d2e56f341eabd51ba65d8b8f21ac53a90bd2e361ce6afcc6b3cc1663d9b",
+    "rows": 5491
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xbac453b9b7f53b35ac906b641925b2f5f2567a89.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xbac453b9b7f53b35ac906b641925b2f5f2567a89.json",
+    "sha256": "a3ac7db6726e951c748b4ea4840a61179c78d338321bb170a58de5e1be44183e",
+    "rows": 670
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcd211569a108fdac74d729ba7358a743a3c2e08d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcd211569a108fdac74d729ba7358a743a3c2e08d.json",
+    "sha256": "114579bb1b1c2d62c25950004d31b33aa7f659be4537a404595d068e9ce6c5c8",
+    "rows": 964
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xa8687a15d4be32cc8f0a8a7b9704a4c3993d9613.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xa8687a15d4be32cc8f0a8a7b9704a4c3993d9613.json",
+    "sha256": "824c7f80770c9b20e9102ee89bfba7675dd1c4895634bb1262b62aa7d9f356ee",
+    "rows": 0
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xc2c6acd377458010713e733e1b21dd6f670d091c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xc2c6acd377458010713e733e1b21dd6f670d091c.json",
+    "sha256": "e251b1dc984e35c2f08d157a0d52733954599cae595dbf04be0dce8e075db63e",
+    "rows": 172
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcf2b7c6bc98bfe0d6138a25a3b6162b51f75e05d.json",
+    "sha256": "64b90cd5953d5b8664ad872d597a357aa312e4e12dc7016943ff7957c11af825",
+    "rows": 948
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x55f3422138e9fed0bd81351bff66c882550002e8.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x55f3422138e9fed0bd81351bff66c882550002e8.json",
+    "sha256": "eebb22e2e233c742683bc5a87490f51eeb1d0fc141ea321ea87f0105f16b8a37",
+    "rows": 593
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x5420ba3a8b8bf5272a20fc24e308d622db304fc6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x5420ba3a8b8bf5272a20fc24e308d622db304fc6.json",
+    "sha256": "b503493f0b97649af14222d273ca7cc5b510c884fee83dda3dda56d3e09a13f6",
+    "rows": 118
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xf907877022b1e61232aca00661d6fb629b356d4c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xf907877022b1e61232aca00661d6fb629b356d4c.json",
+    "sha256": "cef6f99aafe30392577a2012224709a62a7fd35ccca41bf505390b997772ba3e",
+    "rows": 2087
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xa83b73f5644cde337b61da79589f10ea15548811.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xa83b73f5644cde337b61da79589f10ea15548811.json",
+    "sha256": "9c9cfee6ba09cbea77da6756968bf52e372d01019b176bb3501168f1f36fdd1d",
+    "rows": 5468
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xc05ef5e1fd014267f66fa24b260f361af7d79122.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xc05ef5e1fd014267f66fa24b260f361af7d79122.json",
+    "sha256": "b8c36a5aef56012e3c22c60042263d496ca6dd7d3c7a0d5cccaf4d552968460b",
+    "rows": 2482
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xbf004bff64725914ee36d03b87d6965b0ced4903.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xbf004bff64725914ee36d03b87d6965b0ced4903.json",
+    "sha256": "fc55126627239a4d5535125d4b9442e3b3ec7ee3917585f3dd81454d304ce9d9",
+    "rows": 11214
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x2ce9d43d1cba6ae31d7f07bfe0098dfa2d833373.json",
+    "sha256": "c5761a761b0961c4264101a33b5b9e4b41a52de114210526c3222d840f64192c",
+    "rows": 835
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xc5606cde16fb8c39cc68d1d97700883ae951ff56.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xc5606cde16fb8c39cc68d1d97700883ae951ff56.json",
+    "sha256": "cc7ff01d24d439126ce8564348cb182aaa9e45bd82a3ddce8c43d2a036bb3a23",
+    "rows": 202
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x2fcc020f72e5d2edd2a24d04f3dc90d7fdfbd1dd.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x2fcc020f72e5d2edd2a24d04f3dc90d7fdfbd1dd.json",
+    "sha256": "15d485a683afa5a4ee22cdf4a36fcf4dbd5904b0d9d1750b198fd5974c979d69",
+    "rows": 1611
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x5865363bb04450ab313dcd2e71a189efb3c31e41.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x5865363bb04450ab313dcd2e71a189efb3c31e41.json",
+    "sha256": "3ea8869e02a96a8f48e53c44304451a192411ea3f61d11b0e0677180b320bf33",
+    "rows": 103
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xfcdfda023f727dafa35e8ee2715bcd7411c86b21.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xfcdfda023f727dafa35e8ee2715bcd7411c86b21.json",
+    "sha256": "68b730f1e2c5ff11e9383c42626c58446d3db7720e6f13d4460d24e97d8dc8de",
+    "rows": 541
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x176f3dab24a159341c0509bb36b833e7fdd0a132.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x176f3dab24a159341c0509bb36b833e7fdd0a132.json",
+    "sha256": "50b4c2fd13d3740e328ec7ad3b30446dfdcde5e4b7cef98df087c32464e2ba36",
+    "rows": 29
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x3e40d73eb977dc6a537af587d48316fee66e9c8c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x3e40d73eb977dc6a537af587d48316fee66e9c8c.json",
+    "sha256": "6d1e87ab64aa6f03ad812aac1557c736860d3faf750c078025cd4ecd8bcf5c74",
+    "rows": 0
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x6bba7df6971127cb15fd78fdebe33eeff5a6dd59.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x6bba7df6971127cb15fd78fdebe33eeff5a6dd59.json",
+    "sha256": "1d058bb07f5a1a5fa735464fbb9d909c595b31e377c34c928aaadb5ede224dfc",
+    "rows": 208
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x1d4b9b250b1bd41daa35d94bf9204ec1b0494ee3.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x1d4b9b250b1bd41daa35d94bf9204ec1b0494ee3.json",
+    "sha256": "f57e1c861792fae77859fb72007a456fef96bd002a45cb8a0695b01d5c0882e4",
+    "rows": 430
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x3472ccf6209925204b9cf352171ee150904fda7e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x3472ccf6209925204b9cf352171ee150904fda7e.json",
+    "sha256": "6ca7387b5e564ed42f87dbceb08dd38a6aa23f79ea44412cda92e11550997e34",
+    "rows": 398
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xe28601398a5448d1147e6e8b0e0c6d686f0d216d.json",
+    "sha256": "66812166104994216a8769e44577b5ec0d7f6f5ceb26ae59fe4dcf5f6fbcde4c",
+    "rows": 1051
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x07f190b1a5776d523a903253a3cf994ae34466bb.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x07f190b1a5776d523a903253a3cf994ae34466bb.json",
+    "sha256": "b9f661d61a5a0064a85860176a29ebc7968536ac5322e430dbaf035fa7edfb15",
+    "rows": 846
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x9dbfded199ee3a6b291c223e65f97d387156aada.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x9dbfded199ee3a6b291c223e65f97d387156aada.json",
+    "sha256": "2bdcfd4baabca6ad6ca029d6b394689f9ca330636451c2a2f662a0fc99077598",
+    "rows": 1189
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x371903abb32f5f69b536b77495e92adedfea25da.json",
+    "sha256": "d07f28750ff31b968047d2560bb5d9c037753e3e43c426b04016c56d955fe1cf",
+    "rows": 1823
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xf591db9dccd5d3aaf8508da2cffedd5ef5bb920f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xf591db9dccd5d3aaf8508da2cffedd5ef5bb920f.json",
+    "sha256": "efd44ac057459f3d5b6e8a9bc949b31b17aa37c59c444c6176d5aa2e97b32d06",
+    "rows": 364
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xeeefff8ce2710fa490e0fcb794235e873c252d2e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xeeefff8ce2710fa490e0fcb794235e873c252d2e.json",
+    "sha256": "34f6a747dc8ee500ea7063b56559bd2d4626aec473be546721a5118a18610292",
+    "rows": 834
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xed39b6c67d05a5747e244bb8f938efd946559c27.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xed39b6c67d05a5747e244bb8f938efd946559c27.json",
+    "sha256": "5298158836045abf2148b73c98908285642150cf6c5dad1eba73db86b1cc422e",
+    "rows": 206
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x023ab8e20a4682d315daef4c91db96bd77934d66.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x023ab8e20a4682d315daef4c91db96bd77934d66.json",
+    "sha256": "352a79ef318e84af3e0acb013e619452cc38d82ca0fec5799d256f43b5d0635a",
+    "rows": 6924
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x04624c07e901e977daf6611a4a6724a00b5eb994.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x04624c07e901e977daf6611a4a6724a00b5eb994.json",
+    "sha256": "ab9d44a60ba53b612baddc67815fd19140e40ce7a62935cff655014ad9891fcd",
+    "rows": 401
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xc615a99ff6954678a76ddff424fb52c2563026a1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xc615a99ff6954678a76ddff424fb52c2563026a1.json",
+    "sha256": "e857e41198d4251b36fb9da345b3da8c6a2d03f978cf19bd193b726c9eabb1fc",
+    "rows": 4409
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcc291dcd83bd9f2600cca4d65ae3b724eaf4f5a9.json",
+    "sha256": "4625bee2e68ef14f6680485b6d9f4efa9b14eded64426f86a78a38018f1a1dee",
+    "rows": 36
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x150952108f28dcaf4e4542090e67cd2696563944.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x150952108f28dcaf4e4542090e67cd2696563944.json",
+    "sha256": "3e812ef7d8dbdacee8b9a3ee67a176c57d177701b9556a6307714b33e00ca19f",
+    "rows": 671
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x62e5332dcb286f1753d245707c91a38821bb5645.json",
+    "sha256": "84c964d807f3e77ccdfdbf0048859a499ef88ca03632198cace3f008511b484e",
+    "rows": 407
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x53d5479bf3943c6f9f8360f1a45016c639095b57.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x53d5479bf3943c6f9f8360f1a45016c639095b57.json",
+    "sha256": "eef74840b4ac17a45d64ed0a2adf7b942232e01b9394f3ec8f31e49479c7d8fb",
+    "rows": 262
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x3c86d511803afb9b7478a15527274f9b464bab89.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x3c86d511803afb9b7478a15527274f9b464bab89.json",
+    "sha256": "4d3992ed6271725b2f13e2ffeb63a5d87158cb3a972f1f9379303b122e2a713c",
+    "rows": 881
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcc32727cb42740e6a4f0f9c8bf0eba584d9bd377.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcc32727cb42740e6a4f0f9c8bf0eba584d9bd377.json",
+    "sha256": "01f0ff1c661bdee68434ae13a35306066688d0490b1a689d0e0cf276f2dd4355",
+    "rows": 349
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x4883d497b43e981cffa0c15c0008e0c9413af57a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x4883d497b43e981cffa0c15c0008e0c9413af57a.json",
+    "sha256": "8daa645887311527797cb683020837aa7a97fac3c5c353a92dd58d867495c3eb",
+    "rows": 885
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x90a48d5cf7343b08da12e067680b4c6dbfe551be.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x90a48d5cf7343b08da12e067680b4c6dbfe551be.json",
+    "sha256": "03d7d4458a100e2bd02c7f24b7260213150250ad2ef5382dfabd6ffb2c26bca0",
+    "rows": 4
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x0deaa831df697157d33928af09eee9a7f4d58d2b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x0deaa831df697157d33928af09eee9a7f4d58d2b.json",
+    "sha256": "98fa480afda5affcd1bb71dd2d1cf0d74b27eb6392313cb6484e3b6eb9bb847f",
+    "rows": 3664
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x7e8fb0392542812476d9f2d0d71c01d1fa0776c5.json",
+    "sha256": "7feb9941c3a99e1df889e1a59d1afb7d8602a01b696e0ac3cb6c2c599185f1e1",
+    "rows": 996
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xe1412eb3a56502c5322eddf4fd6b63097fe9f08e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xe1412eb3a56502c5322eddf4fd6b63097fe9f08e.json",
+    "sha256": "496beb28055d633c25f3fd79d5747f6062e571bf6e50024f6610435b093af5dc",
+    "rows": 296
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x61fd0d043d519f5a2bd05785000f30db96809429.json",
+    "sha256": "8cd30b5f892dbfc61888c2c7ab9cf6e18e438904214bb56c41575e9982fa82c5",
+    "rows": 650
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x8295935703d543a6db78b9eede2f67f7d43b8622.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x8295935703d543a6db78b9eede2f67f7d43b8622.json",
+    "sha256": "2a4d7c3f6460e367984c8211399332ef718cb2c80def70e09c7409289863f54b",
+    "rows": 609
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x7b9761145ef55f33dfcd514f1e20f5313da978af.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x7b9761145ef55f33dfcd514f1e20f5313da978af.json",
+    "sha256": "7d42f3b2d07ed3f28d6e318afa074c0cd11547d25c6e9355602a45fc5704b67b",
+    "rows": 19
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x28aa4f9ffe21365473b64c161b566c3cdead0108.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x28aa4f9ffe21365473b64c161b566c3cdead0108.json",
+    "sha256": "b7be37a38be6ca43d03406b70bbe4db6e72d11b300f2403e4d430f3b42765316",
+    "rows": 664
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x40c20da8d0214a7ef33a84e287992858db744e6d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x40c20da8d0214a7ef33a84e287992858db744e6d.json",
+    "sha256": "50999961529e0808035760d8fb7191775eb7a5c8a28662fac9a2f0cbf559cb63",
+    "rows": 16
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x1837e2cfc622a72368ed835c1a98fcfc5de42b0f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x1837e2cfc622a72368ed835c1a98fcfc5de42b0f.json",
+    "sha256": "f4ca925ff2f0d54abb630899a5b2eef2dff5c4a82c31e965ffe35a524e513ec3",
+    "rows": 4909
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcce7222e9b9fec1ebf52d62a9da692b88090f30b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcce7222e9b9fec1ebf52d62a9da692b88090f30b.json",
+    "sha256": "f2b2b1758b79ddf7642eebb2e208fa49407f6588563afeec651b85409e1f8aad",
+    "rows": 284
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x1ef31175603fb0b3f0c699a8bf0d19c0293ba5f1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x1ef31175603fb0b3f0c699a8bf0d19c0293ba5f1.json",
+    "sha256": "c62617c1cb2139b79adffec8c0a18099f9da0ff69474dd289c09ebe1b1c24ddf",
+    "rows": 526
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xe1e3252b8b2f9bf2a8335389ba8ee62e6ea29407.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xe1e3252b8b2f9bf2a8335389ba8ee62e6ea29407.json",
+    "sha256": "9e9f6ea94115ff9438e0187c344dcd2d8587df15da55e5776ec62394dc89b3dd",
+    "rows": 120
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xafba765e49a4545569e955f6c4baba12e427bf64.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xafba765e49a4545569e955f6c4baba12e427bf64.json",
+    "sha256": "d1e3069947365935cca274751f89c06831ee07691b1d0d18aa82efbe188d7356",
+    "rows": 1063
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x31903817736130538a8805ff9dcdea22a6c7ef79.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x31903817736130538a8805ff9dcdea22a6c7ef79.json",
+    "sha256": "d12cc41165a450029c781f9a8d1e303fd2214843d277e60073bc04b481a758ee",
+    "rows": 336
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xfe0dd0e80997bce29ee3d7a677c4c7a250d5b144.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xfe0dd0e80997bce29ee3d7a677c4c7a250d5b144.json",
+    "sha256": "66ba151660d1faf1cf2c2cf88fc7666a0d656ddb69eee1def2c5786bbcd7f60a",
+    "rows": 7676
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x9e9bf387358c49a8feb950b71bef898ff2bfee6b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x9e9bf387358c49a8feb950b71bef898ff2bfee6b.json",
+    "sha256": "72ac5e56ca397864553cc06d287f532afa5ea49177bb48dcb2507bcf13c20d34",
+    "rows": 103
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x7a2363a401b2340c7941dd2eeff0196a5078d2e6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x7a2363a401b2340c7941dd2eeff0196a5078d2e6.json",
+    "sha256": "a2ca607594ddce05750a8f94ef098ccd6314f196415df931b346e2800bc2d536",
+    "rows": 3386
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x18a25fb8f7fae25dedeb501f19b0ae333c095810.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x18a25fb8f7fae25dedeb501f19b0ae333c095810.json",
+    "sha256": "913e24ed63472d838d4ff81d073f1c151a04e6488f2d66517f1c31add6dd6edf",
+    "rows": 2793
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x0f84d2da979180394fbf9c4499febd0f602a6767.json",
+    "sha256": "253a2711f2ad206fa3f1fa5e38fbdcd12ff939c43b5c12694fa3a17f5cf8ca73",
+    "rows": 1868
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x0b3edd0d0bf7c6281a7f8ae5a5630defb94ae78e.json",
+    "sha256": "9ea68da422d11bb5c1bbebf5e6405ac1b14b3a88fefddefbba9f1bbe15ffc388",
+    "rows": 308
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xb2d1af0746c410e146272e804b1741f07f83b851.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xb2d1af0746c410e146272e804b1741f07f83b851.json",
+    "sha256": "fabbb452b09d04b05d3f53dfd3f2e670ea3e763a7930ec467b7c78f8dceb3bda",
+    "rows": 310
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xba4e1050d4615465cffcfa274d89984ea3bb27c9.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xba4e1050d4615465cffcfa274d89984ea3bb27c9.json",
+    "sha256": "355e47e0523779f110c6487d4d672c5459dc5dfb1a708c38dfb6872c0c4cefeb",
+    "rows": 1807
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x000c1fa092591c77c86e3ebd39a4b82f52171111.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x000c1fa092591c77c86e3ebd39a4b82f52171111.json",
+    "sha256": "3e8661dd0abdef3dc8ab02687c329d2082da8c716a15cdee19ee65443df4d902",
+    "rows": 555
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xf41f0813e3e8670eac65d781adc91cc54525ad68.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xf41f0813e3e8670eac65d781adc91cc54525ad68.json",
+    "sha256": "3378b7f50629f480c345211b2326766fef69725deec0588bbbf8f7f18814d8ce",
+    "rows": 152
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x409185f31188ba48414f104ca19993c009bc9e64.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x409185f31188ba48414f104ca19993c009bc9e64.json",
+    "sha256": "493de91f8edb6490d5d096c4e2c7912fa42305ebbf1db71a2b6d1b569fa260fd",
+    "rows": 869
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x011d19410fc79f140c08ffa8301e4153f17f4e27.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x011d19410fc79f140c08ffa8301e4153f17f4e27.json",
+    "sha256": "f324b499f6b16e24c5b55d1d7ec091dee8c027142169289c456bede14e418ff7",
+    "rows": 0
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x10a19e7ee7d7f8a52822f6817de8ea18204f2e4f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x10a19e7ee7d7f8a52822f6817de8ea18204f2e4f.json",
+    "sha256": "880e96c40ae430cabbfd120a7345a2b1d367e0cd6e258c390082552d06db13f2",
+    "rows": 0
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xacd0cea3607626a6198bbb50718eb84ee7e5799d.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xacd0cea3607626a6198bbb50718eb84ee7e5799d.json",
+    "sha256": "662000a64abc249e53be5bc6a5df331313766e97572b0722fdaaa67680a2d424",
+    "rows": 657
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xad6eaa735d9df3d7696fd03984379dae02ed8862.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xad6eaa735d9df3d7696fd03984379dae02ed8862.json",
+    "sha256": "359eca68d59a3fc7a3c51f0ed66aca1860f29aef5b22e0ab4925cfd98119c518",
+    "rows": 0
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xbe07d37e54bb57fd2053036f44e6046f3bfb1954.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xbe07d37e54bb57fd2053036f44e6046f3bfb1954.json",
+    "sha256": "ad7dbeec8cf1259327698f9f272d9adab50c79b549d24f828c792d5976a7a145",
+    "rows": 2068
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x05c17ffad91bbd8e07bb896c15b792e073686183.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x05c17ffad91bbd8e07bb896c15b792e073686183.json",
+    "sha256": "9f25e553785513531ffa22dd2153dc8a427495d14a8c9e9acbefb0988b5c88d4",
+    "rows": 29
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x54632df3db2f9203caeffe46dd9ae9360b1eb200.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x54632df3db2f9203caeffe46dd9ae9360b1eb200.json",
+    "sha256": "9ed7c621e9cd218c1af20bd0591b51041604dacca476256a3a056eb70bc1165f",
+    "rows": 960
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x9a9937d0b41931a5ad0c9cfda9ca79b9a78bdad6.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x9a9937d0b41931a5ad0c9cfda9ca79b9a78bdad6.json",
+    "sha256": "fb62ff5e1f747b0845e12adbac4d1e12a94227bfc549b22903da7f25c7f126df",
+    "rows": 748
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xdf2a8e398b97899ecda4db93bb00eee386338d3a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xdf2a8e398b97899ecda4db93bb00eee386338d3a.json",
+    "sha256": "2c087e546f3b68af8fe70530e96fc5cbd05ff1310a3de92df95e5103724e7ebc",
+    "rows": 90
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x5f9bc316d8473d8c6634bd26f3e0932cd6bf0718.json",
+    "sha256": "9f749ddfbe545f0af0425f5787740535c863c1211d89c3bf03ef30ee07c60620",
+    "rows": 63
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x69c509e9765c49cc6b9b4568b90aa47b89f4992f.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x69c509e9765c49cc6b9b4568b90aa47b89f4992f.json",
+    "sha256": "7e9c48530f9d0070aff85e3f2a26604132e98969573e95952a1534452fc6e7b7",
+    "rows": 151
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xc84248de43b69297e56366a26c812146628aca16.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xc84248de43b69297e56366a26c812146628aca16.json",
+    "sha256": "ba951f9d8fa7180b0c8870132c688d84b35c58685d6d05243eb3fcb3027e9243",
+    "rows": 671
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcae4ccfe670f8c2a4999f9dfaf44625110fce9e5.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcae4ccfe670f8c2a4999f9dfaf44625110fce9e5.json",
+    "sha256": "fbb34646519fff4391aed6bf37886e0e730248d931190cfaa448795046d77cd7",
+    "rows": 76
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xd77eb80f38fec10d87a192d07329415173307e93.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xd77eb80f38fec10d87a192d07329415173307e93.json",
+    "sha256": "01103f699e765120148021d0949f11287d54502e79a202b3bf1ef382bfa5b3bd",
+    "rows": 658
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x2c26f58bba087d83c43c19b4761042320c5beaf4.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x2c26f58bba087d83c43c19b4761042320c5beaf4.json",
+    "sha256": "597506b03e814af5a055e81173faa06068f2bd3f39fd1f6adfe46e60415acd5f",
+    "rows": 343
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x758e83c114e36a28ca1f31c4d2adb5ec7c04c578.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x758e83c114e36a28ca1f31c4d2adb5ec7c04c578.json",
+    "sha256": "74f80c2dc55b8c67a1aeaff4ee8903b33c06eaf2b2acca576f93860ab7207eb1",
+    "rows": 1721
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xd41feaa24dede516a501862cf1f376defb811772.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xd41feaa24dede516a501862cf1f376defb811772.json",
+    "sha256": "3c9f0d4da838a0445c5bee2c1938f911b13cefe656562c6924898eaea8a83b8a",
+    "rows": 425
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xd2ef10da66727627c68bed148e881c923c1baa77.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xd2ef10da66727627c68bed148e881c923c1baa77.json",
+    "sha256": "c5984fee2afd4aee58561d08587841c934f6e18cef6564d3e6563be84975d353",
+    "rows": 105
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xac024b7fdf80c2a949619a2543f4ec8f1b48c7e0.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xac024b7fdf80c2a949619a2543f4ec8f1b48c7e0.json",
+    "sha256": "d4582c6b18f32119ba7d7e2d6cab98d164077c5a75dfd88cb6b05952fa60d59f",
+    "rows": 1504
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x636aa161f4924a0dbce40413a99c896250bc87a7.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x636aa161f4924a0dbce40413a99c896250bc87a7.json",
+    "sha256": "f30b43039e4905b0e0fbb8f4caab38410cb5a328671513a32475259dc0c92fdd",
+    "rows": 1183
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xa8b63e1408e8e607d4cf48e6e3b14bb881b2010e.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xa8b63e1408e8e607d4cf48e6e3b14bb881b2010e.json",
+    "sha256": "008abe7d398a933a156f1d40ffe1400842747cf5f36266ca8816404bd57b5abc",
+    "rows": 213
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x574793c29e7013b985dfccf0e3639456769c8108.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x574793c29e7013b985dfccf0e3639456769c8108.json",
+    "sha256": "9453548ac0b6a6ddb7c30947eb20f966db3c3678c054edf8aaf11d0d55d7422c",
+    "rows": 2716
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x57825f68fc7b32eaaa1e90db1fd6cd997b5a4035.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x57825f68fc7b32eaaa1e90db1fd6cd997b5a4035.json",
+    "sha256": "b39247e98f6aabf88572c50c5cffa85b94a5e394450ac5542f20d8381b82470f",
+    "rows": 407
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x0e724d66a9417be196bf97973e7bd7b079a4563a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x0e724d66a9417be196bf97973e7bd7b079a4563a.json",
+    "sha256": "97a3303189269a3dfbde521681e6d49e54f426fe4e149d616a98c27d06bcf7c5",
+    "rows": 3212
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x473d3a2005499301dc353afa9d0c9c5980b5188c.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x473d3a2005499301dc353afa9d0c9c5980b5188c.json",
+    "sha256": "e3d3defe4ff7b12afd250751b9337bf5cae54f6c1ebc810c5660f49b201eee9e",
+    "rows": 764
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x53c60e312c7f3d9fc15c7c021c6348364f1bafd1.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x53c60e312c7f3d9fc15c7c021c6348364f1bafd1.json",
+    "sha256": "2a53ea9ac138e8416f03ed97e0098b2e0ff237ab15a70ae2e42771343d734244",
+    "rows": 78
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x4ee12c95dea425d7c1d8e3f0239416a128a68a68.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x4ee12c95dea425d7c1d8e3f0239416a128a68a68.json",
+    "sha256": "336990648ac1b6b05af87d006265c2431a11529a30778570db07d900b5d3cabf",
+    "rows": 620
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xad40395bd7af5a13bb9040975e5f0caa754c0b00.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xad40395bd7af5a13bb9040975e5f0caa754c0b00.json",
+    "sha256": "2962382c2761a3b26893bb377f9aed9ca7b8fb3a8043f877b977ace86d41e688",
+    "rows": 664
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xe3210627730c8e14d6bf2117eab28de531650111.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xe3210627730c8e14d6bf2117eab28de531650111.json",
+    "sha256": "1bde9739df4367f621602ba5feeadba61ccd362ac4166fac6a18ca3a0e04b1bf",
+    "rows": 61
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xcc7b0969e8f622d8435b4ba34a47d70788e87a92.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xcc7b0969e8f622d8435b4ba34a47d70788e87a92.json",
+    "sha256": "6bca1333b232d934af95fa283edb511e64c7bd54a043c68acff9ded3b5d41e4d",
+    "rows": 110
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x47274cc4b6519a655033ddafc9357d662de876b2.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x47274cc4b6519a655033ddafc9357d662de876b2.json",
+    "sha256": "b6b178e31c3646d967991b7f9ecf8766ff60afd694da11fdcb3b59f0cf56dc99",
+    "rows": 70
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0xf38ce55fe4e517e77e1056a54e64f22d43d88c3a.json",
+    "sha256": "b244b2ec79ce606666cd5d2a3b1072e6cae9f01f7a06896cd2da08110df2f146",
+    "rows": 264
+  },
+  {
+    "path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/data/ready/inputs/eth/0x8e1a4ff101fc5dc0677f1ee4a8b6100af7738c9b.json",
+    "original_path": "/Users/wallanceleon/Desktop/gmgn-top100-traders/v2_batch/data/eth/0x8e1a4ff101fc5dc0677f1ee4a8b6100af7738c9b.json",
+    "sha256": "cf05810621945744d65116a6a4511853276a56d79415126b5584530ec3298cec",
+    "rows": 610
+  }
+]
