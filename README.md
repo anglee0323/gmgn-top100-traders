@@ -7,11 +7,15 @@
 |---|---|
 |v2_batch/receipts/链/钱包/|原始分页回执及manifest、成功/失败状态和续游标|
 |v2_batch/data/链/钱包.json|已整理来源活动与范围metadata|
-|data/ready/cohort.json|固定500角色与原名单SHA256|
-|data/ready/events.parquet|全部有效来源活动，保留完整原行|
-|data/ready/trades.parquet|仅来源buy/sell|
-|data/ready/coverage.csv / json|每链钱包真实页数、行数、终点/续游标/错误|
-|data/ready/inputs.json|来源文件字节SHA256与行数|
+|data/ready_provider_complete_20261012T213405Z/cohort.json|固定500角色与原名单SHA256|
+|data/ready_provider_complete_20261012T213405Z/events.parquet|全部有效来源活动，保留完整原行|
+|data/ready_provider_complete_20261012T213405Z/trades.parquet|仅来源buy/sell|
+|data/ready_provider_complete_20261012T213405Z/coverage.csv / json|每链钱包真实页数、行数、终点/续游标/错误|
+|data/ready_provider_complete_20261012T213405Z/inputs.json|来源文件字节SHA256与行数|
+
+主活动固定表已验收：500个原链钱包来源均有实际成功终页；events.parquet共6872331条来源活动，trades.parquet共6794248条来源buy/sell。较早的data/ready目录不作为当前主表入口。
+
+已完成的当前Sol余额组件位于`data/ready_final_original_cohorts_v1/sol_holdings/`，258627条可读余额记录，100个Sol钱包的native/SPL/Token2022各自来源与观察时间保留。它是当前余额，不是历史本金。补充历史的联合最终目录仍在组装，不能据此称全链历史已经完整。
 
 API终页只证明该来源不再给续游标，不等于所有链上历史已齐。原始活动不等于独立经济交易数。
 公开链索引与Solana RPC补采记录仍分来源存放；不得用当前汇率当历史价格，或把native费写成美元。

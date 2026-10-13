@@ -24,9 +24,9 @@
 
 ```python
 import pandas as pd
-trades = pd.read_parquet('data/ready/trades.parquet',
+trades = pd.read_parquet('data/ready_provider_complete_20261012T213405Z/trades.parquet',
     columns=['wallet', 'chain', 'timestamp_utc', 'event_type', 'asset_address', 'token_amount_provider'])
-coverage = pd.read_csv('data/ready/coverage.csv')
+coverage = pd.read_csv('data/ready_provider_complete_20261012T213405Z/coverage.csv')
 ```
 
 买卖表为精简查询表；完整 `raw_json` 在 events.parquet，源字段还可通过source_path/source_pointer回放。
