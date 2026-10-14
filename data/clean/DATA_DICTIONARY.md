@@ -9,4 +9,4 @@
 - source_path相对于本目录；先解压其gzip存储层得到原始文件字节并核对source_sha256。如果原文件本身是gzip，再解压，按source_pointer读取JSON。evidence/index.json同时记录存储层与原字节SHA。
 - coverage中pages/continuation/source_eof/earliest_utc/latest_utc为本来源范围；成功终页原始回执在terminal_receipt_path。缺失不作0，空来源不证明链上无交易。
 - ETH独立索引保留record_id/source/memberships_json/log或调用字段、raw数量/decimals/fee_currency等；token Transfer不是独立买卖，internal调用value不自动当已结算转账，UserOp不等于外层交易。
-- trades是events的buy/sell子集；不同来源表不能相加计算独立交易笔数。
+- buy/sell作为events筛选视图使用，不重复存同一批行；不同来源表不能相加计算独立交易笔数。

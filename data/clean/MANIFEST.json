@@ -21,11 +21,6 @@
       "bytes": 1952578468,
       "sha256": "66e554542175918de7ef2272591263659e14cc8355c734d616dc1bfe59b3ec99"
     },
-    "trades.parquet": {
-      "rows": 6794248,
-      "bytes": 910516601,
-      "sha256": "8f5c30b483577a2c8dc15ca367ab411dbb699d1f78c78a4dc1347ea74bbbb7c3"
-    },
     "ethereum_index/ethereum_internal_transactions.parquet": {
       "rows": 45033,
       "bytes": 6583077,
@@ -47,5 +42,13 @@
       "sha256": "3e2458ef923e941b63ed0cf407cdef70b5eb5c889e69a71b075f502182a8493e"
     }
   },
-  "successful_terminal_receipts_preserved": 500
+  "successful_terminal_receipts_preserved": 500,
+  "derived_views": {
+    "buy_sell": {
+      "source": "events.parquet",
+      "filter": "event_type in ('buy', 'sell')",
+      "rows": 6794248,
+      "ordered_event_id_sha256": "e080a4ae7c54aa4b68968074ffc4c2baca1e52e988e6e5dce4e04f3cb7b2ed88"
+    }
+  }
 }

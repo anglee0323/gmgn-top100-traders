@@ -17,7 +17,6 @@ uv run --no-project python download_data.py
 |文件|记录数|含义|
 |---|---:|---|
 |events.parquet|6872331|有效来源活动，保留原行|
-|trades.parquet|6794248|上述活动中的来源buy/sell观察，不能与events相加|
 |ethereum_index/ethereum_transactions.parquet|626129|独立ETH普通交易索引|
 |ethereum_index/ethereum_token_transfers.parquet|675152|ETH资产转移索引|
 |ethereum_index/ethereum_internal_transactions.parquet|45033|ETH内部调用索引|
@@ -34,3 +33,10 @@ uv run --no-project python download_data.py
 字段见`DATA_DICTIONARY.md`，文件摘要与实际校验见`MANIFEST.json`、`ACCEPTANCE.json`。
 
 下次采集用[采集仓库](https://github.com/anglee0323/smart-money-dataset-builder)的同一分页流程，EVM和Sol均按原链钱包翻页；不会自动替换名单。
+
+买卖观察6794248条是events的完全子集，已逐条核对event_id顺序与摘要，删除约911MB重复物理表。需要时直接筛选：
+
+```python
+import pandas as pd
+buys_and_sells = pd.read_parquet('data/clean/events.parquet', filters=[('event_type', 'in', ['buy', 'sell'])])
+```
