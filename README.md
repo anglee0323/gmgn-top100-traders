@@ -1,24 +1,20 @@
-# GMGN 五链固定Top100数据
+# GMGN 固定五链Top100数据
 
-原五链sol/bsc/base/eth/robinhood各30d已实现美元利润Top100，共500链钱包角色、409地址字符串；不是500个人。
-榜单时点与活动下载时点分别保留，不更新榜单替换账户。
+最终主表入口：data/ready_provider_complete_20261012T213405Z/。
+原sol/bsc/base/eth/robinhood各100，共500链钱包角色、409地址字符串；名单未变，不能解释为500个人。
 
-|位置|用途|
+|文件|内容|
 |---|---|
-|v2_batch/receipts/链/钱包/|原始分页回执及manifest、成功/失败状态和续游标|
-|v2_batch/data/链/钱包.json|已整理来源活动与范围metadata|
-|data/ready_provider_complete_20261012T213405Z/cohort.json|固定500角色与原名单SHA256|
-|data/ready_provider_complete_20261012T213405Z/events.parquet|全部有效来源活动，保留完整原行|
-|data/ready_provider_complete_20261012T213405Z/trades.parquet|仅来源buy/sell|
-|data/ready_provider_complete_20261012T213405Z/coverage.csv / json|每链钱包真实页数、行数、终点/续游标/错误|
-|data/ready_provider_complete_20261012T213405Z/inputs.json|来源文件字节SHA256与行数|
+|events.parquet|6872331条有效来源活动，保留原行|
+|trades.parquet|6794248条来源buy/sell记录|
+|coverage.csv/json|每钱包真实页数、最早/最新时间、空返回与来源终点|
+|cohort.json|原500角色与榜单时点|
+|inputs.json、inputs/|固定来源与SHA256回放|
 
-主活动固定表已验收：500个原链钱包来源均有实际成功终页；events.parquet共6872331条来源活动，trades.parquet共6794248条来源buy/sell。较早的data/ready目录不作为当前主表入口。
+500个原钱包来源均有成功终页，其中6个ETH返回空。每钱包的范围以coverage为准；按各链整体最早可见记录：Sol2025-10-10、BSC2024-11-25、Base2024-05-31、ETH2021-07-16、Robinhood2026-07-03。这些是各链极值，不是每个钱包都覆盖该日期。
+活动总体最新记录在2026-10-11；原排行约2026-10-11 17:38UTC，下载/整理时间分别记录，未把整理日期冒充最新交易时间。
 
-已完成的当前Sol余额组件位于`data/ready_final_original_cohorts_v1/sol_holdings/`，258627条可读余额记录，100个Sol钱包的native/SPL/Token2022各自来源与观察时间保留。它是当前余额，不是历史本金。补充历史的联合最终目录仍在组装，不能据此称全链历史已经完整。
+[data/ready_final_original_cohorts_v1/ethereum_index/](data/ready_final_original_cohorts_v1/ethereum_index/)是已存的独立ETH普通/转账/internal/UserOp补充源，不能与活动表直接相加成交易数。31个内部调用索引仍保留真实错误及续页，6个主来源空返回和这31项详见[DATA_GAPS.csv](DATA_GAPS.csv)。
 
-API终页只证明该来源不再给续游标，不等于所有链上历史已齐。原始活动不等于独立经济交易数。
-已验收的`data/ready_final_original_cohorts_v1/ethereum_index/`包含1346437条实际来源记录：普通交易626129、代币转账675152、内部调用45033、UserOp123。原100个ETH钱包的普通交易、代币转账及UserOp均到来源末页；内部调用69来源末页、31接口错误保留续页。`chain_inputs.json`、`chain_coverage.json`及四张Parquet表按组件相对路径回放，来源EOF不证明链上所有历史。
-
-公开链索引与Solana RPC补采记录仍分来源存放；不得用当前汇率当历史价格，或把native费写成美元。
-本地大表/raw不提交GitHub；元数据、范围和数据字典可同步。字段与读取见 [DATA_DICTIONARY.md](DATA_DICTIONARY.md)。
+接口终页仅证明该来源结束，未证明链创世以来所有类型的历史或全部费用。资金周转、现有余额、第一条可见交易均不是历史本金。
+旧原始分页回执在v2_batch/receipts/，按SHA回放保留；较早data/ready不是当前入口。大表/raw只存本机，Git同步范围和说明。
