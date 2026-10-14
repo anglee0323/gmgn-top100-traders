@@ -1,0 +1,35 @@
+{
+  "status": "validated",
+  "snapshot_date": "2026-10-14",
+  "table_sha256_verified": true,
+  "table_row_counts_verified": true,
+  "source_files_sha256_verified": 28461,
+  "source_references_relative_to_dataset": true,
+  "source_pointer_samples_verified": true,
+  "all_chain_history_complete": false,
+  "analysis_example_executed": true,
+  "ml_numeric_matrix_finite": true,
+  "table_count": 6,
+  "primary_keys_verified": {
+    "events.parquet": [
+      "account_id",
+      "event_id"
+    ],
+    "ethereum_index/ethereum_internal_transactions.parquet": [
+      "record_id"
+    ],
+    "ethereum_index/ethereum_token_transfers.parquet": [
+      "record_id"
+    ],
+    "ethereum_index/ethereum_transactions.parquet": [
+      "record_id"
+    ],
+    "ethereum_index/ethereum_user_operations.parquet": [
+      "record_id"
+    ],
+    "account_features.parquet": [
+      "account_id",
+      "chain"
+    ]
+  }
+}

@@ -9,11 +9,10 @@
   "all_chain_history_complete": false,
   "missing_known_evm_receipts": null,
   "coverage_rows": 500,
-  "gap_rows": 37,
   "evidence_files": 28461,
   "evidence_original_bytes": 16046566250,
   "evidence_stored_bytes": 2034777735,
-  "source_path_base": "data/clean, not the current working directory",
+  "source_path_base": "dataset root",
   "evidence_format": "gzip decompress once -> original bytes, verify source_sha256, then decode source gzip if necessary and apply JSON pointer",
   "tables": {
     "events.parquet": {
@@ -40,6 +39,11 @@
       "rows": 123,
       "bytes": 31665,
       "sha256": "3e2458ef923e941b63ed0cf407cdef70b5eb5c889e69a71b075f502182a8493e"
+    },
+    "account_features.parquet": {
+      "rows": 500,
+      "bytes": 66197,
+      "sha256": "d32495b0605a959f0c2b92e3711adf1fc6a09e5c71ca60f57b19f914df0f732b"
     }
   },
   "successful_terminal_receipts_preserved": 500,
@@ -50,5 +54,12 @@
       "rows": 6794248,
       "ordered_event_id_sha256": "e080a4ae7c54aa4b68968074ffc4c2baca1e52e988e6e5dce4e04f3cb7b2ed88"
     }
+  },
+  "version": "2026-10-14",
+  "limitation_rows": 37,
+  "analysis_example": {
+    "tables": "examples/analyze.py",
+    "feature_grain": "account and chain",
+    "feature_temporal_scope": "entire observed snapshot; recalculate at decision cutoffs for predictive modeling"
   }
 }
