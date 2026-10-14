@@ -1,0 +1,42 @@
+{
+  "accepted": true,
+  "dataset": "gmgn",
+  "evidence_files_checked": 28461,
+  "table_count": 6,
+  "preserved_business_values": {
+    "events.parquet": "all_rows_and_business_columns_equal",
+    "trades.parquet": "all_rows_and_business_columns_equal",
+    "ethereum_index/ethereum_internal_transactions.parquet": "all_rows_and_business_columns_equal",
+    "ethereum_index/ethereum_token_transfers.parquet": "all_rows_and_business_columns_equal",
+    "ethereum_index/ethereum_transactions.parquet": "all_rows_and_business_columns_equal",
+    "ethereum_index/ethereum_user_operations.parquet": "all_rows_and_business_columns_equal"
+  },
+  "sample_pointer_replays": [
+    {
+      "table": "events.parquet",
+      "pointer_replayed": true
+    },
+    {
+      "table": "trades.parquet",
+      "pointer_replayed": true
+    },
+    {
+      "table": "ethereum_index/ethereum_internal_transactions.parquet",
+      "pointer_replayed": true
+    },
+    {
+      "table": "ethereum_index/ethereum_token_transfers.parquet",
+      "pointer_replayed": true
+    },
+    {
+      "table": "ethereum_index/ethereum_transactions.parquet",
+      "pointer_replayed": true
+    },
+    {
+      "table": "ethereum_index/ethereum_user_operations.parquet",
+      "pointer_replayed": true
+    }
+  ],
+  "all_source_references_portable": true,
+  "all_chain_history_complete": false
+}

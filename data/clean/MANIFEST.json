@@ -1,0 +1,51 @@
+{
+  "dataset": "gmgn",
+  "generated_at_utc": "2026-10-14T09:25:16.969245+00:00",
+  "source_cohort_sha256": "5cd4c7061327e4ce8e1c533e42213a9265dd7e5b78504eb5e339d229d12e2e80",
+  "active_cohort_sha256": "33383403ce336e6a0f4d94e30fd714cdca9de54448660697d80b3203990894b7",
+  "cohort_count": 500,
+  "known_evm_wallets": null,
+  "known_sol_wallets": null,
+  "all_chain_history_complete": false,
+  "missing_known_evm_receipts": null,
+  "coverage_rows": 500,
+  "gap_rows": 37,
+  "evidence_files": 28461,
+  "evidence_original_bytes": 16046566250,
+  "evidence_stored_bytes": 2034777735,
+  "source_path_base": "data/clean, not the current working directory",
+  "evidence_format": "gzip decompress once -> original bytes, verify source_sha256, then decode source gzip if necessary and apply JSON pointer",
+  "tables": {
+    "events.parquet": {
+      "rows": 6872331,
+      "bytes": 1952578468,
+      "sha256": "66e554542175918de7ef2272591263659e14cc8355c734d616dc1bfe59b3ec99"
+    },
+    "trades.parquet": {
+      "rows": 6794248,
+      "bytes": 910516601,
+      "sha256": "8f5c30b483577a2c8dc15ca367ab411dbb699d1f78c78a4dc1347ea74bbbb7c3"
+    },
+    "ethereum_index/ethereum_internal_transactions.parquet": {
+      "rows": 45033,
+      "bytes": 6583077,
+      "sha256": "d6bf7c7d15cc642a4532d81017ee7ebe741359e08ca2a2985bac4d6634d4e64d"
+    },
+    "ethereum_index/ethereum_token_transfers.parquet": {
+      "rows": 675152,
+      "bytes": 204393919,
+      "sha256": "2d836ad5f77d82184ec5def0ddccb22e64711bfc28b04cbcf9a60deb9e74c697"
+    },
+    "ethereum_index/ethereum_transactions.parquet": {
+      "rows": 626129,
+      "bytes": 194702606,
+      "sha256": "14a7d800c81a2483611ec264a46677edd39610dbd42ef9d74ce73a1b206dc414"
+    },
+    "ethereum_index/ethereum_user_operations.parquet": {
+      "rows": 123,
+      "bytes": 31665,
+      "sha256": "3e2458ef923e941b63ed0cf407cdef70b5eb5c889e69a71b075f502182a8493e"
+    }
+  },
+  "successful_terminal_receipts_preserved": 500
+}
